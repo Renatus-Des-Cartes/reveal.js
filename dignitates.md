@@ -10,7 +10,7 @@
     - デカルト哲学において世界から切り離された「近代的自我」が尊厳の主体となる。
     - 宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認めるという「尊大」に成り下がる。
 
-<iframe src="pdfs/1.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="500px"></iframe>
+<iframe src="pdfs1.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="500px"></iframe>
 
 ---
 
