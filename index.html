@@ -1,29 +1,39 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
     <title>デカルトにおける尊厳概念</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/theme/black.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Reveal.js styles -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/theme/black.css" id="theme">
   </head>
   <body>
+
     <div class="reveal">
       <div class="slides">
-        <!-- ✅ 正しいパスに修正 -->
+        <!-- Markdownスライドを読み込む -->
         <section data-markdown="dignitates.md"
                  data-separator="^---$"
                  data-separator-vertical="^--$"
+                 data-separator-notes="^Note:"
                  data-charset="utf-8">
         </section>
       </div>
     </div>
+
+    <!-- Reveal.js scripts -->
     <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/dist/reveal.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.5.0/plugin/markdown/markdown.js"></script>
+
     <script>
       Reveal.initialize({
         hash: true,
+        slideNumber: true,
         plugins: [ RevealMarkdown ]
       });
     </script>
+
   </body>
 </html>
