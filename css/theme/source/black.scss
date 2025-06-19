@@ -38,6 +38,12 @@ $heading2Size: 1.6em;
 $heading3Size: 1.3em;
 $heading4Size: 1.0em;
 
+.reveal .slides .scroll-block {
+  background: #ffffff !important;
+  color: #000000 !important;
+  padding: 1em;
+}
+
 // Change text colors against light slide backgrounds
 @include light-bg-text-color(#222);
 
