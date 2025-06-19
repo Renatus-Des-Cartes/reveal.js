@@ -22,7 +22,7 @@
 - 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ\[8\]。
 - Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している\[9\]。
 
-<div style="height: 350px; overflow-y: auto; overflow-x: hidden; border: 1px solid #ccc; padding: 1em; background: #ffffff; color: #000000; font-size: 80%; line-height: 1.5;">
+<div class="scroll-block" style="max-height: 400px; overflow-y: auto;">
 ［10］Étienne Chauvin (Stephanus Chauvinus), *Lexicon Philosophicum*, 1692.  
 「尊厳」とは、事物のある種の高貴さ、そして卓越性である。それがどこから得られるのか、どのように識別されるのかについては、以下の規則が教えてくれる。  
 第一の規則は論理学のものである。「あるものが他のものよりも高貴であり優れているのは、それがより高貴で優れた種や種差に属している場合である」。たとえば、馬は石よりも高貴である。なぜなら、石は「混合物」という範疇に、馬は「生物」という範疇に属しているからである。これから次のことが帰結すると思われる。すべての元素、あるいは単純物体は〔…〕一方が他方を優勝的に含むわけではなく、したがって尊厳の等しい度合いに置かれる。
