@@ -34,7 +34,14 @@
     - 政治学では、出来事に対処する仕方の「品位」や、それによって帰される「身分」「名声」を指す。
     - 占星術では、惑星がとくに影響力を発揮できるような天球上の場所を指す。
 
-<iframe src="pdfs2.pdf#toolbar=0&navpanes=0&scrollbar=0" width="80%" height="400px"></iframe>
+<iframe 
+  src="https://getupnote.com/share/notes/S8KU0hTrZGVfbtbB5EgorvBdHQz1/0e83eeef-5f02-426b-a9ca-e9ee2264ce38" 
+  width="80%" 
+  height="400px" 
+  style="border: none;" 
+  scrolling="yes">
+</iframe>
+
 
 ---
 
