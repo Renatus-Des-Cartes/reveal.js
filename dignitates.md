@@ -1,4 +1,4 @@
-# デカルトと〈尊厳〉の問題
+# デカルトと〈尊厳〉の問題x
 
 2025年6月27日（金）14時～17時　東洋大学　白山キャンパス  
 学術変革領域A　尊厳学の確立（科研費番号：23A103）  
@@ -52,7 +52,7 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
     - これにより宇宙との一体観は失われ、〈尊厳〉は、自我が自分自身に価値を認めるという「尊大」に成り下がる。
 ※本発表では、〈尊厳〉を、カント的な、人間一般に認められる「内的で絶対的な価値」を指す語として用いる（加藤2017, 14）。
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
 **［1****］金子晴勇（2002****）『ヨーロッパの人間像』知泉書館。**
 一般にデカルトの懐疑は「方法的懐疑」と呼ばれるように、認識の上で絶対的明証に達する方法として遂行されている。それゆえ、彼は疑おうと意志している。もちろん疑うことは「考える」一様式であって、疑う人は必ず考えている。したがって、疑っている行為者自身、つまり「考えている自我」は自証的に在るにしても、観念上の存在に過ぎない。また自我の面前に広がっている世界のすべては「延長」をもって存在しており、それの本質的属性が物体的な「延長」に他ならない。ここから物心二元論が説かれ、デカルト哲学は展開してゆくのであるが、**これまで存在していた宇宙との一体觀は喪失し、宇宙は生命のない単なる認識上の存在となり、宇宙との生命的な関連を断ち切り、自我にのみ中心をもつ近代的な人間が誕生している。こうして「人間の尊厳」は彼においては自我にのみ中心をもつ「尊大」に変質しているのではなかろうか**（金子2002, 164）。
 </div>
@@ -75,7 +75,7 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
 ✅ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語に着目することは、あまり意味がないと思われる。
 - というのも、デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかないからである<sup>\[2–6\]<sup>。
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
     **［****2****］[『規則』「第三規則」](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Posthumes/regulae.xml/regulae_div_1417422235847.html)**
 ところが反対に、確実で明証的なものを運良く発見した場合には、彼ら［古人］はいろいろと迂遠に言い回された曖昧模糊としたものしか提示しようとはしないのである。というのも、彼らの論拠が単純なために**名声**が下がることを彼らが恐れているか、もしくは、明白な真理を彼らがわれわれに出し惜しんでいるか、いずれかのゆえである。
 
@@ -100,7 +100,7 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
 - 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>\[8\]<sup>。
 - Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>\[9\]<sup>。
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
     
 **［****7****］[Rodolphus Goclenius, Lexicon Philosophicum, 1613, p. 337.](https://www.google.co.jp/books/edition/Lexicon_philosophicum/p1pGQLv5f-EC?hl=ja&gbpv=1&dq=dignitas&pg=PA537&printsec=frontcover)**
 Dignitasは、政治学および占星術の語である。政治学では、それは「広大さ」「権威」「名声」を意味する。そしてそれは、人間・事物・事態のいずれにも属するものであり、ギリシア語では ἀξία と呼ばれる。われわれは、「真に善い人は、すべての運命の出来事を節度をもって受けとめ、その人のDignitas（品位・身分）にふさわしい仕方でそれに対処する」などと言う。アリストテレス『ニコマコス倫理学』第1巻の「運命の出来事を立派に耐える」こと。
@@ -126,7 +126,7 @@ Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学
 - また、論理学における「論証されない命題」も “dignitas” と呼ばれる。これは、「信に値する（dignus）」ことから。
     - 「論証されない命題」とは、いかなる命題にも先立たれず、それによってあらゆる命題が論証されるところの命題であり、公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義である。
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
 **［****10****］[Étienne Chauvin (Stephanus Chauvinus), _Lexicon Philosophicum_, 1692](https://www.google.co.jp/books/edition/Lexicon_philosophicum/TaWy6BLfQ-8C?hl=ja&gbpv=1&dq=dignitas&pg=PA186&printsec=frontcover)****.**
 
 「尊厳」とは、事物のある種の高貴さ、そして卓越性である。それがどこから得られるのか、どのように識別されるのかについては、以下の規則が教えてくれる。
@@ -156,7 +156,7 @@ Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学
     - 先入見に支配されていない精神は、これらの真理を、その本有的な認識力でもって明証的に知覚することができる<sup>\[12\]<sup>。
     - つまり、論証によらずに直観的に知られうる。
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
 **［11****］[_Principia_ I, 49](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18), AT VIII-1, 23–24.**    
 
 永遠真理はこのように数えあげることができないし、またその必要もない、ということ。
@@ -177,7 +177,7 @@ Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学
 - また、39項では、「意志の自由」が「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>\[12\]<sup>。
 - 同様に「第二答弁」「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>\[13\]<sup>。
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
 **［13****］[_Principia_ I, 39, AT VIII-1, 19–20.](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18)**
 
 意志の自由は自明である、ということ。
@@ -197,7 +197,7 @@ Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学
 ➡️ **デカルト哲学における「意志の自由」と〈尊厳〉との結びつきを考察する道が拓ける。**
 
 
-<div class="scroll-block" style="max-height: 50vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
 **［15****］[_Passions_, III, 152, AT XI, 445.](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901385.html)**
 
 いかなる根拠によって、ひとは自分を重視しうるか。
