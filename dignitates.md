@@ -63,7 +63,7 @@
 - ✅ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。
 - デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>\[2–6\]</sup>。
 
-<br><br> 
+<p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［<strong><em><em>2</em></strong></em>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Posthumes/regulae.xml/regulae_div_1417422235847.html">『規則』「第三規則」</a></strong></p>
 <p>ところが反対に、確実で明証的なものを運良く発見した場合には、彼ら［古人］はいろいろと迂遠に言い回された曖昧模糊としたものしか提示しようとはしないのである。というのも、彼らの論拠が単純なために<strong>名声</strong>が下がることを彼らが恐れているか、もしくは、明白な真理を彼らがわれわれに出し惜しんでいるか、いずれかのゆえである。</p>
@@ -80,12 +80,10 @@
 ## 1.3　17世紀における「尊厳」という語の用例
 - デカルトにおける「尊厳」という語の使用法は、17世紀の常識に従う。
 - 17世紀初頭のセミラミストGoclenius (1606) によれば、”dignitas” は「政治学」と「占星術」（自然学）の語彙である<sup>\[7\]</sup>。
-    - 政治学では、出来事に対処する仕方の「品位」や、それによって帰される「身分」「名声」を指す。
-    - 占星術では、惑星がとくに影響力を発揮できるような天球上の場所を指す。
 - 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>\[8\]</sup>。
 - Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>\[9\]</sup>。
     
- <br><br> <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
     
 <p><strong>［<strong><em><em>7</em></strong></em>］<a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/p1pGQLv5f-EC?hl=ja&gbpv=1&dq=dignitas&pg=PA537&printsec=frontcover">Rodolphus Goclenius, Lexicon Philosophicum, 1613, p. 337.</a></strong></p>
 <p>Dignitasは、政治学および占星術の語である。政治学では、それは「広大さ」「権威」「名声」を意味する。そしてそれは、人間・事物・事態のいずれにも属するものであり、ギリシア語では ἀξία と呼ばれる。われわれは、「真に善い人は、すべての運命の出来事を節度をもって受けとめ、その人のDignitas（品位・身分）にふさわしい仕方でそれに対処する」などと言う。アリストテレス『ニコマコス倫理学』第1巻の「運命の出来事を立派に耐える」こと。</p>
@@ -102,15 +100,14 @@
 
 ---
 ## 1.4　諸学の第一原理としての「尊厳」という語
-✅ しかし、親デカルト主義でプロテスタントの神学者 Chauvin の語釈は重要。
-Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学、幾何学に分ける<sup>\[10\]</sup>。
-- 論理学では、「あるものが他のものよりも高貴であり優れているのは、それがより高貴で優れた種や種差に属している場合である」とされ、アリストテレス的な「存在のヒエラルキー」の枠内で “dignitas” が語られる。
-- さらに自然学では、そのヒエラルキーが「概念（intentio）」や「カテゴリー」の内部にとどまるのではなく、実在する個々の「実体」の間のヒエラルキーとして捉えられる。
-- また、論理学における「論証されない命題」も “dignitas” と呼ばれる。これは、「信に値する（dignus）」ことから。
-    - 「論証されない命題」とは、いかなる命題にも先立たれず、それによってあらゆる命題が論証されるところの命題であり、公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義である。
+- 親デカルト主義でプロテスタントの神学者 Chauvin は、”dignitas” を、論理学、形而上学、自然学、幾何学に分ける<sup>\[10\]</sup>。
+- 論理学では、アリストテレス主義的における諸事物のヒエラルキーの枠内で “dignitas” が語られる。
+- 自然学では、そのヒエラルキーが実在する個々の「実体」の間のヒエラルキーと対応付けられる。
+- ✅ 論理学における「論証されない命題」も “dignitas” と呼ばれる。
+- 「論証されない命題」とは、いかなる命題にも先立たれない命題。公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義。
 
 
- <br><br> <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>[10]</strong> <a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/TaWy6BLfQ-8C?hl=ja&amp;gbpv=1&amp;dq=dignitas&amp;pg=PA186&amp;printsec=frontcover" target="_blank"><em>Étienne Chauvin (Stephanus Chauvinus), <u>Lexicon Philosophicum</u>, 1692</em></a>.</p>
 
   <p>「尊厳」とは、事物のある種の高貴さ、そして卓越性である。それがどこから得られるのか、どのように識別されるのかについては、以下の規則が教えてくれる。</p>
@@ -127,71 +124,58 @@ Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学
 </div>
 ---
 ## 1.5　デカルト哲学の「第一原理」へ
-- Chauvin の解説するアリストテレス主義的用法は、既存のヒエラルキーにおける上位者に与えられる価値であるという点で、一般的な語彙と大差ない。
-- だが、諸学への共通の道であり門である「共通概念」が「尊厳」と呼ばれるという Chauvin の指摘は、デカルトにおいて尊厳に相当するものを特定するのに役立つ。
-    - “dignity” がホッブズの場合に「コモンウェルスによって付与された価値」であるのは、ホッブズ政治哲学の第一原理、つまり各人が自己を保存する「唯一の道」が各人の力を代表者に譲渡するという「契約」（[Leviathan I, 17](https://www.gutenberg.org/files/3207/3207-h/3207-h.htm#link2H_4_0203 "https://www.gutenberg.org/files/3207/3207-h/3207-h.htm#link2H_4_0203")）だから。（？）
-    - “dignity” がカントの場合に「絶対的な内的価値」であるのは、カント道徳哲学の第一原理が「意志の自律」であり、この意志こそが尊厳の対象だから（GMS 2）。（？）
-- ➡️ では、デカルトにとって、諸学の「共通概念」とは何だろうか。また、それは人間の尊厳へと展開する余地をもつだろうか。
+- ✅ 諸学の「共通概念」を「尊厳」と呼べるなら、デカルトにおいて尊厳を考察するための問いが立つ。
+- **デカルトにとって、諸学の「共通概念」とは何だろうか。また、それは人間の尊厳へと展開する余地をもつだろうか？**
 
----
-## 1.6　「第一原理」と呼ばれるいくつかの事柄
+<p></p>
+
 - デカルトは『原理』49項において、複数の「共通概念あるいは公理」ないし「永遠真理」を挙げている<sup>\[11\]</sup>。
-    - 「無からは何も生じない」、「同じものが同時に存在しかつ存在しないことは不可能」、「起こったことは起こらなかったことではありえない」、「思惟するものは、思惟しているあいだは実在しないことができない」など。
-    - 先入見に支配されていない精神は、これらの真理を、その本有的な認識力でもって明証的に知覚することができる<sup>\[12\]</sup>。
-    - つまり、論証によらずに直観的に知られうる。
+- また『序説』によれば、「われ思う、ゆえにわれ在り」が「哲学の第一原理」である<sup>\[12\]</sup>。
+- 公理や第一原理とは、先入見が取り除かれるなら、自ずから知られる諸真理である。
 
- <br><br> 
+ <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［11</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 49</a>, AT VIII-1, 23–24.</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>永遠真理はこのように数えあげることができないし、またその必要もない、ということ。</p>
-<p>そして、これらすべてをわれわれは、事物あるいは事物の性質すなわち様態とみなしている。ところが、無から何ものかが生ずることはありえない、とわれわれが認める場合、「無からは何ものも生じない」という命題は、何か存在する事物 とは考えられず、事物の様態とも考えられないのであって、われわれの精神の中に座を占める、ある種の永遠真理と考えられ、<strong>共通概念もしくは公理</strong>とよばれるのである。こういうたぐいのものとしては、「<strong>同一のものが同時に存在し、かつ存在しないことは不可能である</strong>」とか「<strong>いったん起こったことは、起こらなかったこととはなりえない</strong>」とか「<strong>考える者は、考えている間は存在せざるをえない</strong>」などといったものがある。そして、ほかにも無数にあって、それらをすべて数えあげることはたやすくできないけれども、しかし、いつか われわれがそれらについて考える機会が生じ、しかもその場 合にわれわれが先入見によって盲目にされていないならば、それらは必ず知られるものなのである。</p>
+<p>そして、これらすべてをわれわれは、事物あるいは事物の性質すなわち様態とみなしている。ところが、無から何ものかが生ずることはありえない、とわれわれが認める場合、「無からは何ものも生じない」という命題は、何か存在する事物 とは考えられず、事物の様態とも考えられないのであって、われわれの精神の中に座を占める、ある種の永遠真理と考えられ、<strong>共通概念もしくは公理</strong>とよばれるのである。こういうたぐいのものとしては、「<strong>同一のものが同時に存在し、かつ存在しないことは不可能である</strong>」とか「<strong>いったん起こったことは、起こらなかったこととはなりえない</strong>」とか「<strong>考える者は、考えている間は存在せざるをえない</strong>」などといったものがある。そして、ほかにも無数にあって、それらをすべて数えあげることはたやすくできないけれども、しかし、いつかわれわれがそれらについて考える機会が生じ、しかもその場合にわれわれが先入見によって盲目にされていないならば、それらは必ず知られるものなのである。</p>
 
-<p><strong>［11</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 49</a>, AT VIII-1, 23–24.</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>永遠真理はこのように数えあげることができないし、またその必要もない、ということ。</p>
-<p><strong>［12</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 50, AT VIII-1, 24.</a></strong></p>
-<p>それらの真理は明晰に知られるのであるが、しかしながら先入見のゆえに、それらすべてがすべての人によって明晰に知られるわけにはゆかぬ、ということ。</p>
-<p>確かに、これら共通概念に関するかぎり、これらが明晰かつ判明に知られることは疑いをいれない。なぜなら、もしそうでなければ、それらは共通概念とはいえないだろうからである。しかしまた、それらのうちのあるものは、すべての人によって等しく知られてはいないがゆえに、すべての人にとって等しく共通概念の名に値するものでないことも事実である。しかしながら、私の思うに、それは、ある人の認識能力が他の人の認識能力よりも広い範囲におよんでいるからではなくて、<strong>おそらくそれら共通概念がある人々の先入見と対立し、このためそういう人々はそれらを容易にとらええないのに反して</strong>、他方、<strong>先入見を脱した人々は、きわめて明証的にそれらを知るのだからである</strong>。</p>
+<p><strong>［12</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/discours_de_la_methode.xml/dm_preface.html"><em>Discours</em> IV, </a>, AT VI, 32.</strong></p>
+<p>しかし、その後すぐに、このようにすべては虚偽だと私が思考しようとするあいだも、そう思考する私が何ものかであることは必然的であることに気をつけた。そして、この真理〈私は思考する、故に、私は存在する〉は極めて堅固で極めて確かであって、懐疑論者によるどんな途方もない仮定も揺るがすことができないほどであることに着目して、私はその真理を、探していた<strong>哲学の第一原理</strong>として躊躇なく受け取ることができると判断したのである。</p>
 
 </div>
 
 ---
-## 1.7　第一原理としての「意志の自由」
-- また、39項では、「意志の自由」が「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>\[12\]</sup>。
-- 同様に「第二答弁」「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>\[13\]</sup>。
+## 1.6　第一原理としての「意志の自由」
+- ✅ 尊厳と関連づけるのに重要な第一原理は、「意志の自由」である。
+- 意志の自由は、『原理』では「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>\[13\]</sup>。
+- 同様に『省察』「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>\[14\]</sup>。
+<p></p>
+- ➡️ 『情念論』では、意志の自由という価値が「知恵の最も原理的な部分」が達成されると言われる<sup>\[15\]</sup>。
+- 意志の自由という第一原理から「尊厳」へと展開する解釈的な道が見いだされる。
 
- <br><br> <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［13</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 39, AT VIII-1, 19–20.</a></strong></p>
-<p>意志の自由は自明である、ということ。</p>
+<p>意志の自由は自ずから知られること。</p>
 <p>しかし、<strong>われわれの意志に自由があり、われわれが多くのことに、意のままに、同意することも同意しないこともできるということ</strong>は、きわめて明白であるから、このことは、われわれに生まれつきそなわっている、<strong>第一にして最大の共通的概念</strong>のうちに数えられるべきである。そして、このことが最も明らかになったのは、少し前に、われわれがすべてを疑おうと企て、あるきわめて有能な、われわれの起原の創始者が、あらゆるしかたでわれわれを欺こうと努力しているのだと想定するまでにいたったときであった。というのは、それにもかかわらずわれわれは、完全に確実でなく究明し尽くされてはいないものは、信ずるのをさし控えうるという自由が、われわれのうちにあることを経験したからである。そして、それほどまでに疑いをたくましくしたときにも疑わしくないと思われたもの以上に、自明なもの分明なものはありえないのである。</p>
 
-<p><strong>［13</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 39, AT VIII-1, 19–20.</a></strong></p>
-<p>意志の自由は自明である、ということ。</p>
 <p><strong>［14</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_axiomes.html">Resp. 2, Rationes, AT VII, 166.</a></strong></p>
 <p>七、思惟する事物の意志は、なるほど<strong>意志によって、かつ自由に（というのは、そのことは意志の本質に属することであるから）、にもかかわらず不可謬的に、自分に明晰に認識された善へと赴きゆく</strong>のであって、それゆえ、自分に欠けているなんらかの完全性［ども］を識りさえすれば、自分に対してただちにそれらを、それらが自分の力量の及ぶところにあるならば、与えるであろう。</p>
-</div>
----
 
-✅ 注目に値するのは、諸々の共通概念のうちでもとくに、**意志の自由**である。
-- というのも、意志の自由は、『情念論』において、道徳哲学の「原理的な知恵」つまり第一原理（Kambouchner 2008, 319–323）とされているから<sup>\[15\]</sup>。
-
-➡️ **デカルト哲学における「意志の自由」と尊厳との結びつきを考察する道が拓ける。**
-
-
- <br><br> <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［15</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901385.html"><em>Passions</em>, III, 152, AT XI, 445.</a></strong></p>
 <p>いかなる根拠によって、ひとは自分を重視しうるか。</p>
 <p>そして、<strong>知恵の最も原理的な部分のひとつは、いかなる仕方において、また、いかなる根拠によって、各人は自分を重視あるいは軽視すべきか、を知ること</strong>であるから、私はここで、それについての私の意見を述べることにする。私は、自分を重視する正しい根拠になると思われるものを、われわれのうちにただひとつしか認めない。すなわち、われわれの自由意志の行使権、われわれが自分の意志に対してもつ支配権である。事実、われわれが正当に称賛され、または非難されるのは、ただ、この自由意志に依拠する行為においてのみである。またわれわれが、自由意志の与える権利を怠惰によって失わないかぎり、<strong>自由意志はわれわれをわれわれ自身の主人たらしめるのであり、かくして、われわれをなんらかの仕方で神に似たものにするのである</strong>。</p>
-</div>
 
+</div>
 ---
-## 1.8　意志の自由をめぐるふたつの視点：形而上学と道徳
+
+## 1.7　意志の自由をめぐる、形而上学と道徳哲学の関係
 - デカルトは、意志の自由について、形而上学的考察（『省察』『原理』）と道徳哲学的考察（『情念論』）とを展開している。
     - 形而上学において、意志の自由の内実と根拠が示され、それが人間の「完全性」だと知られる。
     - 道徳哲学において、自由意志の完全性が「価値」として捉えられ、それを「重視」する決意が道徳の第一原理となる<sup>\[15\]</sup>。
 - 第一哲学（形而上学）において、種々の先入見が排除され、「総じて哲学をすることによって認識されうる第一なる事柄のすべて」（[à Mersenne, 11 novembre 1640, AT III, 235–239](https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/4271 "https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/4271")）が認識される（村上1995, 344–351）。
 - 結果として、第一の事柄のひとつである意志の自由が知られ、これを基礎として道徳哲学が構築される。
-
-➡️ **尊厳を考察するためには、完全性についての形而上学的思索と、それに基づく道徳哲学的思索の両面を考える必要がある。**
+<p></p>
+➡️ **尊厳を考察するためには、完全性についての形而上学と、それに基づく道徳哲学の両方が必要。**
 ---
 
 # 2　ポジティブ・アプローチ
