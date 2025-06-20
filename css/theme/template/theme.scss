@@ -331,3 +331,52 @@
         background-color: var(--r-background-color);
     }
 }
+
+// === 左揃え統一用スタイル ===
+
+// スライド全体を左揃え
+.reveal .slides section,
+.reveal .slides section > section {
+  text-align: left !important;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+}
+
+// 見出し類を左揃えに強制
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-align: left !important;
+}
+
+// 引用を左揃え＆左寄せ配置に
+.reveal blockquote {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+// リストやdlを左寄せに
+.reveal ul,
+.reveal ol,
+.reveal dl {
+  text-align: left !important;
+  margin-left: 1.5em;
+  margin-right: auto;
+}
+
+// 表のテキストも左揃えに統一
+.reveal table th,
+.reveal table td {
+  text-align: left !important;
+}
+
+// コードブロックも左揃えに
+.reveal pre,
+.reveal pre code {
+  text-align: left !important;
+}
+
