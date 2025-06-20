@@ -1,4 +1,4 @@
-## デカルトと〈尊厳〉の問題XXXX
+## デカルトと〈尊厳〉の問題
 
 [筒井一穂（東洋大学）](https://researchmap.jp/tsutsuikazuho "https://researchmap.jp/tsutsuikazuho")
 
