@@ -52,9 +52,9 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
     - これにより宇宙との一体観は失われ、〈尊厳〉は、自我が自分自身に価値を認めるという「尊大」に成り下がる。
 ※本発表では、〈尊厳〉を、カント的な、人間一般に認められる「内的で絶対的な価値」を指す語として用いる（加藤2017, 14）。
 
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
-**［1****］金子晴勇（2002****）『ヨーロッパの人間像』知泉書館。**
-一般にデカルトの懐疑は「方法的懐疑」と呼ばれるように、認識の上で絶対的明証に達する方法として遂行されている。それゆえ、彼は疑おうと意志している。もちろん疑うことは「考える」一様式であって、疑う人は必ず考えている。したがって、疑っている行為者自身、つまり「考えている自我」は自証的に在るにしても、観念上の存在に過ぎない。また自我の面前に広がっている世界のすべては「延長」をもって存在しており、それの本質的属性が物体的な「延長」に他ならない。ここから物心二元論が説かれ、デカルト哲学は展開してゆくのであるが、**これまで存在していた宇宙との一体觀は喪失し、宇宙は生命のない単なる認識上の存在となり、宇宙との生命的な関連を断ち切り、自我にのみ中心をもつ近代的な人間が誕生している。こうして「人間の尊厳」は彼においては自我にのみ中心をもつ「尊大」に変質しているのではなかろうか**（金子2002, 164）。
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
+<p><strong>［1<strong><em><em>］金子晴勇（2002</em></strong></em>）『ヨーロッパの人間像』知泉書館。</strong></p>
+<p>一般にデカルトの懐疑は「方法的懐疑」と呼ばれるように、認識の上で絶対的明証に達する方法として遂行されている。それゆえ、彼は疑おうと意志している。もちろん疑うことは「考える」一様式であって、疑う人は必ず考えている。したがって、疑っている行為者自身、つまり「考えている自我」は自証的に在るにしても、観念上の存在に過ぎない。また自我の面前に広がっている世界のすべては「延長」をもって存在しており、それの本質的属性が物体的な「延長」に他ならない。ここから物心二元論が説かれ、デカルト哲学は展開してゆくのであるが、<strong>これまで存在していた宇宙との一体觀は喪失し、宇宙は生命のない単なる認識上の存在となり、宇宙との生命的な関連を断ち切り、自我にのみ中心をもつ近代的な人間が誕生している。こうして「人間の尊厳」は彼においては自我にのみ中心をもつ「尊大」に変質しているのではなかろうか</strong>（金子2002, 164）。</p>
 </div>
 
 
@@ -75,21 +75,18 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
 ✅ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語に着目することは、あまり意味がないと思われる。
 - というのも、デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかないからである<sup>\[2–6\]<sup>。
 
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
-    **［****2****］[『規則』「第三規則」](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Posthumes/regulae.xml/regulae_div_1417422235847.html)**
-ところが反対に、確実で明証的なものを運良く発見した場合には、彼ら［古人］はいろいろと迂遠に言い回された曖昧模糊としたものしか提示しようとはしないのである。というのも、彼らの論拠が単純なために**名声**が下がることを彼らが恐れているか、もしくは、明白な真理を彼らがわれわれに出し惜しんでいるか、いずれかのゆえである。
-
-**［****3****］[エリザベト宛1645年8月4日](https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/6494)**
-セネカの『幸福な生について』の巻を私が選び、殿下を心地よくさせるであろう会話としてこれを勧めたとき、私はもっぱら、著者の名声と、題材の**品位**だけを考慮して、著者がそれを論じる仕方については考えていませんでした。
-
-**［****4****］[エリザベト宛1646年9月](https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/7548)**
-［マキャヴェッリの『君主論』について］さらに君主は、民衆から当然受けるべきと思われる**名誉**と尊敬とを失わない程度に、その威厳を保つこと。それでいて、決してそれ以上を要求せず、公衆の前ではきわめて謹厳に振る舞い、あるいはすべての人から承認されうるような行為だけを示し、私的な楽しみは控えめにして、人の迷惑にならないようにすること。
-
-**［****5****］[某宛1628年](https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/1012)**
-しかし、これらの書簡は、きわめて優雅な言葉に満ちており、それだけでも読者の心を満足させるのに十分ですが、論証の力を無にしておりませんし、覆い隠してもおりません。格言の**品位**は、自らの重みを容易に自力で支えており、表現の貧しさによって貶められてはいません。
-
-**［****6****］[レヒウス宛1642年1月](https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/5327)**
-今後討論を行うならば、自分をあまりにも貶め、われらがまことに英明なる市参事どのが光栄にも私に本アカデミーにおいて占めるよう求められた場の**品位**を十分に保ちえないと思います。
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
+<p><strong>［1<strong><em><em>］金子晴勇（2002</em></strong></em>）『ヨーロッパの人間像』知泉書館。</strong></p>
+<p><strong>［<strong><em><em>2</em></strong></em>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Posthumes/regulae.xml/regulae_div_1417422235847.html">『規則』「第三規則」</a></strong></p>
+<p>ところが反対に、確実で明証的なものを運良く発見した場合には、彼ら［古人］はいろいろと迂遠に言い回された曖昧模糊としたものしか提示しようとはしないのである。というのも、彼らの論拠が単純なために<strong>名声</strong>が下がることを彼らが恐れているか、もしくは、明白な真理を彼らがわれわれに出し惜しんでいるか、いずれかのゆえである。</p>
+<p><strong>［<strong><em><em>3</em></strong></em>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/6494">エリザベト宛1645年8月4日</a></strong></p>
+<p>セネカの『幸福な生について』の巻を私が選び、殿下を心地よくさせるであろう会話としてこれを勧めたとき、私はもっぱら、著者の名声と、題材の<strong>品位</strong>だけを考慮して、著者がそれを論じる仕方については考えていませんでした。</p>
+<p><strong>［<strong><em><em>4</em></strong></em>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/7548">エリザベト宛1646年9月</a></strong></p>
+<p>［マキャヴェッリの『君主論』について］さらに君主は、民衆から当然受けるべきと思われる<strong>名誉</strong>と尊敬とを失わない程度に、その威厳を保つこと。それでいて、決してそれ以上を要求せず、公衆の前ではきわめて謹厳に振る舞い、あるいはすべての人から承認されうるような行為だけを示し、私的な楽しみは控えめにして、人の迷惑にならないようにすること。</p>
+<p><strong>［<strong><em><em>5</em></strong></em>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/1012">某宛1628年</a></strong></p>
+<p>しかし、これらの書簡は、きわめて優雅な言葉に満ちており、それだけでも読者の心を満足させるのに十分ですが、論証の力を無にしておりませんし、覆い隠してもおりません。格言の<strong>品位</strong>は、自らの重みを容易に自力で支えており、表現の貧しさによって貶められてはいません。</p>
+<p><strong>［<strong><em><em>6</em></strong></em>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/5327">レヒウス宛1642年1月</a></strong></p>
+<p>今後討論を行うならば、自分をあまりにも貶め、われらがまことに英明なる市参事どのが光栄にも私に本アカデミーにおいて占めるよう求められた場の<strong>品位</strong>を十分に保ちえないと思います。</p>
 </div>
 ---
 ## 1.2　17世紀における「尊厳」という語
@@ -100,20 +97,18 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
 - 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>\[8\]<sup>。
 - Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>\[9\]<sup>。
 
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
     
-**［****7****］[Rodolphus Goclenius, Lexicon Philosophicum, 1613, p. 337.](https://www.google.co.jp/books/edition/Lexicon_philosophicum/p1pGQLv5f-EC?hl=ja&gbpv=1&dq=dignitas&pg=PA537&printsec=frontcover)**
-Dignitasは、政治学および占星術の語である。政治学では、それは「広大さ」「権威」「名声」を意味する。そしてそれは、人間・事物・事態のいずれにも属するものであり、ギリシア語では ἀξία と呼ばれる。われわれは、「真に善い人は、すべての運命の出来事を節度をもって受けとめ、その人のDignitas（品位・身分）にふさわしい仕方でそれに対処する」などと言う。アリストテレス『ニコマコス倫理学』第1巻の「運命の出来事を立派に耐える」こと。
-占星術において「惑星のDignitas」とは、天球のある特定の場所を意味する。そこにおいて惑星は、より多くの力を得、より明確にその影響力を発揮し、それゆえ高く評価される。これはその場所との特別な適合関係による。これに対してDebilitas（劣位、弱体）という概念がある。これは、惑星がその力をより曖昧に、弱々しくしか発揮できない場所を指す。DignitasとDebilitasは、それぞれ「本質的」と「偶発的」の二種類に分かれる。本質的Dignitasとは、惑星の本来の特性に常に付き従うものであり、以下の5つが数えられる。すなわち、Domus（支配宮＝惑星がその支配を持つ星座にある状態）、Exaltatio（高揚）、Triplicitas（三分区の支配）、Terminus（境界）、Facies（面）またはDecuria（十分区）。本質的なDebilitasは次の3つである。Peregrinitas（異郷性）、Detrimentus（損失）、Casus（転落）。「異郷の惑星（Planetæ peregrini）」とは、本質的Dignitasをまったく持たない惑星を意味する。たとえば、「牡羊座にある月」などがそれである。惑星がdetrimentumにあるとは、それが自らのdomusに対して正反対の星座にあるときである。またcasusにあるとは、それが自らのexaltatio（高揚の位置）に対して正反対の星座にあるときである。偶発的DignitasまたはDebilitasとは、惑星や太陽、あるいは惑星相互の関係において偶然に起こるものである。太陽との関係において惑星に生じるものとしては、東方性・西方性・焼失・抑圧・太陽光の下での存在などがある。また、「焼失からの解放」・「光の増加」・「光の減少」なども含まれる。惑星同士の関係においては、結合（「合体（coitus）」「接近（congressus）」「会合（synodus）」「惑星の合一（unio Planetarum）」）および相互のアスペクト（aspectus mutuus）なども生じる。
-
-**［****8****］[Antoine Furetière, _Dictionnaire universel_, 1690, p. 843.](https://www.google.co.jp/books/edition/Dictionnaire_Universel/ccJKAAAAcAAJ?hl=ja&gbpv=1&dq=dignit%C3%A9&pg=PP974&printsec=frontcover)**
-Dignitezとは、教会参事会（chapitre）において、単なる参事会員（chanoines）よりも聖歌隊席などでの優先権を与える特定の聖職禄（bénéfices）を指す。これらは時に単純なもの、時に魂の司牧責任を伴うもの、あるいは聖なる事柄の管轄権や管理権を伴うこともある。シャルトルの参事会における首席司祭（prevostez）はDignitezであり、また単純な聖職禄でもある。また、首席参事会員（doyennez）や参事会の長（chefs de chapitre）は、居住義務を伴うDignitezである。さらに、教会裁判所の役人（officiaux）や首席司祭（prevôts）も、参事会員に対する管轄権を持つDignitezである。
-
-**［****9****］[Le Dictionnaire de l'Académie française, 1694.](https://artflsrv04.uchicago.edu/philologic4.7/publicdicos/bibliography?head=dignit%C3%A9)**
-Dignité, 名詞、女性形。功績、重要性を意味する。「この件の重要性が要求するところでは…」「この話題の尊厳が求めるところでは…」「主題の尊厳」「主題の重要性に応じて」といった言い方をする。ある人が「尊厳をもって話す」と言うとき、それは、その人が真面目で気品のある、彼の立場や扱っている問題にふさわしい話し方をしていることを意味する。
-同様に「尊厳をもって行動する」「品位を保って物事を行う」とも言う。この語はまた、「卓越した資質」を意味することもある。たとえば「自らの地位にふさわしい威厳を保つ」「それは彼の人格の尊厳に見合っていない」といった用法である。
-さらに、地位や重要な職務を意味することもある。たとえば「高位の役職」「主権者の地位」「最高位」「新たな役職」「要職に任命される」「高位に昇進する」。「教会の位階職」「司教の職位」。
-一部の教会においては、”dignitez” とは、ある種の聖職禄（benefices）を指し、これには教会法上のある程度の管轄権、または参事会内の特定の職務が伴っている。たとえば、財務担当（trésorerie）、大執事職（archidiaconie）、また聖歌隊における聖歌長職（chantrerie）や書記官職（secrétererie）などである。
+<p><strong>［<strong><em><em>7</em></strong></em>］<a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/p1pGQLv5f-EC?hl=ja&gbpv=1&dq=dignitas&pg=PA537&printsec=frontcover">Rodolphus Goclenius, Lexicon Philosophicum, 1613, p. 337.</a></strong></p>
+<p>Dignitasは、政治学および占星術の語である。政治学では、それは「広大さ」「権威」「名声」を意味する。そしてそれは、人間・事物・事態のいずれにも属するものであり、ギリシア語では ἀξία と呼ばれる。われわれは、「真に善い人は、すべての運命の出来事を節度をもって受けとめ、その人のDignitas（品位・身分）にふさわしい仕方でそれに対処する」などと言う。アリストテレス『ニコマコス倫理学』第1巻の「運命の出来事を立派に耐える」こと。</p>
+<p>占星術において「惑星のDignitas」とは、天球のある特定の場所を意味する。そこにおいて惑星は、より多くの力を得、より明確にその影響力を発揮し、それゆえ高く評価される。これはその場所との特別な適合関係による。これに対してDebilitas（劣位、弱体）という概念がある。これは、惑星がその力をより曖昧に、弱々しくしか発揮できない場所を指す。DignitasとDebilitasは、それぞれ「本質的」と「偶発的」の二種類に分かれる。本質的Dignitasとは、惑星の本来の特性に常に付き従うものであり、以下の5つが数えられる。すなわち、Domus（支配宮＝惑星がその支配を持つ星座にある状態）、Exaltatio（高揚）、Triplicitas（三分区の支配）、Terminus（境界）、Facies（面）またはDecuria（十分区）。本質的なDebilitasは次の3つである。Peregrinitas（異郷性）、Detrimentus（損失）、Casus（転落）。「異郷の惑星（Planetæ peregrini）」とは、本質的Dignitasをまったく持たない惑星を意味する。たとえば、「牡羊座にある月」などがそれである。惑星がdetrimentumにあるとは、それが自らのdomusに対して正反対の星座にあるときである。またcasusにあるとは、それが自らのexaltatio（高揚の位置）に対して正反対の星座にあるときである。偶発的DignitasまたはDebilitasとは、惑星や太陽、あるいは惑星相互の関係において偶然に起こるものである。太陽との関係において惑星に生じるものとしては、東方性・西方性・焼失・抑圧・太陽光の下での存在などがある。また、「焼失からの解放」・「光の増加」・「光の減少」なども含まれる。惑星同士の関係においては、結合（「合体（coitus）」「接近（congressus）」「会合（synodus）」「惑星の合一（unio Planetarum）」）および相互のアスペクト（aspectus mutuus）なども生じる。</p>
+<p><strong>［<strong><em><em>8</em></strong></em>］<a href="https://www.google.co.jp/books/edition/Dictionnaire_Universel/ccJKAAAAcAAJ?hl=ja&gbpv=1&dq=dignit%C3%A9&pg=PP974&printsec=frontcover">Antoine Furetière, <em>Dictionnaire universel</em>, 1690, p. 843.</a></strong></p>
+<p>Dignitezとは、教会参事会（chapitre）において、単なる参事会員（chanoines）よりも聖歌隊席などでの優先権を与える特定の聖職禄（bénéfices）を指す。これらは時に単純なもの、時に魂の司牧責任を伴うもの、あるいは聖なる事柄の管轄権や管理権を伴うこともある。シャルトルの参事会における首席司祭（prevostez）はDignitezであり、また単純な聖職禄でもある。また、首席参事会員（doyennez）や参事会の長（chefs de chapitre）は、居住義務を伴うDignitezである。さらに、教会裁判所の役人（officiaux）や首席司祭（prevôts）も、参事会員に対する管轄権を持つDignitezである。</p>
+<p><strong>［<strong><em><em>9</em></strong></em>］<a href="https://artflsrv04.uchicago.edu/philologic4.7/publicdicos/bibliography?head=dignit%C3%A9">Le Dictionnaire de l'Académie française, 1694.</a></strong></p>
+<p>Dignité, 名詞、女性形。功績、重要性を意味する。「この件の重要性が要求するところでは…」「この話題の尊厳が求めるところでは…」「主題の尊厳」「主題の重要性に応じて」といった言い方をする。ある人が「尊厳をもって話す」と言うとき、それは、その人が真面目で気品のある、彼の立場や扱っている問題にふさわしい話し方をしていることを意味する。</p>
+<p>同様に「尊厳をもって行動する」「品位を保って物事を行う」とも言う。この語はまた、「卓越した資質」を意味することもある。たとえば「自らの地位にふさわしい威厳を保つ」「それは彼の人格の尊厳に見合っていない」といった用法である。</p>
+<p>さらに、地位や重要な職務を意味することもある。たとえば「高位の役職」「主権者の地位」「最高位」「新たな役職」「要職に任命される」「高位に昇進する」。「教会の位階職」「司教の職位」。</p>
+<p>一部の教会においては、”dignitez” とは、ある種の聖職禄（benefices）を指し、これには教会法上のある程度の管轄権、または参事会内の特定の職務が伴っている。たとえば、財務担当（trésorerie）、大執事職（archidiaconie）、また聖歌隊における聖歌長職（chantrerie）や書記官職（secrétererie）などである。</p>
 </div>
 
 
@@ -127,7 +122,6 @@ Chauvin (1692)  は、”dignitas” を、論理学、形而上学、自然学
     - 「論証されない命題」とは、いかなる命題にも先立たれず、それによってあらゆる命題が論証されるところの命題であり、公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義である。
 
 
-html_text = """
 <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
   <p><strong>[10]</strong> <a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/TaWy6BLfQ-8C?hl=ja&amp;gbpv=1&amp;dq=dignitas&amp;pg=PA186&amp;printsec=frontcover" target="_blank"><em>Étienne Chauvin (Stephanus Chauvinus), <u>Lexicon Philosophicum</u>, 1692</em></a>.</p>
 
@@ -158,7 +152,7 @@ html_text = """
     - 先入見に支配されていない精神は、これらの真理を、その本有的な認識力でもって明証的に知覚することができる<sup>\[12\]<sup>。
     - つまり、論証によらずに直観的に知られうる。
 
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
 **［11****］[_Principia_ I, 49](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18), AT VIII-1, 23–24.**    
 
 永遠真理はこのように数えあげることができないし、またその必要もない、ということ。
@@ -179,7 +173,7 @@ html_text = """
 - また、39項では、「意志の自由」が「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>\[12\]<sup>。
 - 同様に「第二答弁」「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>\[13\]<sup>。
 
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
 **［13****］[_Principia_ I, 39, AT VIII-1, 19–20.](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18)**
 
 意志の自由は自明である、ということ。
@@ -199,7 +193,7 @@ html_text = """
 ➡️ **デカルト哲学における「意志の自由」と〈尊厳〉との結びつきを考察する道が拓ける。**
 
 
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; font-size: 0.9em;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6;">
 **［15****］[_Passions_, III, 152, AT XI, 445.](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901385.html)**
 
 いかなる根拠によって、ひとは自分を重視しうるか。
