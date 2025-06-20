@@ -41,8 +41,7 @@ A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏�
     - 宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認める「尊大」に成り下がる。
 
 
-<div>
-<div>
+<br><br>
 
 <div class="scroll-block" style="margin-top: 1em; max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［1］金子晴勇（2002）『ヨーロッパの人間像』知泉書館。</strong></p>
