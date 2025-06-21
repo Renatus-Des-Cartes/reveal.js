@@ -1,6 +1,6 @@
 <section data-auto-animate>
 
-# <span style="font-size: 1.5em; font-weight: bold;">デカルトと〈尊厳〉の問題</span>
+# <span style="font-size: 1.5em; font-weight: bold;">デカルトと尊厳の問題</span>
 
 <div style="margin-top: 1em; font-size: 0.95em; line-height: 1.8;">
 
