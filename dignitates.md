@@ -99,6 +99,7 @@
 <li><strong>▲デカルトによって、世界から切り離された「近代的自我」が尊厳の主体となる。</strong></li>
 <li><strong>▲宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認める「尊大」に成り下がる。</strong></li>
 </ul>
+<p></p>
 </div>
 <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［1］金子晴勇（2002）『ヨーロッパの人間像』知泉書館。</strong></p>
@@ -114,6 +115,7 @@
 <li>この批判のうち、デカルト的自我が「宇宙との一体観」を喪失するという見方にはテクスト的反証がある（2節, <a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 55–56.</a>）。</li>
 <li>デカルト的尊厳が他者を軽視する「尊大」に結びつくという見方にもテクスト的反証がある（3節）。</li>
 </ul>
+<p></p>
 <strong>◉しかし、デカルト的尊厳があくまで思考する「私」の価値を問題にするという指摘は正しい。</strong>
 <p></p>
 - <strong style="color: #cc5500;">先回りの結論：デカルト道徳哲学は、「私」に固有の価値に注目することによって、外的情況に左右されない揺るぎない価値＝ある意味で「内的で絶対的な価値」を「私」のうちに見いだす。</strong>
@@ -124,7 +126,7 @@
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
 <h2>1.3　「尊厳」という語のデカルトにおける用例</h2>
-<p><strong>◉ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong></p>
+<p><strong>▲ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong></p>
 <ul>
 <li>デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>[2–6]</sup>。</li>
 </ul>
@@ -346,7 +348,7 @@
 <li>人間の完全性を「神の似像」に関連づける点では、デカルトはキリスト教的伝統に接近する。</li>
 <li>しかしこの完全性は、「創世記」をはじめとする宗教的・神話的根拠に基づくのではない。</li>
 </ul>
-<p><strong style="color: #cc5500;">◉ デカルトの「似像」論は、創造の仕法に関する主張ではなく、「類似性をもつ」という主張にすぎない<sup>\[26\]</sup>。</strong></p>
+<p><strong style="color: #cc5500;">◉ デカルトの「似像」論は、創造の仕法に関する主張ではなく、「類似性をもつ」という主張にすぎない<sup>[26]</sup>。</strong></p>
 <ul>
 <li>その類似性は、「存在者」や「実体」といった一般的概念の共通性である。</li>
 <li>結果、人間のみならずあらゆる被造物が神の似像になる。人間は、神との類似性の程度において、他の被造物に優っているにすぎない。</li>
@@ -597,26 +599,43 @@
 ---
 
 <h2>デカルトの尊厳概念の特徴</h2>
-<div style="display: flex; gap: 2em;">
-  <div style="flex: 1; background-color: #dcdcdc; padding: 1em; border-radius: 8px;text-align: left;">
-<p><strong>カント的尊厳 </strong></p>
-<p>【権利において】</p>
-    <p>万人に平等に認められる「絶対的で内的な価値」。</p>
-<p>【事実において】</p>
-    <p>その価値の尊重は他者の自由に任せられているため、実現されないことがある。</p>
-<p>【問題】</p>
-    <p>権利と事実のギャップが倫理的な問題になる。</p>
-  </div>
-  <div style="flex: 1; background-color: #fff3e0; padding: 1em; border-radius: 8px;text-align: left;">
-<p><strong>デカルト的尊厳 </strong></p>
-<p>【権利において】</p>
-    <p>自由意志の善用を重視することで実現される価値。</p>
-<p>【事実において】</p>
-    <p>価値の実現が主体のみに依存するため、外的に毀損不可能な「絶対的で内的な価値」。</p>
-<p>【問題】</p>
-    <p>権利と事実のギャップは問題ではない。権利が限定的な主体にしか与えられないという不平等性が問題。</p>
-  </div>
-</div>
+<table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: fixed;">
+  <tr>
+    <td style="border: none;"></td>
+    <td style="border: none; font-weight: bold;">カント的尊厳</td>
+    <td style="border: none; font-weight: bold;">デカルト的尊厳</td>
+  </tr>
+
+  <tr style="background-color: #f0f0f0;">
+    <td style="border: none; font-weight: bold;">【権利において】</td>
+    <td style="border: none;">
+      万人に平等に認められる「絶対的で内的な価値」。
+    </td>
+    <td style="border: none;">
+      自由意志の善用を重視することで実現される価値。
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; font-weight: bold;">【事実において】</td>
+    <td style="border: none;">
+      その価値の尊重は他者の自由に任せられているため、実現されないことがある。
+    </td>
+    <td style="border: none;">
+      価値の実現が主体のみに依存するため、外的に毀損不可能な「絶対的で内的な価値」。
+    </td>
+  </tr>
+
+  <tr style="background-color: #f0f0f0;">
+    <td style="border: none; font-weight: bold;">【問題】</td>
+    <td style="border: none;">
+      権利と事実のギャップが倫理的な問題になる。
+    </td>
+    <td style="border: none;">
+      権利と事実のギャップは問題ではない。権利が限定的な主体にしか与えられないという不平等性が問題。
+    </td>
+  </tr>
+</table>
 
 ---
 
