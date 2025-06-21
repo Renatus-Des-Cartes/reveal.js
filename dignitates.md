@@ -25,7 +25,7 @@
   </div>
 
   <div style="flex: 1;">
-<p><strong>2️⃣ ポジティブ・アプローチ</strong></p>
+<p><strong>2️⃣ ポジティヴ・アプローチ</strong></p>
 <ul>
 <li>2.1　神の創造と被造物の完全性</li>
 <li>2.2　過誤の回避と意志の善用</li>
