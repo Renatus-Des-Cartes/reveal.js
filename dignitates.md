@@ -1,10 +1,11 @@
 <section data-auto-animate style="text-align: center; padding: 2em;">
 
+
+  <div style="font-size: 1em; line-height: 1.8; max-width: 800px; margin: 0 auto; text-align: left;">
+    
   <h1 style="font-size: 2em; margin-bottom: 1em;">
     デカルトと尊厳の問題
   </h1>
-
-  <div style="font-size: 1em; line-height: 1.8; max-width: 800px; margin: 0 auto; text-align: left;">
     <p><strong>2025年6月27日（金）14:00–17:00</strong><br>
     東洋大学 白山キャンパス</p>
     <hr style="border: none; border-top: 1px solid #aaa; width: 60%; margin: 1.5em 0;">
