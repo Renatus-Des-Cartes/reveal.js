@@ -1,21 +1,40 @@
-<section data-auto-animate>
-<span style="font-size: 1.5em; font-weight: bold;">デカルトと尊厳の問題</span>
-<div style="margin-top: 1em; font-size: 0.95em; line-height: 1.8;">
-<strong>2025年6月27日（金）14:00–17:00</strong>  
-東洋大学 白山キャンパス  
-<hr style="width: 40%; border-top: 1px solid #aaa;">
-<p>学術変革領域A「尊厳学の確立」
-A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏まえた欧米圏の尊厳概念史の再構築」
-科研費番号：23A103・23H04850
-「尊厳概念史の再構築に向けて（2）：近世哲学」</p>
-<hr style="width: 40%; border-top: 1px solid #aaa;">
-発表者：<a href="https://researchmap.jp/tsutsuikazuho" target="_blank">筒井一穂（東洋大学）</a>  
-スライド・引用集のDL → 
-<a href="https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing" target="_blank">
-【こちらをクリック】
-</a>
-</div>
+<section data-auto-animate style="text-align: center; padding: 2em;">
+
+  <h1 style="font-size: 2em; margin-bottom: 1em;">
+    デカルトと尊厳の問題
+  </h1>
+
+  <div style="font-size: 1em; line-height: 1.8; max-width: 800px; margin: 0 auto; text-align: left;">
+
+    <p><strong>2025年6月27日（金）14:00–17:00</strong><br>
+    東洋大学 白山キャンパス</p>
+
+    <hr style="border: none; border-top: 1px solid #aaa; width: 60%; margin: 1.5em 0;">
+
+    <p>
+      学術変革領域A「尊厳学の確立」<br>
+      A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏まえた欧米圏の尊厳概念史の再構築」<br>
+      科研費番号：23A103・23H04850<br>
+      「尊厳概念史の再構築に向けて（2）：近世哲学」
+    </p>
+
+    <hr style="border: none; border-top: 1px solid #aaa; width: 60%; margin: 1.5em 0;">
+
+    <p>
+      発表者：
+      <a href="https://researchmap.jp/tsutsuikazuho" target="_blank">
+        筒井一穂（東洋大学）
+      </a><br>
+      スライド・引用集のDL → 
+      <a href="https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing" target="_blank">
+        【こちらをクリック】
+      </a>
+    </p>
+
+  </div>
+
 </section>
+
 
 ---
 
