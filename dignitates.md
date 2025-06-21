@@ -583,23 +583,38 @@
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
 <h1>まとめ</h1>
-<p><strong style="color: #cc5500;">◉ 形而上学では、神の創造に依拠して被造物の「完全性」が知られる。</strong></p>
-<ul>
-<li>この完全性は、すべての被造物に一義的に分配され、その程度が差異化される。</li>
-<li>脱神話化された、人間中心主義的ではない「似像」概念。</li>
-</ul>
+</div>
+<div style="display: flex; gap: 2em; align-items: flex-start; justify-content: space-between;">
+
+  <!-- 左カラム -->
+  <div style="flex: 1;">
+    <p><strong style="color: #cc5500;">◉ 形而上学では、神の創造に依拠して被造物の「完全性」が知られる。</strong></p>
+    <ul>
+      <li>この完全性は、すべての被造物に一義的に分配され、その程度が差異化される。</li>
+      <li>脱神話化された、人間中心主義的ではない「似像」概念。</li>
+    </ul>
+  </div>
+
+  <!-- 右カラム -->
+  <div style="flex: 1;">
+    <p><strong style="color: #cc5500;">◉ 道徳哲学では、その完全性に価値を認める「高邁」が志向される。</strong></p>
+    <ul>
+      <li>高邁は自己の適切な評価であり、不可侵の内的価値の実現である。</li>
+      <li>ただし、自由意志をもたない存在者は、この価値を実現できないかもしれない。</li>
+    </ul>
+  </div>
 <p></p>
-<p><strong style="color: #cc5500;">◉ 道徳哲学では、その完全性に価値を認める「高邁」が志向される。</strong></p>
-<ul>
-<li>高邁は自己の適切な評価であり、不可侵の内的価値の実現である。</li>
-<li>ただし、自由意志をもたない存在者は、この価値を実現できないかもしれない。</li>
-</ul>
 </div>
 
----
-
-<h2>デカルトの尊厳概念の特徴</h2>
 <table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: fixed;">
+
+  <!-- タイトル行 -->
+  <tr style="background-color: #f0f0f0;">
+    <td colspan="3" style="text-align: center; font-weight: bold; padding: 0.5em;">
+      尊厳概念の比較
+    </td>
+  </tr>
+
   <tr>
     <td style="border: none;"></td>
     <td style="border: none; font-weight: bold;">カント的尊厳</td>
@@ -635,7 +650,9 @@
       権利と事実のギャップは問題ではない。権利が限定的な主体にしか与えられないという不平等性が問題。
     </td>
   </tr>
+
 </table>
+
 
 ---
 
