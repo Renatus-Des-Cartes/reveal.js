@@ -2180,6 +2180,18 @@ $notesWidthPercent: 25%;
 	}
 }
 
+.reveal ul,
+.reveal ol {
+  margin: 0 0 1em 0;
+  padding-left: 2em;
+  text-align: left;
+  list-style-position: outside;
+}
+
+.reveal li {
+  margin: 0.2em 0;
+  text-align: left;
+}
 
 /*********************************************
  * PRINT STYLES
