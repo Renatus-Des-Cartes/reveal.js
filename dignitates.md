@@ -95,7 +95,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - ☑️ 宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認める「尊大」に成り下がる。
 
 </p>
-<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+<div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［1］金子晴勇（2002）『ヨーロッパの人間像』知泉書館。</strong></p>
 <p>一般にデカルトの懐疑は「方法的懐疑」と呼ばれるように、認識の上で絶対的明証に達する方法として遂行されている。それゆえ、彼は疑おうと意志している。もちろん疑うことは「考える」一様式であって、疑う人は必ず考えている。したがって、疑っている行為者自身、つまり「考えている自我」は自証的に在るにしても、観念上の存在に過ぎない。また自我の面前に広がっている世界のすべては「延長」をもって存在しており、それの本質的属性が物体的な「延長」に他ならない。ここから物心二元論が説かれ、デカルト哲学は展開してゆくのであるが、<strong>これまで存在していた宇宙との一体觀は喪失し、宇宙は生命のない単なる認識上の存在となり、宇宙との生命的な関連を断ち切り、自我にのみ中心をもつ近代的な人間が誕生している。こうして「人間の尊厳」は彼においては自我にのみ中心をもつ「尊大」に変質しているのではなかろうか</strong>（金子2002, 164）。</p>
 </div>
@@ -116,7 +116,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>\[2–6\]</sup>。
 
 <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［<strong><em><em>2</em></strong></em>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Posthumes/regulae.xml/regulae_div_1417422235847.html">『規則』「第三規則」</a></strong></p>
 <p>ところが反対に、確実で明証的なものを運良く発見した場合には、彼ら［古人］はいろいろと迂遠に言い回された曖昧模糊としたものしか提示しようとはしないのである。というのも、彼らの論拠が単純なために<strong>名声</strong>が下がることを彼らが恐れているか、もしくは、明白な真理を彼らがわれわれに出し惜しんでいるか、いずれかのゆえである。</p>
 <p><strong>［<strong><em><em>3</em></strong></em>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/6494">エリザベト宛1645年8月4日</a></strong></p>
@@ -136,7 +136,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>\[8\]</sup>。
 - Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>\[9\]</sup>。
     
- <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
     
 <p><strong>［<strong><em><em>7</em></strong></em>］<a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/p1pGQLv5f-EC?hl=ja&gbpv=1&dq=dignitas&pg=PA537&printsec=frontcover">Rodolphus Goclenius, Lexicon Philosophicum, 1613, p. 337.</a></strong></p>
 <p>Dignitasは、政治学および占星術の語である。政治学では、それは「広大さ」「権威」「名声」を意味する。そしてそれは、人間・事物・事態のいずれにも属するものであり、ギリシア語では ἀξία と呼ばれる。われわれは、「真に善い人は、すべての運命の出来事を節度をもって受けとめ、その人のDignitas（品位・身分）にふさわしい仕方でそれに対処する」などと言う。アリストテレス『ニコマコス倫理学』第1巻の「運命の出来事を立派に耐える」こと。</p>
@@ -161,7 +161,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 「論証されない命題」とは、いかなる命題にも先立たれない命題。公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義。
 
 
- <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>[10]</strong> <a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/TaWy6BLfQ-8C?hl=ja&amp;gbpv=1&amp;dq=dignitas&amp;pg=PA186&amp;printsec=frontcover" target="_blank"><em>Étienne Chauvin (Stephanus Chauvinus), <u>Lexicon Philosophicum</u>, 1692</em></a>.</p>
 
   <p>「尊厳」とは、事物のある種の高貴さ、そして卓越性である。それがどこから得られるのか、どのように識別されるのかについては、以下の規則が教えてくれる。</p>
@@ -190,7 +190,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 </ul>
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［11</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 49</a>, AT VIII-1, 23–24.</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>永遠真理はこのように数えあげることができないし、またその必要もない、ということ。</p>
 <p>そして、これらすべてをわれわれは、事物あるいは事物の性質すなわち様態とみなしている。ところが、無から何ものかが生ずることはありえない、とわれわれが認める場合、「無からは何ものも生じない」という命題は、何か存在する事物 とは考えられず、事物の様態とも考えられないのであって、われわれの精神の中に座を占める、ある種の永遠真理と考えられ、<strong>共通概念もしくは公理</strong>とよばれるのである。こういうたぐいのものとしては、「<strong>同一のものが同時に存在し、かつ存在しないことは不可能である</strong>」とか「<strong>いったん起こったことは、起こらなかったこととはなりえない</strong>」とか「<strong>考える者は、考えている間は存在せざるをえない</strong>」などといったものがある。そして、ほかにも無数にあって、それらをすべて数えあげることはたやすくできないけれども、しかし、いつかわれわれがそれらについて考える機会が生じ、しかもその場合にわれわれが先入見によって盲目にされていないならば、それらは必ず知られるものなのである。</p>
@@ -209,7 +209,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - ➡️ 『情念論』では、意志の自由という価値が「知恵の最も原理的な部分」が達成されると言われる<sup>\[15\]</sup>。
 - 意志の自由という第一原理から「尊厳」へと展開する解釈的な道が見いだされる。
 
- <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［13</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 39, AT VIII-1, 19–20.</a></strong></p>
 <p>意志の自由は自ずから知られること。</p>
 <p>しかし、<strong>われわれの意志に自由があり、われわれが多くのことに、意のままに、同意することも同意しないこともできるということ</strong>は、きわめて明白であるから、このことは、われわれに生まれつきそなわっている、<strong>第一にして最大の共通的概念</strong>のうちに数えられるべきである。そして、このことが最も明らかになったのは、少し前に、われわれがすべてを疑おうと企て、あるきわめて有能な、われわれの起原の創始者が、あらゆるしかたでわれわれを欺こうと努力しているのだと想定するまでにいたったときであった。というのは、それにもかかわらずわれわれは、完全に確実でなく究明し尽くされてはいないものは、信ずるのをさし控えうるという自由が、われわれのうちにあることを経験したからである。そして、それほどまでに疑いをたくましくしたときにも疑わしくないと思われたもの以上に、自明なもの分明なものはありえないのである。</p>
@@ -248,7 +248,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - もちろん、省察者「私」もいわば神の作品なので、本来のところ完全性をもつ存在者である<sup>\[18\]</sup>。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［16</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_3.html">Meditatio III, AT VII, 49–50.</a></strong></p>
 <p>すでに前に述べたように、原因のうちには結果のうちにあるのと少なくとも同じだけのものがなければならないことは明らかである。そしてこのゆえに、現に私は考えるものであり、私のうちに神のある観念を有するものであるから、私の原因として結局、どのようなものがわりあてられるとしても、それはまた考えるものであり、私が神に帰するすべての完全性の観念を有するものである、と認めなくてはならないのである。そしてさらにこの原因について、それはそれ自身からでてくるのか、それとも他の原因からでてくるのか、と問うことができる。もし、それ自身からでてくるのであれば、その原因そのものが神であることは右に述べたところによって明らかである。なぜなら、その場合には、それ自身によって存在する力を有するのであるから、その原因はまた疑いもなく、その観念がみずからのうちにあるところのすべての完全性を、すなわち、神のうちにあると私が考えるところのすべての完全性を、現実的に所有する力をも有するはずであるから。もし、そうではなくて、他の原因からでてくるのであれば、さらに、こんどの原因について同じように、それはそれ自身からでてくるのか、それとも他の原因からでてくるのか、とたずねられ、<strong>こうしてついには究極の原因、すなわち、神であるところのもの、に達するであろう</strong>。</p>
 <p><strong>［17</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 55</a>.</strong></p>
@@ -270,7 +270,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 **✅ 意志の善用によって実現される本来的完全性は、「人間的完全性」と呼ばれる**<sup>\[21,22\]</sup>。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
   <p><strong>［19</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 58.</a></strong></p>
 <p>それでは、<strong>私の過誤はいったいどこから生じるのであろうか</strong>。この一つのことから、すなわち、意志は知性よりも広い範囲に広がるものであるゆえ、私が意志を、知性と同じ限界内にとどめおかずに、私の理解していない事がらにまでおよぼす、というこの一つのことから生じるのである。このような事がらに対して意志は非決定であるから、たやすく真と善とから逸脱するのであって、こうして私は誤り、罪を犯すことになるのである。</p>
@@ -294,7 +294,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 意志の自由とは、「外的な力によらず、自分自身を動かす」内的な力であり、この力は、何ものにも制限されることがないから（大西2014, 398）。
 - 意志の善用を通じて、その本来の完全性が実現されるとき、われわれは「神の似像」を担う<sup>\[24\]</sup>。
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［23</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 57.</a></strong></p>
 <p>私のうちで、<strong>それ以上に大きな何ものの観念をも私が把捉することのないほど大きなものであることを私が経験するのは、ただ意志、いうならば裁量の自由のみである</strong>。<strong>神の或る似像と似姿とを私が担うことを知解するのは、とりわけこの意志を根拠としてのことなのである</strong>。なぜなら、次の通りであるから。慥かに意志は神において、私におけるよりも比較を絶して大きい。それは、意志に結びついてこれをはなはだ堅くかつ有効にするところの認識および力という観点からしても、また、意志はいっそう多くのものへと拡がりゆくからには対象という観点からしても、である。とはいえ、<strong>それ自身において形相的にかつ抽き出して観られたなら、意志は私におけるよりも神においていっそう大きいとは思われないからである</strong>。というのも意志が存立するのは、同じ一つのことを為すか為さぬか（言い換えるなら、肯定するか否定するか、追求するか忌避するか）がわれわれにできるということにおいてのみだからである。あるいはむしろ意志が存立するのは、知性によってわれわれに提示されるものを、肯定あるいは否定するのに、すなわち追求しあるいは忌避するのに、いかなる外的な力によることもなくそうするように決定されているとわれわれが感得するようにして自らを赴かすことにおいてのみだからである。</p>
 <p><strong>［24</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 54.</a></strong></p><p>しかしそれにもかかわらず、そのすぐ後で私の方に向き直ると、私は私が無数の過誤に服しているのを経験するのであり、その原因を探求することで、私は次のことに気がつく。すなわち、神いうならこの上なく完全な存在に属する事物的かつ積極的な観念のみならず、敢えていえば無、云うならすべての完全性からこの上なく隔たっているものの、或る種の消極的な観念さえも私に顕在しているということ。<strong>神と無との間、云うならこの上ない存在者と非存在者との間で、あたかもなかだちであるかのように私が位置付けられているということ</strong>。そして、この上ない存在者によって私が創造されたという限りでは、それによって私が誤らしめられたり過誤に引き入れられたりするようないかなるものも慥かに私の内にはないのであるが、しかしながら、或る仕方では無云うなら非存在者についても私が分有している限りでは、言い換えるなら、私自身はこの上ない存在ではなく、むしろ私にはしごく多くのものが欠けているというかぎりでは、私が誤るからといってさほど不思議なことはないということに。</p>
@@ -316,7 +316,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［<strong><em><em>26</em></strong></em>］</strong><strong><a href="https://gallica.bnf.fr/ark:/12148/bpt6k20737n/f53.item">Entretien avec Burman, AT V, 156.</a></strong></p>
 <p>「きわめて信じ得る」（p. 48）・「なおいっそう近道である」（p. 436）。</p>
 <p>［問］しかし、なぜですか。神があなたを創造し、それでもなお自らの似像としては創造しないということもありえたのではありませんか。</p>
@@ -342,7 +342,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - デカルトの哲学的「似像」論の成立。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
   <p><strong>［27</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 55.</a></strong></p>
 <p>これらのことをいっそう注意深く私が熟慮する際には、まず立ち現れてくるのは次のことである。すなわち、その理由を私が知解しないような何らかのものが神によって作られるとしても、私は驚いてはならないということ。私は、何故あるいは如何にして神によって作られたのかを私が把握しないような何らかのものが他に存在するということを、ともすれば私が経験するからといって、神の実在について疑ってはならないということである。というのも、すでに私は、私の本性がきわめて弱くて制限されたものであること、しかし神の本性は広大無辺で、把握不可能で、無限であることを知っているのであるから、このことからして十分に、その原因を私が知らずにいるような無数の事柄を神が成しうるということをも知っているからである。こうして、このただ一つの理由のために、目的から求めてこられるのが常である諸原因のあの類全体が、自然学的な諸事物の内にいかなる用途も有さないと、私は思量する。というのも、<strong>私が神の目的を探求しうると考えるのは、向こう見ずなことでしかないからである。</strong></p>
@@ -379,7 +379,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 意志の善用によって実現される完全性に価値を認めることが、道徳の第一原理である<sup>\[15\]</sup>。
 - 自己の完全性を重視することによって形成される徳を、デカルトは「高邁」と呼ぶ<sup>\[30\]</sup>。
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［30</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901386.html"><em>Passions</em> III, 153. AT XI, 445.</a></strong></p>
 <p>高邁は何によって成るか。</p>
 <p>こうして私の思うに、<strong>人間が正当になしうるかぎり最大限に自己を重視するようにさせるところの、真の高邁</strong>は、ただ次の点のみにおいて成り立っている。すなわち、そのひとつは、上述の自由な意志決定のほかには真に自己に属しているものは何もないこと、また、この自由意志の善用あるいは悪用のほかには、正当な称賛あるいは非難の理由は何もないことを認識することである。もうひとつは、自ら最善と判断するすべてを企て実行するために、その自由意志をよく用い、意志を決して捨てまいとする確固不動の決意を自分自身のうちに感得すること、すなわち、完全に徳に従うことである。</p>
@@ -395,7 +395,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 自己の重視とは、自己に固有の価値（完全性）を過不足なく、精確に見積もること＝適正な自己評価である。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［31</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901390.html"><em>Passions</em> III, 157, AT XI, 448–449</a>.</strong></p>
 <p>「高慢」について。</p>
 <p>何ごとであれ、そのほかのことのためにみずからを重しとする人々はすべて、真の高邁の心をもたず、高慢の心をもつだけである。高慢はつねにきわめて悪い。もっとも、人がみずから重んずる理由が、より不当であれば、高慢もそれだけよけいに悪いということにはなるが。<strong>そして、すべてのうち最も不当な高慢は、なんの理由もないのに高慢であること</strong>、すなわち、自分が、当然重んぜられてしかるべきなんらかの美点が自分にはあると考えるのでなく、ただ美点などいうものをまったく無視することによって高慢であること、すなわち、名誉は人から横領すべき何ものかであって、最も多くの名誉を自分にとりこむ者が事実それを最も多くもつのだ、と考えることである。</p>
@@ -418,7 +418,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 結果として、高邁な人は自己の情念を完全に統治し、自己の「主人」となる<sup>\[15\]</sup>。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［33</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901389.html"><em>Passions</em>, III, 156, AT XI, 447–448.</a></strong></p>
 <p>高邁の特性は何か。いかにして高邁は情念のあらゆる錯乱を治しうるか。</p>
 <p>このように、高邁な人々は、本性上、偉大なことを行おうとしているのだが、しかし、<strong>自分の能力のうちにあると感得しないものごとはいっさい企てようとしない</strong>。また、他人のために善をなし、そのためには自分自身の利害を軽視することを最大のことと考えるから、誰に対しても、常にこの上なく礼儀正しく、愛想良く、親切である。またその上、自分の情念を完全に支配している。<strong>自分の力で獲得できないものは、いっさい、たいして期待するには値しないと考えるゆえに、とりわけ欲望、執着、羨みに乱されない</strong>。また、すべての人間を重視するゆえに、人間に対する憎しみに乱されない。また、自分の徳に対する信頼によって心を安んじているゆえに、恐れに乱されない。また最後に、他者に依存するものはすべて、これをただまったく軽くしか見ず、敵から害を加えられると認めるほど敵を優れているとは認めないゆえに、怒りに乱されることもない。</p>
@@ -437,7 +437,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - ➡️ 高邁は、自己にとって内的に成立する価値である。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［36</strong><strong>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/6472">À Elisabethe, 18 mai 1645, AT IV, 202–203</a>.</strong></p>
 <p>しかし、最も偉大な魂と卑しく凡俗な魂との違いは、主として次のことにあると思われます。すなわち、凡俗な魂は自らを情念の赴くままに任せ、彼らにやってくるものが快か不快であるのに応じて幸か不幸であるだけです。これに対して最も偉大な魂は、きわめて強靭で力強い推論をしますので、彼らもまた情念をもち、一般の人よりもより激しい情念をしばしばもつことさえあるにもかかわらず、<strong>彼らの理性はつねに主人であり続け、苦悩でさえも彼らに仕え、この世に生を得てから享受している完全な幸福に貢献するのです</strong>。と申しますのも、その魂は自らを、一方で不死であり、きわめて大きな満足を受け取ることができると見なし、さらに他方で死すべき脆弱な身体、つまり多くの病気にかかりやすく、わずかの年月のうちに死を免れない身体と結び付いていると見なします。そして、この世での運命が自分にほほえむようにするために、できるかぎりのあらゆることをいたしますが、それにもかかわらず永遠の観点からは運命をほとんど評価しないので、<strong>運命がもたらすものをまるで芝居の出来事を見るようにしか見ない</strong>のです。舞台で上演される悲しく痛ましい物語が、われわれの涙を誘っているにもかかわらず、愉快な物語と同じくらい、われわれに気晴らしを与えることがよくあります。それと同じように、私がいまお話しているこれらの最も偉大な魂は、起こり来るすべての事柄において、最も悲痛で耐え難い事柄においてさえも、自らのうちに満足を得るのです。かくして彼らは、身体に苦痛を感じていてもそれに我慢づよく耐えるよう自らを鍛錬します。そして自らの力を試すこの試練が、彼らにとって快いものなのです。同様に、友人が何かたいへん苦悩しているのをみると、彼らはその不幸に同情して、そこから解放されるよう全力をつくします。必要とあらば、そのために死に身をさらすことさえも辞さないのです。それにもかかわらず、彼らがそうすることで自らの義務を果たし、称賛すべき立派な行為をなしたという、彼らの良心の証言は、同情によるあらゆる悲しみが彼らを悲しませる以上に、いっそう彼らを幸福にします。<strong> 結局、どんな大きな幸運も、けっして彼らを熱狂させもしなければより尊大にもしないように、どんな大きな不運もまた彼らを打ちのめすことはできず、魂に結び付いている身体がそのために病気になるほど、悲しませたりすることもできないのです</strong> </p>。
  </div>
@@ -467,7 +467,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - cf. 良識（よく判断する能力）が万人に分配されているという（皮肉混じりの）『序説』の文言<sup>\[38\]</sup>。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
  <p><strong>［37</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901394.html"><em>Passions</em> III, 161, AT 453–454.</a></strong></p>
 <p>それゆえ、な<strong>るほど徳のうちで善い生まれという条件が最も有力にはたらくものは、自分を正しく評価する徳であり、したがって神がわれわれの身体のうちに宿らせる精神はみながみな、等しく高貴で強いとはいえぬことはたやすく納得できる</strong>けれども〔このゆえに私はこの徳をわれわれの国語のいい方に従って、「高邁」（高貴の生まれ）とよび、学院（スコラ哲学）のいい方で──学院はこの徳を正確には知っていない──「大度（Magnanimité）」とよぶことをひかえたのである〕、しかしながら、やはり次のことは確かである。すなわち、<strong>善い教育が生まれつきの欠陥を矯正するのに大いに役にたつ</strong>ということ。そして、自由意志とはなんであるか、自由意志を善く用いようとする確固たる決意をわれわれがもつということから生ずる利益がいかに大きいか、また他方、功名心にとりつかれている人を悩ます心づかいがすべていかにむなしい無用なものであるかを、<strong>よくよく考えることにたびたび心を用いるならば、われわれは自己の中にまず高邁の「情念」をかきたてることができ、次いで高邁の「徳」をわがものにすることができる</strong>ということ。そして、この高邁の徳は、いわば、すべての他の徳の鍵であり、あらゆる情念の迷いに対する万能の薬であるから、右の知見は心にとどめる値うちが大いにある、と私には思われるのである。</p>
@@ -499,7 +499,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 他者を尊敬することは高邁の条件なので<sup>\[41\]</sup>、自己の高邁のために、われわれは他者を尊敬しなければならない。
 
  <p></p>
- <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #ffffff; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
+ <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #f0f0f0; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
  <p><strong>［39</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901388.html"><em>Passions</em>, III, 155, AT XI, 447.</a></strong></p>
 <p>有徳な謙虚とはいかなることか</p>
