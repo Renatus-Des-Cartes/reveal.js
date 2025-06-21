@@ -20,7 +20,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 📄 スライド・引用集のDL →  
 <a href="https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing" target="_blank">
-📝【こちらをクリック】
+【こちらをクリック】
 </a>
 
 </div>
