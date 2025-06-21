@@ -367,7 +367,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 </ul>
 
 ---
-<div style="text-align: left; width: 90%; margin: 0 auto;">
+<div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.1　尊厳としての高邁の成立
 
