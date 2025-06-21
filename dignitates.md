@@ -538,14 +538,14 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ## デカルトの尊厳概念の特徴
 <div style="display: flex; gap: 2em;">
 
-  <div style="flex: 1; background-color: #e6f2ff; padding: 1em; border-radius: 8px;">
+  <div style="flex: 1; background-color: #e6f2ff; padding: 1em; border-radius: 8px;text-align: left;">
 <p><strong>カント的尊厳 </strong></p>
 <p>【権利において】万人に平等に認められる「絶対的で内的な価値」。</p>
 <p>【事実において】その価値の尊重は他者の自由に任せられているため、実現されないことがある。</p>
 <p>【問題】権利と事実のギャップが倫理的な問題になる。</p>
   </div>
 
-  <div style="flex: 1; background-color: #fff3e0; padding: 1em; border-radius: 8px;">
+  <div style="flex: 1; background-color: #fff3e0; padding: 1em; border-radius: 8px;text-align: left;">
 <p><strong>デカルト的尊厳 </strong></p>
 <p>【権利において】自由意志の善用を重視することで実現される価値。</p>
 <p>【事実において】価値の実現が主体のみに依存するため、外的に毀損不可能な「絶対的で内的な価値」。</p>
