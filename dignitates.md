@@ -5,21 +5,16 @@
   </h1>
 
   <div style="font-size: 1em; line-height: 1.8; max-width: 800px; margin: 0 auto; text-align: left;">
-
     <p><strong>2025年6月27日（金）14:00–17:00</strong><br>
     東洋大学 白山キャンパス</p>
-
     <hr style="border: none; border-top: 1px solid #aaa; width: 60%; margin: 1.5em 0;">
-
     <p>
       学術変革領域A「尊厳学の確立」<br>
       A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏まえた欧米圏の尊厳概念史の再構築」<br>
       科研費番号：23A103・23H04850<br>
       「尊厳概念史の再構築に向けて（2）：近世哲学」
     </p>
-
     <hr style="border: none; border-top: 1px solid #aaa; width: 60%; margin: 1.5em 0;">
-
     <p>
       発表者：
       <a href="https://researchmap.jp/tsutsuikazuho" target="_blank">
