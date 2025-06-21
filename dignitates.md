@@ -21,7 +21,7 @@
       <a href="https://researchmap.jp/tsutsuikazuho" target="_blank">
         筒井一穂（東洋大学）
       </a><br>
-      スライド・引用集のDL → 
+      スライド・引用集の印刷用pdf → 
       <a href="https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing" target="_blank">
         【こちらをクリック】
       </a>
