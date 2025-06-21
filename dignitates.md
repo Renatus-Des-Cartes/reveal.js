@@ -1,8 +1,32 @@
-# デカルトと尊厳の問題
+<section data-auto-animate>
 
-- 2025年6月27日（金）14時～17時　東洋大学　白山キャンパス  
-- 学術変革領域A　尊厳学の確立（科研費番号：23A103）・A02班　現代の「被造物の尊厳」などの新たな尊厳概念を踏まえた欧米圏の尊厳概念史の再構築（科研費番号：23H04850）「尊厳概念史の再構築に向けて（2）：近世哲学」
-- 発表者：[筒井一穂（東洋大学）](https://researchmap.jp/tsutsuikazuho "https://researchmap.jp/tsutsuikazuho")
+# <span style="font-size: 1.5em; font-weight: bold;">デカルトと〈尊厳〉の問題</span>
+
+<div style="margin-top: 1em; font-size: 0.95em; line-height: 1.8;">
+
+📅 <strong>2025年6月27日（金）14:00–17:00</strong>  
+📍 東洋大学 白山キャンパス  
+
+<hr style="width: 60%; border-top: 1px solid #aaa;">
+
+学術変革領域A「尊厳学の確立」  
+A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏まえた欧米圏の尊厳概念史の再構築」  
+科研費番号：23A103・23H04850  
+<b>研究会テーマ：</b>「尊厳概念史の再構築に向けて（2）：近世哲学」
+
+<hr style="width: 60%; border-top: 1px solid #aaa;">
+
+👤 発表者：<a href="https://researchmap.jp/tsutsuikazuho" target="_blank">筒井一穂（東洋大学）</a>  
+
+📄 スライド・引用集のDL →  
+<a href="https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing" target="_blank">
+📝【こちらをクリック】
+</a>
+
+</div>
+
+</section>
+
 
 ---
 
@@ -52,7 +76,6 @@
 
 </div>
 
-📝 スライド・引用集の DL は【[こちら](https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing)】
 
 ---
 # 1　予備的考察
