@@ -452,7 +452,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 ## 3.6 高邁と平等
-<p style=text-align: left;"><strong style="color: #cc5500;">【問い】高邁は、カント的尊厳のように、万人に等しく与えられているか？</strong></p>
+<p style=text-align: left !important;"><strong style="color: #cc5500;">【問い】高邁は、カント的尊厳のように、万人に等しく与えられているか？</strong></p>
 
 <div style="height: 1em;"></div>
 
