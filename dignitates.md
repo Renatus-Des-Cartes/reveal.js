@@ -35,7 +35,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <div style="display: flex; gap: 1.5em;">
 
   <div style="flex: 1;">
-<p><strong><strong style="color: #cc5500;">① 予備的考察</strong></p></strong>
+<p><strong style="color: #cc5500;">1 予備的考察</strong></p>
 <ul>
 <li>1.1　デカルトに「尊厳」はない（？）</li>
 <li>1.2　デカルト的「尊厳」概念に向かって</li>
@@ -49,7 +49,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
   </div>
 
   <div style="flex: 1;">
-<p><strong><strong style="color: #cc5500;">② ポジティヴ・アプローチ</strong></p></strong>
+<p><strong style="color: #cc5500;">2 ポジティヴ・アプローチ</strong></p>
 <ul>
 <li>2.1　神の創造と被造物の完全性</li>
 <li>2.2　過誤の回避と意志の善用</li>
@@ -60,7 +60,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
   </div>
 
   <div style="flex: 1;">
-<p><strong>3️⃣ ネガティヴ・アプローチ（？）</strong></p>
+<p><strong style="color: #cc5500;">3 ネガティヴ・アプローチ（？）</strong></p>
 <ul>
 <li>3.1　尊厳としての高邁の成立</li>
 <li>3.2　適切な自己評価としての高邁</li>
