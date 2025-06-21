@@ -581,26 +581,26 @@
 
 ---
 
-<div style="text-align: left; width: 80%; margin: 0 auto;">
+<div style="text-align: center; width: 80%; margin: 0 auto;">
 <h1>まとめ</h1>
 </div>
 <div style="display: flex; gap: 2em; align-items: flex-start; justify-content: space-between;">
 
   <!-- 左カラム -->
   <div style="flex: 1;">
-    <p><strong style="color: #cc5500;">◉ 形而上学では、神の創造に依拠して被造物の「完全性」が知られる。</strong></p>
+    <p><strong style="color: #cc5500;">◉ 形而上学：神の創造から被造物の完全性が帰結。</strong></p>
     <ul>
-      <li>この完全性は、すべての被造物に一義的に分配され、その程度が差異化される。</li>
+      <li>完全性は、すべての被造物に一義的に分配され、その程度が差異化される。</li>
       <li>脱神話化された、人間中心主義的ではない「似像」概念。</li>
     </ul>
   </div>
 
   <!-- 右カラム -->
   <div style="flex: 1;">
-    <p><strong style="color: #cc5500;">◉ 道徳哲学では、その完全性に価値を認める「高邁」が志向される。</strong></p>
+    <p><strong style="color: #cc5500;">◉ 道徳哲学：完全性の価値を重んじる「高邁」。</strong></p>
     <ul>
-      <li>高邁は自己の適切な評価であり、不可侵の内的価値の実現である。</li>
-      <li>ただし、自由意志をもたない存在者は、この価値を実現できないかもしれない。</li>
+      <li>高邁は自己の適切な評価であり、不可侵の内的価値である。</li>
+      <li>ただし高邁を実現できる主体は限られる。</li>
     </ul>
   </div>
 <p></p>
@@ -608,46 +608,57 @@
 
 <table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: fixed;">
 
+  <!-- 列幅の設定 -->
+  <colgroup>
+    <col style="width: 15%;">
+    <col style="width: 42.5%;">
+    <col style="width: 42.5%;">
+  </colgroup>
+
   <!-- タイトル行 -->
   <tr style="background-color: #f0f0f0;">
-    <td colspan="3" style="text-align: center; font-weight: bold; padding: 0.5em;">
+    <td colspan="3" style="text-align: center; font-weight: bold; padding: 0.5em; border: none;">
       尊厳概念の比較
     </td>
   </tr>
 
+  <!-- ヘッダー -->
   <tr>
     <td style="border: none;"></td>
     <td style="border: none; font-weight: bold;">カント的尊厳</td>
     <td style="border: none; font-weight: bold;">デカルト的尊厳</td>
   </tr>
 
+  <!-- 内容行1 -->
   <tr style="background-color: #f0f0f0;">
-    <td style="border: none; font-weight: bold;">【権利において】</td>
+    <td style="border: none; font-weight: bold;">権利において</td>
     <td style="border: none;">
-      万人に平等に認められる「絶対的で内的な価値」。
+      万人に平等に認められる「絶対的で内的な価値」
     </td>
     <td style="border: none;">
-      自由意志の善用を重視することで実現される価値。
+      自由意志の善用を重視することで実現される価値
     </td>
   </tr>
 
+  <!-- 内容行2 -->
   <tr>
-    <td style="border: none; font-weight: bold;">【事実において】</td>
+    <td style="border: none; font-weight: bold;">事実において</td>
     <td style="border: none;">
-      その価値の尊重は他者の自由に任せられているため、実現されないことがある。
+      その価値の尊重は他者の自由に任せられているため、実現されないことがある
     </td>
     <td style="border: none;">
-      価値の実現が主体のみに依存するため、外的に毀損不可能な「絶対的で内的な価値」。
+      価値の実現が主体のみに依存するため、外的に毀損不可能な「絶対的で内的な価値」
     </td>
   </tr>
 
+  <!-- 内容行3 -->
   <tr style="background-color: #f0f0f0;">
-    <td style="border: none; font-weight: bold;">【問題】</td>
+    <td style="border: none; font-weight: bold;">課題点</td>
     <td style="border: none;">
-      権利と事実のギャップが倫理的な問題になる。
+      権利と事実のギャップが生じうる
     </td>
     <td style="border: none;">
-      権利と事実のギャップは問題ではない。権利が限定的な主体にしか与えられないという不平等性が問題。
+      権利が限られた主体にしか与えられないという不平等
     </td>
   </tr>
 
