@@ -367,6 +367,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 </ul>
 
 ---
+<div style="text-align: left; width: 90%; margin: 0 auto;">
 
 ## 3.1　尊厳としての高邁の成立
 
@@ -374,6 +375,8 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p><strong>▶︎ この完全性を価値（valeur）とみなす道徳的観点が加わることで、完全性が「尊厳」と結びつく。</strong></p>
 - 意志の善用によって実現される完全性に価値を認めることが、道徳の第一原理である<sup>\[15\]</sup>。
 - 自己の完全性を重視することによって形成される徳を、デカルトは「高邁」と呼ぶ<sup>\[30\]</sup>。
+</div>
+
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［30</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901386.html"><em>Passions</em> III, 153. AT XI, 445.</a></strong></p>
