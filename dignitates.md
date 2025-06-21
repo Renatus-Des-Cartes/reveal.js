@@ -89,13 +89,13 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li><a href="#/9">1.7　第一原理としての「意志の自由」</a></li>
 <li><a href="#/10">1.8　意志の自由をめぐる、形而上学と道徳哲学の関係</a></li>
 </ul>
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 1.1　デカルトに「尊厳」はない（？）  
 - 尊厳概念の歴史において、デカルトが注目されることは少ない。
 - それどころか、金子のように批判的な見方もある<sup>\[1\]</sup>。
 - <strong>▲デカルトによって、世界から切り離された「近代的自我」が尊厳の主体となる。</strong>
 - <strong>▲宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認める「尊大」に成り下がる。</strong>
-
+</div>
 </p>
 <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［1］金子晴勇（2002）『ヨーロッパの人間像』知泉書館。</strong></p>
@@ -103,7 +103,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 </div>
 
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 1.2　デカルト的「尊厳」概念に向かって  
 - 金子の批判の焦点：「思惟する私」を出発点にするデカルトの哲学は、世界や他者との交流を重視することができず、人間の普遍的価値としての尊厳に至ることができない。
 - この批判のうち、デカルト的自我が「宇宙との一体観」を喪失するという見方にはテクスト的反証がある（2節, [Meditatio IV, AT VII, 55–56.](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html)）。
@@ -112,11 +112,12 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <div style="height: 1em;"></div>
 - <strong style="color: #cc5500;">先回りの結論：デカルト道徳哲学は、「私」に固有の価値に注目することによって、外的情況に左右されない揺るぎない価値＝ある意味で「内的で絶対的な価値」を「私」のうちに見いだす。</strong>
 - 本発表の目的は、デカルトの独特な尊厳概念をつまびらかにするとともに、尊厳概念史におけるその重要性を示すことにある。
----
+</div>
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 1.3　「尊厳」という語のデカルトにおける用例
 - <strong>◉ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong>
 - デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>\[2–6\]</sup>。
-
+</div>
 <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［<strong><em><em>2</em></strong></em>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Posthumes/regulae.xml/regulae_div_1417422235847.html">『規則』「第三規則」</a></strong></p>
@@ -131,13 +132,13 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>今後討論を行うならば、自分をあまりにも貶め、われらがまことに英明なる市参事どのが光栄にも私に本アカデミーにおいて占めるよう求められた場の<strong style="color: #cc5500;">品位</strong>を十分に保ちえないと思います。</p>
 </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 1.4　17世紀における「尊厳」という語の用例
 - デカルトにおける「尊厳」という語の使用法は、17世紀の常識に従う。
 - 17世紀初頭のセミラミストGoclenius (1606) によれば、”dignitas” は「政治学」と「占星術」（自然学）の語彙である<sup>\[7\]</sup>。
 - 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>\[8\]</sup>。
 - Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>\[9\]</sup>。
-    
+    </div>
  <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
     
 <p><strong>［<strong><em><em>7</em></strong></em>］<a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/p1pGQLv5f-EC?hl=ja&gbpv=1&dq=dignitas&pg=PA537&printsec=frontcover">Rodolphus Goclenius, Lexicon Philosophicum, 1613, p. 337.</a></strong></p>
@@ -153,7 +154,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 </div>
 
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 1.5　諸学の第一原理としての「尊厳」という用法
 - 親デカルト主義でプロテスタントの神学者 Chauvin は、”dignitas” を、論理学、形而上学、自然学、幾何学に分ける<sup>\[10\]</sup>。
 - 論理学では、アリストテレス主義的における諸事物のヒエラルキーの枠内で “dignitas” が語られる。
@@ -161,7 +162,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <div style="height: 1em;"></div>
 - <strong style="color: #cc5500;">◉ 「論証されない命題」も “dignitas” と呼ばれる。</strong>
 - 「論証されない命題」とは、いかなる命題にも先立たれない命題。公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義。
-
+</div>
 
  <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>[10]</strong> <a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/TaWy6BLfQ-8C?hl=ja&amp;gbpv=1&amp;dq=dignitas&amp;pg=PA186&amp;printsec=frontcover" target="_blank"><em>Étienne Chauvin (Stephanus Chauvinus), <u>Lexicon Philosophicum</u>, 1692</em></a>.</p>
@@ -178,7 +179,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
   <p>論理学者たちによれば、「尊厳」とは、<strong style="color: #cc5500;">論証不可能な命題</strong>のことであり、何かを学ぼうとする者があらかじめ知っていなければならないものである。たとえば、「いかなるものについても、肯定［あるいは否定］が真である」とか、「すべての全体はその部分より大きい」など。キケロはこのような命題を「言われたこと（effata）」と呼び、ウァッロは（ゲッリウス第18巻第8章の証言によれば）「あらかじめ述べられたこと（profata）」あるいは「あらかじめ語られたこと（proloquia）」と呼んだ。こうした命題が “dignitas” と呼ばれるのは、それらが非常に分明であり、それゆえに信頼に値する（dignus）とされるからである。あるいは、テミスティウスの言うように、それらは、それらの置かれる領域で、原理的な場をもつからである。これらはまた、「<strong style="color: #cc5500;">心の共通概念</strong>（communes animi conceptiones）」とも呼ばれ、あらゆる学問のジャンルへの共通の道であり門である。</p>
 </div>
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 <h2>1.6　デカルト哲学の「第一原理」へ</h2>
 <ul>
 <li><strong>◉ 諸学の「共通概念」を「尊厳」と呼べるなら、デカルトにおいて尊厳を考察するための問いが立つ。</li></strong>
@@ -190,7 +191,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li>また『序説』によれば、「われ思う、ゆえにわれ在り」が「哲学の第一原理」である<sup>[12]</sup>。</li>
 <li>公理や第一原理とは、先入見が取り除かれるなら、自ずから知られる諸真理である。</li>
 </ul>
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［11</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 49</a>, AT VIII-1, 23–24.</strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -202,7 +203,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 1.7　第一原理としての「意志の自由」
 - <strong style="color: #cc5500;">◉ 尊厳と関連づけるのに重要な第一原理は、「意志の自由」である。</strong>
 - 意志の自由は、『原理』では「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>\[13\]</sup>。
@@ -210,7 +211,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <div style="height: 1em;"></div>
 - <strong>▶︎ 『情念論』では、意志の自由という価値が「知恵の最も原理的な部分」が達成されると言われる<sup>\[15\]</sup>。</strong>
 - 意志の自由という第一原理から「尊厳」へと展開する解釈的な道が見いだされる。
-
+</div>
  <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［13</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 39, AT VIII-1, 19–20.</a></strong></p>
 <p>意志の自由は自ずから知られること。</p>
@@ -224,7 +225,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>そして、<strong style="color: #cc5500;">知恵の最も原理的な部分のひとつは、いかなる仕方において、また、いかなる根拠によって、各人は自分を重視あるいは軽視すべきか、を知ること</strong>であるから、私はここで、それについての私の意見を述べることにする。私は、自分を重視する正しい根拠になると思われるものを、われわれのうちにただひとつしか認めない。すなわち、われわれの自由意志の行使権、われわれが自分の意志に対してもつ支配権である。事実、われわれが正当に称賛され、または非難されるのは、ただ、この自由意志に依拠する行為においてのみである。またわれわれが、自由意志の与える権利を怠惰によって失わないかぎり、<strong style="color: #cc5500;">自由意志はわれわれをわれわれ自身の主人たらしめるのであり、かくして、われわれをなんらかの仕方で神に似たものにするのである</strong>。</p>
 
 </div>
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 1.8　意志の自由をめぐる、形而上学と道徳哲学の関係
 - デカルトは、意志の自由について、形而上学的考察（『省察』『原理』）と道徳哲学的考察（『情念論』）とを展開している。
@@ -234,7 +235,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <div style="height: 1em;"></div>
 
 <strong style="color: #cc5500;">▶︎ 尊厳を考察するためには、完全性についての形而上学と、それに基づく道徳哲学の両方が必要。</strong>
-
+</div>
 ---
 # 2　ポジティヴ・アプローチ
 <ul>
@@ -244,12 +245,12 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li><a href="#/15">2.4　人間的完全性の「脱神話化」</a></li>
 <li><a href="#/16">2.5　創造の目的の不可知性</a></li>
 </ul>
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 2.1　神の創造と被造物の完全性
 - 「第三省察」の神証明を通じて、神があらゆる事物の創造者（原因）であることが知られる<sup>\[16\]</sup>。
 - 「第四省察」によれば、神は卓越した創造者なので、その作品はすべて完全である<sup>\[17\]</sup>。
 - もちろん、省察者「私」もいわば神の作品なので、本来のところ完全性をもつ存在者である<sup>\[18\]</sup>。
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［16</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_3.html">Meditatio III, AT VII, 49–50.</a></strong></p>
@@ -260,7 +261,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>実際、神が私を創造するにあたって、あたかも工匠が<strong style="color: #cc5500;">彼の作品</strong>に自分のしるしを刻印するように、みずからの観念を私の中に植えつけたということは、なんら怪しむべきことではない。またそのしるしが作品そのものと異なった何ものかである必要もないのである。それどころか、神が私を創造したというただこのことからして、私がある意味で神の似像と似姿にかたどってつくられているということ、そして、神の観念が含まれているこの似姿は、私が私自身をとらえるに用いると同じ能力をもって、私によってとらえられるのだということは、きわめて信じうることなのである。</p>
   
  </div>
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 2.2　過誤の回避と意志の善用
 - 【問い】ほんらい完全なはずの私になぜ欠陥があるのか。なぜ私はしばしば真理を得られず、虚偽へと向かうのか<sup>\[16\]</sup>。
@@ -271,7 +272,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 逆に、与えられた判断能力（特に意志）を善用するかぎり、私は神に与えられた本来の完全性を実現する。
 <div style="height: 1em;"></div>
 <strong style="color: #cc5500;">◉ 意志の善用によって実現される本来的完全性は、「人間的完全性」と呼ばれる<sup>\[21,22\]</sup>。</strong>
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
@@ -289,13 +290,14 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>反対に、意志が最も広い範囲におよぶということは、これもまた意志の本性にふさわしいことである。そして、人間が意志によって、すなわち自由に行為するということ、またそのことによって、ある独特の仕方で自分自身の行為の作者であり、この行為のゆえに称賛に値するということは、<strong style="color: #cc5500;">人間におけるいわば最高の完全性</strong>を示すものである。実際、自動機械は、そこに仕組まれている運動のすべてを正確におこなうからといって、称賛されることはない。というのも、自動機械は、その運動を必然的におこなっているからである。ところで、自動機械を製作した技術者のほうは、それほどまでに正確な自動機械を製作したという理由で称賛される。というのも、その者は必然的にではなく、自由にこの自動機械を製作したからである。同じ理由で、真理を捉えるにしても、［外的な原因によって］真理を捉えないわけにはいかなくて真理を捉えるときよりも、意志的に行為して、その結果、真理を捉えるときのほうが、いっそう多くが、明らかに、われわれの功績に帰されるべきである。</p>
  </div>
  
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 2.3　意志の完全性と神の似像
 
 - 意志の善用によって実現される意志本来の完全性はきわめて大きい<sup>\[23\]</sup>。
 - <strong style="color: #cc5500;">◉ 意志の完全性が、私を神の似像にさせる。</strong>
 - 意志の自由とは、「外的な力によらず、自分自身を動かす」内的な力であり、この力は、何ものにも制限されることがないから（大西2014, 398）。
 - 意志の善用を通じて、その本来の完全性が実現されるとき、われわれは「神の似像」を担う<sup>\[24\]</sup>。
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［23</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 57.</a></strong></p>
@@ -304,7 +306,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
  </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 2.4　人間的完全性の「脱神話化」
 
@@ -314,7 +316,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - その類似性は、「存在者」や「実体」といった一般的概念の共通性である。
 - 結果、人間のみならずあらゆる被造物が神の似像になる。人間は、神との類似性の程度において、他の被造物に優っているにすぎない。
 
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［<strong><em><em>26</em></strong></em>］</strong><strong><a href="https://gallica.bnf.fr/ark:/12148/bpt6k20737n/f53.item">Entretien avec Burman, AT V, 156.</a></strong></p>
@@ -328,7 +330,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>この似像はといえば、私はこれを通常理解されるような仕方で、すなわち、他のもの従って形作られ描かれたものを指すものとして理解しているのではなく、むしろより広い意味で、他のもの等との類似性持つもの、と理解しています。こうして私は『省察』の中でこれらの語を利用しましたが、それは聖書の至る所で［われわれが］神の似像に従って創り上げられたと言われているからです。</p>
  </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 2.5　創造の目的の不可知性
 
@@ -337,7 +339,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p><strong style="color: #cc5500;">◉ 人間の本来的完全性は、神の創造の目的を推察することによってではなく、われわれが各人のうちで、自身の本性を哲学的に省察することによって掴まれる。</strong></p>
 - 哲学的省察とは、自らのうちに意志の自由を発見し、それを善用する仕方を知ること。
 - デカルトの哲学的「似像」論の成立。
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
@@ -384,7 +386,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>こうして私の思うに、<strong style="color: #cc5500;">人間が正当になしうるかぎり最大限に自己を重視するようにさせるところの、真の高邁</strong>は、ただ次の点のみにおいて成り立っている。すなわち、そのひとつは、上述の自由な意志決定のほかには真に自己に属しているものは何もないこと、また、この自由意志の善用あるいは悪用のほかには、正当な称賛あるいは非難の理由は何もないことを認識することである。もうひとつは、自ら最善と判断するすべてを企て実行するために、その自由意志をよく用い、意志を決して捨てまいとする確固不動の決意を自分自身のうちに感得すること、すなわち、完全に徳に従うことである。</p>
  </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.2 適切な自己評価としての高邁
 
@@ -392,7 +394,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
     - ただしこの「重視」は、自己の過大評価としての「高慢」とは異なる<sup>\[31\]</sup>。
     - そしてまた、高邁は自己の過小な評価としての「卑下」とも異なる<sup>\[32\]</sup>。
 - 自己の重視とは、自己に固有の価値（完全性）を過不足なく、精確に見積もること＝適正な自己評価である。
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［31</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901390.html"><em>Passions</em> III, 157, AT XI, 448–449</a>.</strong></p>
@@ -406,7 +408,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
  </div>
  
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.3 高邁と自己の統治
 
@@ -415,7 +417,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
     - この点で高邁は、『序説』の道徳の第三格率と重なる<sup>\[34\]</sup>。
     - また、エリザベトにもデカルトは同様の旨を述べている<sup>\[35\]</sup>。
 - 結果として、高邁な人は自己の情念を完全に統治し、自己の「主人」となる<sup>\[15\]</sup>。
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［33</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/passions.xml/passion_div_1417441901389.html"><em>Passions</em>, III, 156, AT XI, 447–448.</a></strong></p>
@@ -427,21 +429,21 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>第三は、できるかぎり理性にしたがって自分を導きながら、<strong style="color: #cc5500;">自分の所有していない善はどれも全く自分の力の外にあるものと考え、こうしてそれを決して欲しがらないように習慣づけること</strong>です。というのも、欲望、後悔ないし悔恨ほど、われわれを満足させないようにしうるものはないからです。しかし、常に理性の教えるところをすべてなすならば、たとえその後で、さまざまな出来事がわれわれが誤っていることを示していても、悔恨すべきいかなる理由もありません。それはわれわれの欠陥によるものではないからです。そして、たとえばもっと腕や舌が欲しいとは思わないが、もっと健康や富が欲しいと思うのは、ただこれらのことは、われわれの行為によって得ることができるかもしれない、あるいはそれはわれわれの本性によるものであって他のものとは違う、と想像するからです。そうした意見から脱するには、次のように考えればいいのです。すなわち、われわれは常に理性のすすめにしたがってきたのだから、われわれの力のうちにあるものは何も見落とさなかった、そしてまた病気や不運は、繁栄や健康に劣らず人間に自然なものである、と。</p>
  </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.4　高邁は自己にとって内的な価値である
 - 高邁の本質は、自己の外側にあるものに左右されずに、自分で自分を適正に評価することにある。
 - そのため、外的情況がどれほど過酷で悲惨なものであっても、われわれは高邁に至ることができる<sup>\[36\]</sup>。
 - 高邁な人は、自己の情念を完全に統治しているので、自己の外側の出来事に由来する情念に揺るがされない。
 <p><strong style="color: #cc5500;">▶︎ 高邁は、自己にとって内的に成立する価値である。</strong></p>
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［36</strong><strong>］<a href="https://ckcc.huygens.knaw.nl/epistolarium/letter.html?id=desc004/6472">À Elisabethe, 18 mai 1645, AT IV, 202–203</a>.</strong></p>
 <p>しかし、最も偉大な魂と卑しく凡俗な魂との違いは、主として次のことにあると思われます。すなわち、凡俗な魂は自らを情念の赴くままに任せ、彼らにやってくるものが快か不快であるのに応じて幸か不幸であるだけです。これに対して最も偉大な魂は、きわめて強靭で力強い推論をしますので、彼らもまた情念をもち、一般の人よりもより激しい情念をしばしばもつことさえあるにもかかわらず、<strong style="color: #cc5500;">彼らの理性はつねに主人であり続け、苦悩でさえも彼らに仕え、この世に生を得てから享受している完全な幸福に貢献するのです</strong>。と申しますのも、その魂は自らを、一方で不死であり、きわめて大きな満足を受け取ることができると見なし、さらに他方で死すべき脆弱な身体、つまり多くの病気にかかりやすく、わずかの年月のうちに死を免れない身体と結び付いていると見なします。そして、この世での運命が自分にほほえむようにするために、できるかぎりのあらゆることをいたしますが、それにもかかわらず永遠の観点からは運命をほとんど評価しないので、<strong style="color: #cc5500;">運命がもたらすものをまるで芝居の出来事を見るようにしか見ない</strong>のです。舞台で上演される悲しく痛ましい物語が、われわれの涙を誘っているにもかかわらず、愉快な物語と同じくらい、われわれに気晴らしを与えることがよくあります。それと同じように、私がいまお話しているこれらの最も偉大な魂は、起こり来るすべての事柄において、最も悲痛で耐え難い事柄においてさえも、自らのうちに満足を得るのです。かくして彼らは、身体に苦痛を感じていてもそれに我慢づよく耐えるよう自らを鍛錬します。そして自らの力を試すこの試練が、彼らにとって快いものなのです。同様に、友人が何かたいへん苦悩しているのをみると、彼らはその不幸に同情して、そこから解放されるよう全力をつくします。必要とあらば、そのために死に身をさらすことさえも辞さないのです。それにもかかわらず、彼らがそうすることで自らの義務を果たし、称賛すべき立派な行為をなしたという、彼らの良心の証言は、同情によるあらゆる悲しみが彼らを悲しませる以上に、いっそう彼らを幸福にします。<strong style="color: #cc5500;"> 結局、どんな大きな幸運も、けっして彼らを熱狂させもしなければより尊大にもしないように、どんな大きな不運もまた彼らを打ちのめすことはできず、魂に結び付いている身体がそのために病気になるほど、悲しませたりすることもできないのです</strong> </p>。
  </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.5 高邁の外的な毀損不可能性と、内的な毀損可能性
 - 高邁は内的な価値であり、外的情況がどれほど過酷で悲惨でも、毀損されない<sup>\[36\]</sup>。
@@ -451,8 +453,8 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 他方で、高邁の成否は自己自身に依存するので、自己の価値を認められなくなれば、直ちに喪失される。
 - 「怠惰」<sup>\[14\]</sup>のゆえに「高慢」や「卑下」に堕する場合など。
 - <strong style="color: #cc5500;">◉　高邁が毀損されるのは、内的な自己重視が失われるときであり、そのときのみ。</strong>
-
----
+</div>
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.6 高邁と平等
 <p style=text-align: left !important;"><strong style="color: #cc5500;">【問い】高邁は、カント的尊厳のように、万人に等しく与えられているか？</strong></p>
@@ -462,7 +464,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - 高邁の実現のしやすさ/しがたさは、「生まれの高貴さ」に左右される。
 - ただし、高邁の実現可能性そのものは、後天的な教育や習慣によって、万人に与えられうる<sup>\[37\]</sup>。
 - cf. 良識（よく判断する能力）が万人に分配されているという（皮肉混じりの）『序説』の文言<sup>\[38\]</sup>。
-
+</div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
@@ -473,7 +475,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
  </div>
 
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.7　高邁の事実的な不平等性
 <p><strong style="color: #cc5500;">【疑問】高邁を実現できない＝自由意志を善用できない精神に、価値はないのか？</strong></p>
@@ -485,8 +487,8 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <ul>
 <li><strong>② 自由意志を善用できるとは思われない精神</strong>：胎児、精神疾患者、意識障がい、あるいは動物など、情況がどのようであれ、自由意志の善用が困難に見えるひと</li>
 </ul>
-
----
+</div>
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 
 ## 3.8　　高邁の条件としての他者への尊敬
 <p><strong style="color: #cc5500;">① 情況によって自由意志の善用が困難なひとに対しては、「尊敬」をもつことが高邁の要件である。</strong></p>
@@ -495,6 +497,8 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li>それゆえ、他者は「尊敬」の対象となる<sup>[40]</sup>。</li>
 <li>他者を尊敬することは高邁の条件なので<sup>[41]</sup>、自己の高邁のために、われわれは他者を尊敬しなければならない。</li>
 </ul>
+</div>
+
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 
@@ -509,7 +513,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <p>自己自身についてこういう認識とこういう感情とをもつ人々は、他の人もまたおのおのそういう自己認識と自己感情とをもちうることをたやすく確信する。なぜなら、このことにおいては、誰も他人に依存するところはないのだからである。それゆえ、そういう人々は、だれをも軽視しない。そして、他の人がその弱点を暴露するようなあやまちをおかすのをたびたび見ても、その人を責めるよりは、ゆるすほうに傾き、他人があやまちをおかすのは、善き意志の欠如によるよりはむしろ、認識の欠如によると考えることに傾く。また、そういう人々は、みずからよりも多くの財産や名誉をもつ人々に対し、さらには自分よりも多くの知力、知識、美しさをもつ人々、また一般に他のなんらかの完全性において自分よりすぐれている人々に対してさえも、自分がひどく劣っているとは考えないが、同時にまた、自分よりも劣っている人々に対して、みずからをひどく高く評価することもないのである。なぜならば、<strong style="color: #cc5500;">これらすべての事がらは、彼らにとっては、善き意志に比すれば、まことにとるにたらぬ事がらだと思われるからである</strong>。<strong style="color: #cc5500;">善き意志こそ、彼らが自己を重んずる唯一の理由であり、かつ他人の一人一人にもまたあり、あるいは少なくともありうる、と彼らの考えるところのものなのである</strong>。</p>
  </div>
 
----
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 3.9　 尊敬の射程の限界
 <p><strong>② 自由意志を用いることができないように思われる存在者は、そのように思われるがゆえに、「尊敬」の対象にできない。</strong></p>
 <ul>
@@ -519,7 +523,9 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li>意志以外の価値を意志と同等のものとして認めるためには、別の第一原理が必要。だが、そのような記述はない。</li>
 </ul>
 <p><strong style="color: #cc5500;"><strong style="color: #cc5500;">▶︎ カント流の平等主義的尊厳を、デカルトのテクストに見いだすのは難しい。 </strong></strong></p>
----
+</div>
+
+--- <div style="text-align: left; width: 80%; margin: 0 auto;">
 # まとめ
 
 - <strong style="color: #cc5500;">◉ 形而上学では、神の創造に依拠して被造物の「完全性」が知られる。</strong>
@@ -531,7 +537,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 - <strong style="color: #cc5500;">◉ 道徳哲学では、その完全性に価値を認める「高邁」が志向される。</strong>
 - 高邁は自己の適切な評価であり、不可侵の内的価値の実現である。
 - ただし、自由意志をもたない存在者は、この価値を実現できないかもしれない。
-
+</div>
 ---
 
 ## デカルトの尊厳概念の特徴
