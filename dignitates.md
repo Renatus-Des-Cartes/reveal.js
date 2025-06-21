@@ -1,5 +1,5 @@
 <section data-auto-animate>
-# <span style="font-size: 1.5em; font-weight: bold;">デカルトと尊厳の問題</span>
+<span style="font-size: 1.5em; font-weight: bold;">デカルトと尊厳の問題</span>
 <div style="margin-top: 1em; font-size: 0.95em; line-height: 1.8;">
 <strong>2025年6月27日（金）14:00–17:00</strong>  
 東洋大学 白山キャンパス  
@@ -77,11 +77,13 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.1　デカルトに「尊厳」はない（？）  
-- 尊厳概念の歴史において、デカルトが注目されることは少ない。
-- それどころか、金子のように批判的な見方もある<sup>\[1\]</sup>。
-- <strong>▲デカルトによって、世界から切り離された「近代的自我」が尊厳の主体となる。</strong>
-- <strong>▲宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認める「尊大」に成り下がる。</strong>
+<h2>1.1　デカルトに「尊厳」はない（？）</h2>
+<ul>
+<li>尊厳概念の歴史において、デカルトが注目されることは少ない。</li>
+<li>それどころか、金子のように批判的な見方もある<sup>[1]</sup>。</li>
+<li><strong>▲デカルトによって、世界から切り離された「近代的自我」が尊厳の主体となる。</strong></li>
+<li><strong>▲宇宙との一体観は失われ、尊厳は、自我が自分自身に価値を認める「尊大」に成り下がる。</strong></li>
+</ul>
 </div>
 <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［1］金子晴勇（2002）『ヨーロッパの人間像』知泉書館。</strong></p>
@@ -91,11 +93,14 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.2　デカルト的「尊厳」概念に向かって  
-- 金子の批判の焦点：「思惟する私」を出発点にするデカルトの哲学は、世界や他者との交流を重視することができず、人間の普遍的価値としての尊厳に至ることができない。
-- この批判のうち、デカルト的自我が「宇宙との一体観」を喪失するという見方にはテクスト的反証がある（2節, [Meditatio IV, AT VII, 55–56.](https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html)）。
-- デカルト的尊厳が他者を軽視する「尊大」に結びつくという見方にもテクスト的反証がある（3節）。
-- <strong>◉しかし、デカルト的尊厳があくまで思考する「私」の価値を問題にするという指摘は正しい。</strong>
+<h2>1.2　デカルト的「尊厳」概念に向かって</h2>
+<ul>
+<li>金子の批判の焦点：「思惟する私」を出発点にするデカルトの哲学は、世界や他者との交流を重視することができず、人間の普遍的価値としての尊厳に至ることができない。</li>
+<li>この批判のうち、デカルト的自我が「宇宙との一体観」を喪失するという見方にはテクスト的反証がある（2節, <a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 55–56.</a>）。</li>
+<li>デカルト的尊厳が他者を軽視する「尊大」に結びつくという見方にもテクスト的反証がある（3節）。</li>
+<li><strong>◉しかし、デカルト的尊厳があくまで思考する「私」の価値を問題にするという指摘は正しい。</strong></li>
+</ul>
+</div>  
 <div style="height: 1em;"></div>
 - <strong style="color: #cc5500;">先回りの結論：デカルト道徳哲学は、「私」に固有の価値に注目することによって、外的情況に左右されない揺るぎない価値＝ある意味で「内的で絶対的な価値」を「私」のうちに見いだす。</strong>
 - 本発表の目的は、デカルトの独特な尊厳概念をつまびらかにするとともに、尊厳概念史におけるその重要性を示すことにある。
@@ -104,9 +109,11 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.3　「尊厳」という語のデカルトにおける用例
-- <strong>◉ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong>
-- デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>\[2–6\]</sup>。
+<h2>1.3　「尊厳」という語のデカルトにおける用例</h2>
+<ul>
+<li><strong>◉ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong></li>
+<li>デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>[2–6]</sup>。</li>
+</ul>
 </div>
 <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -125,11 +132,13 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.4　17世紀における「尊厳」という語の用例
-- デカルトにおける「尊厳」という語の使用法は、17世紀の常識に従う。
-- 17世紀初頭のセミラミストGoclenius (1606) によれば、”dignitas” は「政治学」と「占星術」（自然学）の語彙である<sup>\[7\]</sup>。
-- 仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>\[8\]</sup>。
-- Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>\[9\]</sup>。
+<h2>1.4　17世紀における「尊厳」という語の用例</h2>
+<ul>
+<li>デカルトにおける「尊厳」という語の使用法は、17世紀の常識に従う。</li>
+<li>17世紀初頭のセミラミストGoclenius (1606) によれば、”dignitas” は「政治学」と「占星術」（自然学）の語彙である<sup>[7]</sup>。</li>
+<li>仏語辞書 Furetière (1690) は、聖職者の身分を指すとの語釈のみ<sup>[8]</sup>。</li>
+<li>Le Dictionnaire de l'Académie française (1694) は、聖職者の身分に加え、Goclenius の言う政治学的語義を紹介している<sup>[9]</sup>。</li>
+</ul>
     </div>
  <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
     
@@ -148,13 +157,17 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.5　諸学の第一原理としての「尊厳」という用法
-- 親デカルト主義でプロテスタントの神学者 Chauvin は、”dignitas” を、論理学、形而上学、自然学、幾何学に分ける<sup>\[10\]</sup>。
-- 論理学では、アリストテレス主義的における諸事物のヒエラルキーの枠内で “dignitas” が語られる。
-- 自然学では、そのヒエラルキーが実在する個々の「実体」の間のヒエラルキーと対応付けられる。
+<h2>1.5　諸学の第一原理としての「尊厳」という用法</h2>
+<ul>
+<li>親デカルト主義でプロテスタントの神学者 Chauvin は、”dignitas” を、論理学、形而上学、自然学、幾何学に分ける<sup>[10]</sup>。</li>
+<li>論理学では、アリストテレス主義的における諸事物のヒエラルキーの枠内で “dignitas” が語られる。</li>
+<li>自然学では、そのヒエラルキーが実在する個々の「実体」の間のヒエラルキーと対応付けられる。</li>
+</ul>
 <div style="height: 1em;"></div>
-- <strong style="color: #cc5500;">◉ 「論証されない命題」も “dignitas” と呼ばれる。</strong>
-- 「論証されない命題」とは、いかなる命題にも先立たれない命題。公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義。
+<ul>
+<li><strong style="color: #cc5500;">◉ 「論証されない命題」も “dignitas” と呼ばれる。</strong></li>
+<li>「論証されない命題」とは、いかなる命題にも先立たれない命題。公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義。</li>
+</ul>
 </div>
  <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>[10]</strong> <a href="https://www.google.co.jp/books/edition/Lexicon_philosophicum/TaWy6BLfQ-8C?hl=ja&amp;gbpv=1&amp;dq=dignitas&amp;pg=PA186&amp;printsec=frontcover" target="_blank"><em>Étienne Chauvin (Stephanus Chauvinus), <u>Lexicon Philosophicum</u>, 1692</em></a>.</p>
@@ -170,8 +183,9 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
 <h2>1.6　デカルト哲学の「第一原理」へ</h2>
+
+<strong>◉ 諸学の「共通概念」を「尊厳」と呼べるなら、デカルトにおいて尊厳を考察するための問いが立つ。</strong>
 <ul>
-<li><strong>◉ 諸学の「共通概念」を「尊厳」と呼べるなら、デカルトにおいて尊厳を考察するための問いが立つ。</li></strong>
 <li><strong style="color: #cc5500;">デカルトにとって、諸学の「共通概念」とは何だろうか。また、それは人間の尊厳へと展開する余地をもつだろうか？</strong></li>
 </ul>
 <div style="height: 1em;"></div>
@@ -193,13 +207,17 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.7　第一原理としての「意志の自由」
-- <strong style="color: #cc5500;">◉ 尊厳と関連づけるのに重要な第一原理は、「意志の自由」である。</strong>
-- 意志の自由は、『原理』では「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>\[13\]</sup>。
-- 同様に『省察』「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>\[14\]</sup>。
+<h2>1.7　第一原理としての「意志の自由」</h2>
+<ul>
+<li><strong style="color: #cc5500;">◉ 尊厳と関連づけるのに重要な第一原理は、「意志の自由」である。</strong></li>
+<li>意志の自由は、『原理』では「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>[13]</sup>。</li>
+<li>同様に『省察』「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>[14]</sup>。</li>
+</ul>
 <div style="height: 1em;"></div>
-- <strong>▶︎ 『情念論』では、意志の自由という価値が「知恵の最も原理的な部分」が達成されると言われる<sup>\[15\]</sup>。</strong>
-- 意志の自由という第一原理から「尊厳」へと展開する解釈的な道が見いだされる。
+<ul>
+<li><strong>▶︎ 『情念論』では、意志の自由という価値が「知恵の最も原理的な部分」が達成されると言われる<sup>[15]</sup>。</strong></li>
+<li>意志の自由という第一原理から「尊厳」へと展開する解釈的な道が見いだされる。</li>
+</ul>
 </div>
  <p></p><div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
 <p><strong>［13</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/principia.xml/principia_partie_1.html#E18"><em>Principia</em> I, 39, AT VIII-1, 19–20.</a></strong></p>
@@ -215,10 +233,12 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 1.8　意志の自由をめぐる、形而上学と道徳哲学の関係
-- デカルトは、意志の自由について、形而上学的考察（『省察』『原理』）と道徳哲学的考察（『情念論』）とを展開している。
-- <strong>① 形而上学：自由意志が人間の「完全性」を構築する。</strong>
-- <strong>② 道徳哲学：完全性の「価値」に基づき道徳を構築する<sup>\[15\]</sup>。</strong>
+<h2>1.8　意志の自由をめぐる、形而上学と道徳哲学の関係</h2>
+<ul>
+<li>デカルトは、意志の自由について、形而上学的考察（『省察』『原理』）と道徳哲学的考察（『情念論』）とを展開している。</li>
+<li><strong>① 形而上学：自由意志が人間の「完全性」を構築する。</strong></li>
+<li><strong>② 道徳哲学：完全性の「価値」に基づき道徳を構築する<sup>[15]</sup>。</strong></li>
+</ul>
 <div style="height: 1em;"></div>
 <strong style="color: #cc5500;">▶︎ 尊厳を考察するためには、完全性についての形而上学と、それに基づく道徳哲学の両方が必要。</strong>
 </div>
