@@ -16,7 +16,9 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 </a>
 </div>
 </section>
+
 ---
+
 ## 目次
 <div style="display: flex; gap: 1.5em;">
   <div style="flex: 1;">
