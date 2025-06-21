@@ -4,8 +4,8 @@
 
 <div style="margin-top: 1em; font-size: 0.95em; line-height: 1.8;">
 
-📅 <strong>2025年6月27日（金）14:00–17:00</strong>  
-📍 東洋大学 白山キャンパス  
+<strong>2025年6月27日（金）14:00–17:00</strong>  
+東洋大学 白山キャンパス  
 
 <hr style="width: 60%; border-top: 1px solid #aaa;">
 
@@ -16,9 +16,9 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 <hr style="width: 60%; border-top: 1px solid #aaa;">
 
-👤 発表者：<a href="https://researchmap.jp/tsutsuikazuho" target="_blank">筒井一穂（東洋大学）</a>  
+発表者：<a href="https://researchmap.jp/tsutsuikazuho" target="_blank">筒井一穂（東洋大学）</a>  
 
-📄 スライド・引用集のDL →  
+スライド・引用集のDL → 
 <a href="https://drive.google.com/drive/folders/1An4fflWqLsHpToL9K3OO7jwJS5SIUxv2?usp=sharing" target="_blank">
 【こちらをクリック】
 </a>
