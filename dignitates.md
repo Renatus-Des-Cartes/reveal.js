@@ -98,10 +98,9 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li>金子の批判の焦点：「思惟する私」を出発点にするデカルトの哲学は、世界や他者との交流を重視することができず、人間の普遍的価値としての尊厳に至ることができない。</li>
 <li>この批判のうち、デカルト的自我が「宇宙との一体観」を喪失するという見方にはテクスト的反証がある（2節, <a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 55–56.</a>）。</li>
 <li>デカルト的尊厳が他者を軽視する「尊大」に結びつくという見方にもテクスト的反証がある（3節）。</li>
-<li><strong>◉しかし、デカルト的尊厳があくまで思考する「私」の価値を問題にするという指摘は正しい。</strong></li>
 </ul>
-</div>  
-<div style="height: 1em;"></div>
+<strong>◉しかし、デカルト的尊厳があくまで思考する「私」の価値を問題にするという指摘は正しい。</strong>
+<p></p>
 - <strong style="color: #cc5500;">先回りの結論：デカルト道徳哲学は、「私」に固有の価値に注目することによって、外的情況に左右されない揺るぎない価値＝ある意味で「内的で絶対的な価値」を「私」のうちに見いだす。</strong>
 - 本発表の目的は、デカルトの独特な尊厳概念をつまびらかにするとともに、尊厳概念史におけるその重要性を示すことにある。
 </div>
@@ -110,8 +109,8 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
 <h2>1.3　「尊厳」という語のデカルトにおける用例</h2>
+<p><strong>◉ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong></p>
 <ul>
-<li><strong>◉ デカルトにおける尊厳概念を考察するにあたり、「尊厳（dignitas/dignité）」という語は手がかりにならない。</strong></li>
 <li>デカルトにおいてこの語は、「品位」や「名誉」などの社会的性質を指すものでしかない<sup>[2–6]</sup>。</li>
 </ul>
 </div>
@@ -163,9 +162,9 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li>論理学では、アリストテレス主義的における諸事物のヒエラルキーの枠内で “dignitas” が語られる。</li>
 <li>自然学では、そのヒエラルキーが実在する個々の「実体」の間のヒエラルキーと対応付けられる。</li>
 </ul>
-<div style="height: 1em;"></div>
+<p></p>
+<p><strong style="color: #cc5500;">◉ 「論証されない命題」も “dignitas” と呼ばれる。</strong></p>
 <ul>
-<li><strong style="color: #cc5500;">◉ 「論証されない命題」も “dignitas” と呼ばれる。</strong></li>
 <li>「論証されない命題」とは、いかなる命題にも先立たれない命題。公理（axioma）、共通概念（conceptus communis）、共通知見（notio communis）、第一原理（primum principium）などと同義。</li>
 </ul>
 </div>
@@ -188,7 +187,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <ul>
 <li><strong style="color: #cc5500;">デカルトにとって、諸学の「共通概念」とは何だろうか。また、それは人間の尊厳へと展開する余地をもつだろうか？</strong></li>
 </ul>
-<div style="height: 1em;"></div>
+<p></p>
 <ul>
 <li>デカルトは『原理』49項において、複数の「共通概念あるいは公理」ないし「永遠真理」を挙げている<sup>[11]</sup>。</li>
 <li>また『序説』によれば、「われ思う、ゆえにわれ在り」が「哲学の第一原理」である<sup>[12]</sup>。</li>
@@ -208,12 +207,12 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
 <h2>1.7　第一原理としての「意志の自由」</h2>
+<p><strong style="color: #cc5500;">◉ 尊厳と関連づけるのに重要な第一原理は、「意志の自由」である。</strong></p>
 <ul>
-<li><strong style="color: #cc5500;">◉ 尊厳と関連づけるのに重要な第一原理は、「意志の自由」である。</strong></li>
 <li>意志の自由は、『原理』では「われわれに本有的な、第一の最も共通な概念」に数えられる<sup>[13]</sup>。</li>
 <li>同様に『省察』「諸根拠」でも、意志の自由は「公理いうならば共通知見」に含まれる<sup>[14]</sup>。</li>
 </ul>
-<div style="height: 1em;"></div>
+<p></p>
 <ul>
 <li><strong>▶︎ 『情念論』では、意志の自由という価値が「知恵の最も原理的な部分」が達成されると言われる<sup>[15]</sup>。</strong></li>
 <li>意志の自由という第一原理から「尊厳」へと展開する解釈的な道が見いだされる。</li>
@@ -239,7 +238,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <li><strong>① 形而上学：自由意志が人間の「完全性」を構築する。</strong></li>
 <li><strong>② 道徳哲学：完全性の「価値」に基づき道徳を構築する<sup>[15]</sup>。</strong></li>
 </ul>
-<div style="height: 1em;"></div>
+<p></p>
 <strong style="color: #cc5500;">▶︎ 尊厳を考察するためには、完全性についての形而上学と、それに基づく道徳哲学の両方が必要。</strong>
 </div>
 
@@ -257,10 +256,12 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 2.1　神の創造と被造物の完全性
-- 「第三省察」の神証明を通じて、神があらゆる事物の創造者（原因）であることが知られる<sup>\[16\]</sup>。
-- 「第四省察」によれば、神は卓越した創造者なので、その作品はすべて完全である<sup>\[17\]</sup>。
-- もちろん、省察者「私」もいわば神の作品なので、本来のところ完全性をもつ存在者である<sup>\[18\]</sup>。
+<h2>2.1　神の創造と被造物の完全性</h2>
+<ul>
+<li>「第三省察」の神証明を通じて、神があらゆる事物の創造者（原因）であることが知られる<sup>[16]</sup>。</li>
+<li>「第四省察」によれば、神は卓越した創造者なので、その作品はすべて完全である<sup>[17]</sup>。</li>
+<li>もちろん、省察者「私」もいわば神の作品なので、本来のところ完全性をもつ存在者である<sup>[18]</sup>。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -276,17 +277,21 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 2.2　過誤の回避と意志の善用
-- 【問い】ほんらい完全なはずの私になぜ欠陥があるのか。なぜ私はしばしば真理を得られず、虚偽へと向かうのか<sup>\[16\]</sup>。
-- 神に与えられた本来的完全性と、現に私が陥る事実的不完全性とのギャップはどこから来るのか？
-<div style="height: 1em;"></div>
-- 【答え】このギャップは、私の事実的不完全性が、神ではなく、私を原因とする私の過ち（error）に由来する<sup>\[19\]</sup>。
-- 私の過ちの実質は、私が神に与えられた判断能力（知性と意志）を正しく用いないことに見いだされる<sup>\[20\]</sup>。
-- 逆に、与えられた判断能力（特に意志）を善用するかぎり、私は神に与えられた本来の完全性を実現する。
-<div style="height: 1em;"></div>
-<strong style="color: #cc5500;">◉ 意志の善用によって実現される本来的完全性は、「人間的完全性」と呼ばれる<sup>\[21,22\]</sup>。</strong>
+<h2>2.2　過誤の回避と意志の善用</h2>
+<ul>
+<li>【問い】ほんらい完全なはずの私になぜ欠陥があるのか。なぜ私はしばしば真理を得られず、虚偽へと向かうのか<sup>[16]</sup>。</li>
+<li>神に与えられた本来的完全性と、現に私が陥る事実的不完全性とのギャップはどこから来るのか？</li>
+</ul>
+<p></p>
+<ul>
+<li>【答え】このギャップは、私の事実的不完全性が、神ではなく、私を原因とする私の過ち（error）に由来する<sup>[19]</sup>。</li>
+<li>私の過ちの実質は、私が神に与えられた判断能力（知性と意志）を正しく用いないことに見いだされる<sup>[20]</sup>。</li>
+<li>逆に、与えられた判断能力（特に意志）を善用するかぎり、私は神に与えられた本来の完全性を実現する。</li>
+</ul>
+<p></p>
+<p><strong style="color: #cc5500;">◉ 意志の善用によって実現される本来的完全性は、「人間的完全性」と呼ばれる<sup>[21,22]</sup>。</strong></p>
 </div>
- <p></p>
+<p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
   <p><strong>［19</strong><strong>］<a href="https://www.unicaen.fr/puc/sources/prodescartes/consult/descartes/Oeuvres/Oeuvres_Descartes/meditationes.xml/meditationes_meditation_4.html">Meditatio IV, AT VII, 58.</a></strong></p>
 <p>それでは、<strong style="color: #cc5500;">私の過誤はいったいどこから生じるのであろうか</strong>。この一つのことから、すなわち、意志は知性よりも広い範囲に広がるものであるゆえ、私が意志を、知性と同じ限界内にとどめおかずに、私の理解していない事がらにまでおよぼす、というこの一つのことから生じるのである。このような事がらに対して意志は非決定であるから、たやすく真と善とから逸脱するのであって、こうして私は誤り、罪を犯すことになるのである。</p>
@@ -303,11 +308,13 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 2.3　意志の完全性と神の似像
-- 意志の善用によって実現される意志本来の完全性はきわめて大きい<sup>\[23\]</sup>。
-- <strong style="color: #cc5500;">◉ 意志の完全性が、私を神の似像にさせる。</strong>
-- 意志の自由とは、「外的な力によらず、自分自身を動かす」内的な力であり、この力は、何ものにも制限されることがないから（大西2014, 398）。
-- 意志の善用を通じて、その本来の完全性が実現されるとき、われわれは「神の似像」を担う<sup>\[24\]</sup>。
+<h2>2.3　意志の完全性と神の似像</h2>
+<ul>
+<li>意志の善用によって実現される意志本来の完全性はきわめて大きい<sup>[23]</sup>。</li>
+<li><strong style="color: #cc5500;">◉ 意志の完全性が、私を神の似像にさせる。</strong></li>
+<li>意志の自由とは、「外的な力によらず、自分自身を動かす」内的な力であり、この力は、何ものにも制限されることがないから（大西2014, 398）。</li>
+<li>意志の善用を通じて、その本来の完全性が実現されるとき、われわれは「神の似像」を担う<sup>[24]</sup>。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -319,12 +326,16 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 2.4　人間的完全性の「脱神話化」
-- 人間の完全性を「神の似像」に関連づける点では、デカルトはキリスト教的伝統に接近する。
-- しかしこの完全性は、「創世記」をはじめとする宗教的・神話的根拠に基づくのではない。
+<h2>2.4　人間的完全性の「脱神話化」</h2>
+<ul>
+<li>人間の完全性を「神の似像」に関連づける点では、デカルトはキリスト教的伝統に接近する。</li>
+<li>しかしこの完全性は、「創世記」をはじめとする宗教的・神話的根拠に基づくのではない。</li>
+</ul>
 <p><strong style="color: #cc5500;">◉ デカルトの「似像」論は、創造の仕法に関する主張ではなく、「類似性をもつ」という主張にすぎない<sup>\[26\]</sup>。</strong></p>
-- その類似性は、「存在者」や「実体」といった一般的概念の共通性である。
-- 結果、人間のみならずあらゆる被造物が神の似像になる。人間は、神との類似性の程度において、他の被造物に優っているにすぎない。
+<ul>
+<li>その類似性は、「存在者」や「実体」といった一般的概念の共通性である。</li>
+<li>結果、人間のみならずあらゆる被造物が神の似像になる。人間は、神との類似性の程度において、他の被造物に優っているにすぎない。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -342,12 +353,16 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 2.5　創造の目的の不可知性
-- デカルトのラディカルな似像概念は、神の創造の「目的」や「仕方」を理解不可能とする態度に基づく<sup>\[27,28,29\]</sup>。
-- 神は人間を助ける目的で他の被造物を作った（『創世記』II, 18）、などの神話的見解は支持されない。
+<h2>2.5　創造の目的の不可知性</h2>
+<ul>
+<li>デカルトのラディカルな似像概念は、神の創造の「目的」や「仕方」を理解不可能とする態度に基づく<sup>[27,28,29]</sup>。</li>
+<li>神は人間を助ける目的で他の被造物を作った（『創世記』II, 18）、などの神話的見解は支持されない。</li>
+</ul>
 <p><strong style="color: #cc5500;">◉ 人間の本来的完全性は、神の創造の目的を推察することによってではなく、われわれが各人のうちで、自身の本性を哲学的に省察することによって掴まれる。</strong></p>
-- 哲学的省察とは、自らのうちに意志の自由を発見し、それを善用する仕方を知ること。
-- デカルトの哲学的「似像」論の成立。
+<ul>
+<li>哲学的省察とは、自らのうちに意志の自由を発見し、それを善用する仕方を知ること。</li>
+<li>デカルトの哲学的「似像」論の成立。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -379,11 +394,15 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.1　尊厳としての高邁の成立
-- 意志の善用によって実現される人間の完全性は、それだけでは「尊厳」にはならない。
+<h2>3.1　尊厳としての高邁の成立</h2>
+<ul>
+<li>意志の善用によって実現される人間の完全性は、それだけでは「尊厳」にはならない。</li>
+</ul>
 <p><strong>▶︎ この完全性を価値（valeur）とみなす道徳的観点が加わることで、完全性が「尊厳」と結びつく。</strong></p>
-- 意志の善用によって実現される完全性に価値を認めることが、道徳の第一原理である<sup>\[15\]</sup>。
-- 自己の完全性を重視することによって形成される徳を、デカルトは「高邁」と呼ぶ<sup>\[30\]</sup>。
+<ul>
+<li>意志の善用によって実現される完全性に価値を認めることが、道徳の第一原理である<sup>[15]</sup>。</li>
+<li>自己の完全性を重視することによって形成される徳を、デカルトは「高邁」と呼ぶ<sup>[30]</sup>。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -393,11 +412,13 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
  </div>
 ---
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.2 適切な自己評価としての高邁
-- 高邁は、「自己の重視」において成り立つ<sup>\[29\]</sup>。
-    - ただしこの「重視」は、自己の過大評価としての「高慢」とは異なる<sup>\[31\]</sup>。
-    - そしてまた、高邁は自己の過小な評価としての「卑下」とも異なる<sup>\[32\]</sup>。
-- 自己の重視とは、自己に固有の価値（完全性）を過不足なく、精確に見積もること＝適正な自己評価である。
+<h2>3.2 適切な自己評価としての高邁</h2>
+<ul>
+<li>高邁は、「自己の重視」において成り立つ<sup>[29]</sup>。<ul>
+<li>ただしこの「重視」は、自己の過大評価としての「高慢」とは異なる<sup>[31]</sup>。</li>
+<li>そしてまた、高邁は自己の過小な評価としての「卑下」とも異なる<sup>[32]</sup>。</li></ul></li>
+<li>自己の重視とは、自己に固有の価値（完全性）を過不足なく、精確に見積もること＝適正な自己評価である。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -414,12 +435,14 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.3 高邁と自己の統治
-- 適正な自己評価とは、自分の意志のおよびうる範囲を精確に認識することである<sup>\[33\]</sup>。
-- 高邁な人は、自分にできることで、なすべきことを実行し、自分にできないことには一喜一憂しない。
-    - この点で高邁は、『序説』の道徳の第三格率と重なる<sup>\[34\]</sup>。
-    - また、エリザベトにもデカルトは同様の旨を述べている<sup>\[35\]</sup>。
-- 結果として、高邁な人は自己の情念を完全に統治し、自己の「主人」となる<sup>\[15\]</sup>。
+<h2>3.3 高邁と自己の統治</h2>
+<ul>
+<li>適正な自己評価とは、自分の意志のおよびうる範囲を精確に認識することである<sup>[33]</sup>。</li>
+<li>高邁な人は、自分にできることで、なすべきことを実行し、自分にできないことには一喜一憂しない。<ul>
+<li>この点で高邁は、『序説』の道徳の第三格率と重なる<sup>[34]</sup>。</li>
+<li>また、エリザベトにもデカルトは同様の旨を述べている<sup>[35]</sup>。</li></ul></li>
+<li>結果として、高邁な人は自己の情念を完全に統治し、自己の「主人」となる<sup>[15]</sup>。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -435,10 +458,12 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.4　高邁は自己にとって内的な価値である
-- 高邁の本質は、自己の外側にあるものに左右されずに、自分で自分を適正に評価することにある。
-- そのため、外的情況がどれほど過酷で悲惨なものであっても、われわれは高邁に至ることができる<sup>\[36\]</sup>。
-- 高邁な人は、自己の情念を完全に統治しているので、自己の外側の出来事に由来する情念に揺るがされない。
+<h2>3.4　高邁は自己にとって内的な価値である</h2>
+<ul>
+<li>高邁の本質は、自己の外側にあるものに左右されずに、自分で自分を適正に評価することにある。</li>
+<li>そのため、外的情況がどれほど過酷で悲惨なものであっても、われわれは高邁に至ることができる<sup>[36]</sup>。</li>
+<li>高邁な人は、自己の情念を完全に統治しているので、自己の外側の出来事に由来する情念に揺るがされない。</li>
+</ul>
 <p><strong style="color: #cc5500;">▶︎ 高邁は、自己にとって内的に成立する価値である。</strong></p>
 </div>
  <p></p>
@@ -450,25 +475,31 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.5 高邁の外的な毀損不可能性と、内的な毀損可能性
-- 高邁は内的な価値であり、外的情況がどれほど過酷で悲惨でも、毀損されない<sup>\[36\]</sup>。
-- 過酷な運命の例：エリザベトの情況。宗教戦争によって亡命政府の公女となり、宮廷内の陰謀に晒され、資金難に苦しみ、精神的に不安定な（のちに殺人事件を起こしたのち若くして戦死する）末弟フィリップに悩まされる。
-- <strong style="color: #cc5500;">◉ デカルトにとって、自己の価値が外的原因によって毀損されることはない。 </strong>
-<div style="height: 1em;"></div>
-- 他方で、高邁の成否は自己自身に依存するので、自己の価値を認められなくなれば、直ちに喪失される。
-- 「怠惰」<sup>\[14\]</sup>のゆえに「高慢」や「卑下」に堕する場合など。
-- <strong style="color: #cc5500;">◉　高邁が毀損されるのは、内的な自己重視が失われるときであり、そのときのみ。</strong>
+<h2>3.5 高邁の外的な毀損不可能性と、内的な毀損可能性</h2>
+<ul>
+<li>高邁は内的な価値であり、外的情況がどれほど過酷で悲惨でも、毀損されない<sup>[36]</sup>。</li>
+<li>過酷な運命の例：エリザベトの情況。宗教戦争によって亡命政府の公女となり、宮廷内の陰謀に晒され、資金難に苦しみ、精神的に不安定な（のちに殺人事件を起こしたのち若くして戦死する）末弟フィリップに悩まされる。</li>
+<li><strong style="color: #cc5500;">◉ デカルトにとって、自己の価値が外的原因によって毀損されることはない。 </strong></li>
+</ul>
+<p></p>
+<ul>
+<li>他方で、高邁の成否は自己自身に依存するので、自己の価値を認められなくなれば、直ちに喪失される。</li>
+<li>「怠惰」<sup>[14]</sup>のゆえに「高慢」や「卑下」に堕する場合など。</li>
+<li><strong style="color: #cc5500;">◉　高邁が毀損されるのは、内的な自己重視が失われるときであり、そのときのみ。</strong></li>
+</ul>
 </div>
 
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.6 高邁と平等
+<h2>3.6 高邁と平等</h2>
 <p style=text-align: left !important;"><strong style="color: #cc5500;">【問い】高邁は、カント的尊厳のように、万人に等しく与えられているか？</strong></p>
-<div style="height: 1em;"></div>
-- 高邁の実現のしやすさ/しがたさは、「生まれの高貴さ」に左右される。
-- ただし、高邁の実現可能性そのものは、後天的な教育や習慣によって、万人に与えられうる<sup>\[37\]</sup>。
-- cf. 良識（よく判断する能力）が万人に分配されているという（皮肉混じりの）『序説』の文言<sup>\[38\]</sup>。
+<p></p>
+<ul>
+<li>高邁の実現のしやすさ/しがたさは、「生まれの高貴さ」に左右される。</li>
+<li>ただし、高邁の実現可能性そのものは、後天的な教育や習慣によって、万人に与えられうる<sup>[37]</sup>。</li>
+<li>cf. 良識（よく判断する能力）が万人に分配されているという（皮肉混じりの）『序説』の文言<sup>[38]</sup>。</li>
+</ul>
 </div>
  <p></p>
  <div class="scroll-block" style="max-height: 20vh; width: 80%; overflow-y: auto; margin: auto; padding: 1em; background: #dcdcdc; color: #000000; font-size: 0.95em; line-height: 1.6; text-align: left;">
@@ -483,11 +514,11 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 <div style="text-align: left; width: 80%; margin: 0 auto;">
 ## 3.7　高邁の事実的な不平等性
 <p><strong style="color: #cc5500;">【疑問】高邁を実現できない＝自由意志を善用できない精神に、価値はないのか？</strong></p>
-<div style="height: 1em;"></div>
+<p></p>
 <ul>
 <li><strong>① 自由意志を善用できると思われるが、しない精神</strong>：貧困、暴力、抑圧、被差別、病、認知症など、困難な外的情況のゆえに、自由意志の善用がきわめて困難な情況にあるひと</li>
 </ul>
-<div style="height: 1em;"></div>
+<p></p>
 <ul>
 <li><strong>② 自由意志を善用できるとは思われない精神</strong>：胎児、精神疾患者、意識障がい、あるいは動物など、情況がどのようであれ、自由意志の善用が困難に見えるひと</li>
 </ul>
@@ -520,7 +551,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-## 3.9　 尊敬の射程の限界
+<h2>3.9　 尊敬の射程の限界</h2>
 <p><strong>② 自由意志を用いることができないように思われる存在者は、そのように思われるがゆえに、「尊敬」の対象にできない。</strong></p>
 <ul>
 <li>自由意志を用いることができない存在者には、形而上学的な「完全性」が認められる（2.3）。</li>
@@ -534,19 +565,23 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 ---
 
 <div style="text-align: left; width: 80%; margin: 0 auto;">
-# まとめ
-- <strong style="color: #cc5500;">◉ 形而上学では、神の創造に依拠して被造物の「完全性」が知られる。</strong>
-- この完全性は、すべての被造物に一義的に分配され、その程度が差異化される。
-- 脱神話化された、人間中心主義的ではない「似像」概念。
-<div style="height: 1em;"></div>
-- <strong style="color: #cc5500;">◉ 道徳哲学では、その完全性に価値を認める「高邁」が志向される。</strong>
-- 高邁は自己の適切な評価であり、不可侵の内的価値の実現である。
-- ただし、自由意志をもたない存在者は、この価値を実現できないかもしれない。
+<h1>まとめ</h1>
+<ul>
+<li><strong style="color: #cc5500;">◉ 形而上学では、神の創造に依拠して被造物の「完全性」が知られる。</strong></li>
+<li>この完全性は、すべての被造物に一義的に分配され、その程度が差異化される。</li>
+<li>脱神話化された、人間中心主義的ではない「似像」概念。</li>
+</ul>
+<p></p>
+<ul>
+<li><strong style="color: #cc5500;">◉ 道徳哲学では、その完全性に価値を認める「高邁」が志向される。</strong></li>
+<li>高邁は自己の適切な評価であり、不可侵の内的価値の実現である。</li>
+<li>ただし、自由意志をもたない存在者は、この価値を実現できないかもしれない。</li>
+</ul>
 </div>
 
 ---
 
-## デカルトの尊厳概念の特徴
+<h2>デカルトの尊厳概念の特徴</h2>
 <div style="display: flex; gap: 2em;">
   <div style="flex: 1; background-color: #e6f2ff; padding: 1em; border-radius: 8px;text-align: left;">
 <p><strong>カント的尊厳 </strong></p>
@@ -570,7 +605,7 @@ A02班「現代の『被造物の尊厳』などの新たな尊厳概念を踏�
 また引用集におけるデカルトのテクストは、下記のサイトより引用した。
 - Corpus Descartes (édition en ligne des œuvres et de la correspondance de Descartes), Vincent Carraud (Responsable scientifique). [https://www.unicaen.fr/puc/sources/prodescartes/accueil.html](https://www.unicaen.fr/puc/sources/prodescartes/accueil.html)
 - ePistolarium (Circulation of Knowledge and Learned Practices in the 17th-century Dutch Republic), University of Utrecht et al. [https://ckcc.huygens.knaw.nl/epistolarium/](https://ckcc.huygens.knaw.nl/epistolarium/)
-<div style="height: 1em;"></div>
+<p></p>
 - Chauvin, Étienne  (Stephanus Chauvinus). (1692). _Lexicon Philosophicum_.
 - Furetière, Antoine. (1690). _Dictionnaire universel_.
 - Goclenius, Rodolphus. (1613). _Lexicon Philosophicum_.
