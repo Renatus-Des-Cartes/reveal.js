@@ -91,7 +91,7 @@
 
 ---
 
-<div style="text-align: left; width: 80%; margin: 0 auto;">
+<div style="position: fixed; top: 0;text-align: left; width: 80%; margin: 0 auto;">
 <h2>1.1　デカルトに「尊厳」はない（？）</h2>
 <ul>
 <li>尊厳概念の歴史において、デカルトが注目されることは少ない。</li>
