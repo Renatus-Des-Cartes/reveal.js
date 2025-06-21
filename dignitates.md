@@ -602,10 +602,10 @@
       <li>高邁は自己の適切な評価であり、不可侵の内的価値である。</li>
       <li>ただし高邁を実現できる主体は限られる。</li>
     </ul>
-    <p></p>
-    <p></p>
   </div>
 </div>
+
+<div style="height: 2em;"></div>
 
 <table style="width: 100%; border-collapse: collapse; text-align: left; table-layout: fixed;">
 
