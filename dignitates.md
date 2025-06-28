@@ -4,7 +4,7 @@
   <div style="font-size: 1em; line-height: 1.8; max-width: 800px; margin: 0 auto; text-align: left;">
     
   <h1 style="font-size: 2em; margin-bottom: 1em;">
-    デカルトと尊厳の問題
+    デカルトにおける尊厳概念
   </h1>
     <p><strong>2025年6月27日（金）14:00–17:00</strong><br>
     東洋大学 白山キャンパス</p>
