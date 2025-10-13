@@ -5,33 +5,40 @@
   <title>系統看護倫理：第1章 倫理学の基本的な考え方</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <!-- Reveal core (相対パスに注意) -->
+  <!-- Reveal core -->
   <link rel="stylesheet" href="../dist/reveal.css">
-  <link rel="stylesheet" href="../dist/theme/black.css" id="theme">
+  <!-- 白背景テーマに変更 -->
+  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
 
-  <!-- 代替フォント（無料）※モリサワ/Futuraを使う場合は各サービスのタグを追加して下さい -->
+  <!-- 無料フォントのみ（Google Fonts） -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
+    /* 背景を常に白に固定 */
+    .reveal-viewport{ background:#fff !important; }
+    .reveal .backgrounds{ background:#fff !important; }
+
     :root{
-      --c-accent:#1f9d7a; /* ティール系アクセント */
+      --c-accent:#1f3c9d; /* ティール系アクセント */
       --c-ink:#0f172a;    /* 文字色 */
-      --c-muted:#64748b;  /* 補助色 */
+      --c-muted:#344c6d;  /* 補助色 */
       --c-warn:#d97706;   /* 注意色 */
+      --c-border:#e5e7eb; /* 枠線 */
     }
+
     .reveal{
       font-family:
-        "Morisawa Sans","UD新ゴ","UD Shin Go",
-        "Noto Sans JP","BIZ UDGothic",
-        "Futura","Futura PT","Montserrat",
+        "Montserrat",
+        "Noto Sans JP",
+        "BIZ UDGothic",
         system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
       color:var(--c-ink);
       line-height:1.5;
       letter-spacing:.01em;
     }
     .reveal h1,.reveal h2,.reveal h3,.reveal h4{
-      font-family:"Futura","Futura PT","Montserrat","Morisawa Sans","Noto Sans JP",system-ui,sans-serif;
+      font-family:"Montserrat","Noto Sans JP",system-ui,sans-serif;
       font-weight:700;
       letter-spacing:.02em;
     }
@@ -42,12 +49,13 @@
     .reveal strong{color:#d24b4b}
     .reveal a{color:#0ea5e9}
 
+    /* 白背景用のカードデザイン */
     section.card{
-      background: rgba(255,255,255,.06);
-      border:1px solid rgba(255,255,255,.12);
-      border-radius:16px; padding:28px;
-      box-shadow:0 6px 30px rgba(0,0,0,.18);
-      backdrop-filter:saturate(1.05);
+      background:#fff;
+      border:1px solid var(--c-border);
+      border-radius:16px;
+      padding:28px;
+      box-shadow:0 4px 20px rgba(0,0,0,.06);
     }
     .muted{color:var(--c-muted)}
     .case{
@@ -56,14 +64,17 @@
       padding:16px;border-radius:10px;margin:14px 0;
     }
     .practice{
-      background: rgba(148,163,184,.15);
+      background: rgba(148,163,184,.12);
       border:1px dashed rgba(148,163,184,.7);
       padding:18px;border-radius:12px;
     }
     .centered{display:flex;align-items:center;justify-content:center}
     .two-col{display:grid;grid-template-columns:1fr 1fr;gap:18px}
     @media (max-width: 900px){ .two-col{grid-template-columns:1fr} }
-    .badge{display:inline-block;padding:.2em .6em;border-radius:999px;background:rgba(31,157,122,.14);color:var(--c-accent);font-size:.75em}
+    .badge{
+      display:inline-block;padding:.2em .6em;border-radius:999px;
+      background:rgba(31,157,122,.14);color:var(--c-accent);font-size:.75em
+    }
   </style>
 </head>
 <body>
@@ -74,27 +85,85 @@
     <section class="card" data-transition="fade">
       <h1>系統看護倫理：第1章</h1>
       <h2>倫理学の基本的な考え方</h2>
-      <p class="muted">想定発表時間：約30分</p>
-      <aside class="notes">導入30秒：本章のゴールと後半のプラクティス告知。</aside>
+       
     </section>
 
     <!-- アジェンダ -->
     <section class="card">
-      <h2>本日の流れ</h2>
+      <h2>授業の流れ</h2>
       <ul>
-        <li>I. 導入：倫理と倫理学の基本（約5分）</li>
-        <li>II. 倫理理論：義務論と帰結主義（約12分）</li>
-        <li>III. 他者理解と対話：ナラティブ倫理（約10分）</li>
-        <li>IV. まとめ（約3分）</li>
+        <li>0 なぜ倫理学を学ぶのか</li>
+        <li>I. 導入：倫理と倫理学の基本</li>
+        <li>II. 倫理理論：義務論と帰結主義</li>
+        <li>III. 他者理解と対話：ナラティブ倫理</li>
+        <li>IV. まとめ</li>
       </ul>
     </section>
+    <!-- 0. なぜ倫理について考えるのか（縦スライド） -->
+    <section>
+      <!-- 0-1 ノーラの事例：表紙＋引用 -->
+      <section class="card">
+        <h2>0. なぜ倫理学を学ぶのか</h2>
+        <h3>ノーラの事例</h3>
+        <blockquote class="quote">
+          ［引用ブロック・後で記入］
+        </blockquote>
+        <p class="caption">ヘンリク・イプセン『人形の家』より</p>
+      </section>
 
+      <!-- 0-2 ノーラの行動と対立 -->
+      <section class="card">
+        <h2>ノーラの選択と対立</h2>
+        <ul>
+          <li>夫（ヘルメル・トルヴァル）の「人形」として生きてきたノーラ</li>
+          <li>ノーラは、「こうしなくちゃならない」と確信し、夫も子どもも捨てて家を出る</li>
+          <li>ヘルメルは、信仰・道徳・法律・社会などを根拠に、ノーラを止めようとする</li>
+          <li>ノーラは、「自分自身に対する義務」を理由に、これらの根拠を拒絶する</li>
+        </ul>
+      </section>
+
+      <!-- 0-3 倫理の尺度への導入 -->
+      <section class="card">
+        <h2>「外側の規範」か、「内側の確信」か</h2>
+        <ul>
+          <li>信仰・道徳・法律・社会の尺度では<strong>すべきでない（悪）</strong>とされ得る行為</li>
+          <li>しかしノーラは、それを<strong>すべき（善・正しい）</strong>と確信</li>
+        </ul>
+        <p>ノーラの行為を支えるのは、外側の規範ではなく、<strong>内側の確信＝自分自身への配慮</strong>。</p>
+        <p class="muted">→ ここに「倫理の尺度」が立ち上がる。</p>
+      </section>
+
+      <!-- 0-4 倫理＝数ある尺度のひとつ -->
+      <section class="card">
+        <h2>倫理＝いくつもの「尺度」のひとつ</h2>
+        <ul>
+          <li>宗教的尺度・道徳的尺度・法的尺度・社会的尺度…</li>
+          <li>倫理学のモチベーション：
+            <ul>
+              <li>他の尺度では<strong>Bad</strong>でも、実は<strong>Good</strong>ではないか → 肯定（例：ノーラ、『高瀬舟』的ケース、ダークヒーロー）</li>
+              <li>他の尺度では<strong>Good</strong>でも、実は<strong>Bad</strong>ではないか → 批判（例：ハラスメント、ELSI/RRI、環境破壊）</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 0-5 医療文脈へのブリッジ -->
+      <section class="card">
+        <h2>医療における「尺度」の衝突</h2>
+        <ul>
+          <li>倫理学は、広く受け入れられた「尺度」の抑圧や不備を点検する</li>
+          <li>医療では、<strong>医学的善悪の尺度</strong>と<strong>患者個人の幸不幸の尺度</strong>がしばしば衝突</li>
+          <li>倫理学的観点は、患者に寄りそう対応へのヒントになり、倫理的リスクの回避にも資する</li>
+        </ul>
+      </section>
+    </section>
+    <!-- /0. なぜ倫理… -->
     <!-- I-1 目標 -->
     <section class="card">
       <h2>I. 導入</h2>
       <h3>本章の目標</h3>
       <ul>
-        <li class="fragment">倫理／倫理学の基本概念を確認</li>
+        <li class="fragment">倫理 / 倫理学の基本概念を確認</li>
         <li class="fragment"><span class="badge">理論</span> 義務論 / 帰結主義の要点を理解</li>
         <li class="fragment"><span class="badge">実践</span> 他者理解と対話の枠組み＝ナラティブ倫理を掴む</li>
       </ul>
@@ -108,7 +177,7 @@
         <li>社会に共有された考え＝<strong>規範（社会規範）</strong></li>
         <li>合意の強弱：例）「殺人は悪」⇄「安楽死」</li>
         <li>倫理学＝規範は<strong>なぜ正しいのか／なぜ従うべきか</strong>を探究</li>
-        <li>道徳（モラル）＝慣習起源。法的罰は無いが社会的非難の対象になり得る</li>
+        <li>道徳（モラル）＝「慣習」が起源。法的罰は無いが社会的非難の対象になり得る</li>
       </ul>
     </section>
 
