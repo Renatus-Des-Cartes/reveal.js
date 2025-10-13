@@ -1,72 +1,58 @@
-
 <!doctype html>
 <html lang="ja">
 <head>
   <meta charset="utf-8" />
-  <title>生命倫理_大宮_第1回</title>
+  <title>系統看護倫理：第1章 倫理学の基本的な考え方</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
   <!-- Reveal core (相対パスに注意) -->
   <link rel="stylesheet" href="../dist/reveal.css">
   <link rel="stylesheet" href="../dist/theme/black.css" id="theme">
 
-  <!-- ★フォント（デフォ: 無料フォント）-->
+  <!-- 代替フォント（無料）※モリサワ/Futuraを使う場合は各サービスのタグを追加して下さい -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 
-  <!-- ★フォントサービス（任意）
-    1) Morisawa(TypeSquare) を契約済みなら ↓ を有効化してプロジェクトIDに差し替え
-    <link rel="stylesheet" href="https://typesquare.com/XXXXX/ts.css">
-    2) Futura(Adobe Fonts 等) を使うなら、発行された kit の <link> or <script> をここに貼付
-  -->
-
   <style>
     :root{
-      --c-accent:#1f9d7a;
-      --c-ink:#0f172a;
-      --c-muted:#64748b;
-      --c-warn:#d97706;
+      --c-accent:#1f9d7a; /* ティール系アクセント */
+      --c-ink:#0f172a;    /* 文字色 */
+      --c-muted:#64748b;  /* 補助色 */
+      --c-warn:#d97706;   /* 注意色 */
     }
     .reveal{
       font-family:
-        /* 和文優先（モリサワ → Noto Sans JP）*/
-        "Morisawa Sans", "UD新ゴ", "UD Shin Go",
-        "Noto Sans JP", "BIZ UDGothic",
-        /* 欧文（Futura → Montserrat）*/
-        "Futura", "Futura PT", "Montserrat",
-        system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      color: var(--c-ink);
-      line-height: 1.5;
-      letter-spacing: .01em;
+        "Morisawa Sans","UD新ゴ","UD Shin Go",
+        "Noto Sans JP","BIZ UDGothic",
+        "Futura","Futura PT","Montserrat",
+        system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+      color:var(--c-ink);
+      line-height:1.5;
+      letter-spacing:.01em;
     }
     .reveal h1,.reveal h2,.reveal h3,.reveal h4{
-      font-family: "Futura","Futura PT","Montserrat","Morisawa Sans","Noto Sans JP",system-ui,sans-serif;
+      font-family:"Futura","Futura PT","Montserrat","Morisawa Sans","Noto Sans JP",system-ui,sans-serif;
       font-weight:700;
       letter-spacing:.02em;
     }
     .reveal h1{font-size:2.1em}
     .reveal h2{font-size:1.6em;color:var(--c-accent)}
-    .reveal h3{font-size:1.25em;color:var(--c-ink)}
-    .reveal p, .reveal li{font-size:0.9em}
+    .reveal h3{font-size:1.25em}
+    .reveal p,.reveal li{font-size:.9em}
     .reveal strong{color:#d24b4b}
     .reveal a{color:#0ea5e9}
 
-    /* カード風セクション */
     section.card{
-      backdrop-filter: saturate(1.1);
-      background: rgba(255,255,255,0.06);
-      border:1px solid rgba(255,255,255,0.12);
+      background: rgba(255,255,255,.06);
+      border:1px solid rgba(255,255,255,.12);
       border-radius:16px; padding:28px;
-      box-shadow: 0 6px 30px rgba(0,0,0,.18);
+      box-shadow:0 6px 30px rgba(0,0,0,.18);
+      backdrop-filter:saturate(1.05);
     }
-
-    /* 目次 */
-    .toc li{margin:.3em 0}
-    .keyword{font-weight:700;color:#22c55e}
-    .note{font-style:italic;color:var(--c-muted)}
+    .muted{color:var(--c-muted)}
     .case{
       border-left:6px solid #facc15;
-      background: rgba(250, 204, 21, .08);
+      background: rgba(250,204,21,.08);
       padding:16px;border-radius:10px;margin:14px 0;
     }
     .practice{
@@ -75,7 +61,9 @@
       padding:18px;border-radius:12px;
     }
     .centered{display:flex;align-items:center;justify-content:center}
-    .muted{color:var(--c-muted)}
+    .two-col{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+    @media (max-width: 900px){ .two-col{grid-template-columns:1fr} }
+    .badge{display:inline-block;padding:.2em .6em;border-radius:999px;background:rgba(31,157,122,.14);color:var(--c-accent);font-size:.75em}
   </style>
 </head>
 <body>
@@ -84,268 +72,270 @@
 
     <!-- タイトル -->
     <section class="card" data-transition="fade">
-      <h1>生命倫理</h1>
-      <h2>第1回</h2>
-      <p class="muted">担当：筒井一穂</p>
-      <aside class="notes">冒頭30秒で全体像・ゴール・提出方法を共有。</aside>
+      <h1>系統看護倫理：第1章</h1>
+      <h2>倫理学の基本的な考え方</h2>
+      <p class="muted">想定発表時間：約30分</p>
+      <aside class="notes">導入30秒：本章のゴールと後半のプラクティス告知。</aside>
     </section>
 
-    <!-- 目次 -->
+    <!-- アジェンダ -->
     <section class="card">
-      <h2>目次</h2>
-      <ul class="toc">
-        <li>この授業の目的</li>
-        <li>倫理とはなにか</li>
-        <li>生命倫理とはなにか</li>
-        <li>看護倫理とはなにか</li>
-      </ul>
-    </section>
-
-    <!-- 目的 -->
-    <section class="card">
-      <h2>１　この授業の目的</h2>
+      <h2>本日の流れ</h2>
       <ul>
-        <li class="fragment">生命・医療・看護倫理の主要な見解を歴史文脈で理解</li>
-        <li class="fragment">立場を吟味し、根拠に基づいて自分の考えを表現</li>
-        <li class="fragment">現場の意思決定で「最善」を探る思考力を養成</li>
+        <li>I. 導入：倫理と倫理学の基本（約5分）</li>
+        <li>II. 倫理理論：義務論と帰結主義（約12分）</li>
+        <li>III. 他者理解と対話：ナラティブ倫理（約10分）</li>
+        <li>IV. まとめ（約3分）</li>
       </ul>
-      <p>キーワード：<span class="keyword">生命倫理・医療倫理・看護倫理 / 倫理的ジレンマ / 意思決定 / 最善</span></p>
     </section>
 
-    <!-- 倫理とは -->
+    <!-- I-1 目標 -->
     <section class="card">
-      <h2>２　倫理とはなにか</h2>
-      <h3>一般的な説明</h3>
-      <p class="fragment">善し悪しの根拠を考えること。</p>
-      <p class="fragment">社会に共有された規範はあるが、</p>
-      <p class="fragment">「なぜ正しいのか」「なぜ従うべきか」を探究するのが倫理学。（教科書 p.10）</p>
+      <h2>I. 導入</h2>
+      <h3>本章の目標</h3>
+      <ul>
+        <li class="fragment">倫理／倫理学の基本概念を確認</li>
+        <li class="fragment"><span class="badge">理論</span> 義務論 / 帰結主義の要点を理解</li>
+        <li class="fragment"><span class="badge">実践</span> 他者理解と対話の枠組み＝ナラティブ倫理を掴む</li>
+      </ul>
     </section>
 
-    <!-- ケース1 -->
+    <!-- I-2 倫理と規範 -->
     <section class="card">
-      <h2>２　倫理とはなにか</h2>
-      <div class="case">
-        <h3>ケース１：ノーラの場合</h3>
-        <ul>
-          <li>「人形」として生きてきたノーラ</li>
-          <li>確信にもとづき、夫と子どもを残して家を出る</li>
-          <li>外的根拠（信仰・道徳・法律・社会）による制止</li>
-          <li>ノーラは「自分自身への義務」を主張</li>
-        </ul>
+      <h2>倫理・規範・道徳</h2>
+      <ul>
+        <li>倫理＝ものごとの「よしあし」</li>
+        <li>社会に共有された考え＝<strong>規範（社会規範）</strong></li>
+        <li>合意の強弱：例）「殺人は悪」⇄「安楽死」</li>
+        <li>倫理学＝規範は<strong>なぜ正しいのか／なぜ従うべきか</strong>を探究</li>
+        <li>道徳（モラル）＝慣習起源。法的罰は無いが社会的非難の対象になり得る</li>
+      </ul>
+    </section>
+
+    <!-- I-3 二つの道筋 -->
+    <section class="card">
+      <h2>倫理学の二つの道筋</h2>
+      <div class="two-col">
+        <div>
+          <h3>規範倫理学</h3>
+          <ul>
+            <li>規範そのものの妥当性を論証</li>
+            <li>例：「安楽死は◯◯の根拠で正しい」</li>
+          </ul>
+        </div>
+        <div>
+          <h3>記述倫理学</h3>
+          <ul>
+            <li>規範に関する事実を実証</li>
+            <li>例：「◯◯％が安楽死に賛成」</li>
+          </ul>
+        </div>
+      </div>
+      <p class="muted">看護倫理では<strong>両輪</strong>が不可欠。</p>
+    </section>
+
+    <!-- I-4 強制力を持つもの -->
+    <section class="card">
+      <h2>倫理的判断の基準：外からの強制力</h2>
+      <ul>
+        <li><strong>法律</strong>：社会秩序のための強制力（罰則）</li>
+        <li><strong>倫理綱領／ガイドライン</strong>：専門職団体の規則（ソフトロー）</li>
+      </ul>
+      <p class="fragment">内的動機だけでは足りない状況 → <strong>生命倫理の4原則などの手引き</strong>が有効</p>
+    </section>
+
+    <!-- II 概観 -->
+    <section class="card">
+      <h2>II. 倫理理論（骨格）</h2>
+      <p>看護倫理で特に重要な二理論：</p>
+      <ul>
+        <li><strong>義務論（Deontology）</strong>：動機と規則</li>
+        <li><strong>帰結主義（Consequentialism）</strong>：結果と幸福の総量</li>
+      </ul>
+    </section>
+
+    <!-- 義務論 -->
+    <section class="card">
+      <h2>義務論（カント）</h2>
+      <ul>
+        <li>行為の善悪は<strong>内的動機</strong>で決まる</li>
+        <li>状況に左右されない<strong>普遍的基準</strong></li>
+      </ul>
+      <div class="two-col">
+        <div>
+          <h3>人格（人間性）の尊重</h3>
+          <ul>
+            <li>人を<strong>手段としてのみ</strong>扱ってはならない</li>
+            <li>例：正当な報酬＝目的をもつ存在への敬意</li>
+          </ul>
+        </div>
+        <div>
+          <h3>自律（Autonomy）</h3>
+          <ul>
+            <li>自己立法＝<strong>万人に適用可能</strong>な法を自らに課す</li>
+            <li>普遍化可能性テスト（自殺の規則は普遍化できるか？）</li>
+          </ul>
+        </div>
       </div>
     </section>
 
-    <!-- 倫理の領域 -->
+    <!-- 帰結主義 -->
     <section class="card">
-      <h2>２　倫理とはなにか</h2>
-      <h3>ノーラの行為は……</h3>
-      <p>外的規範では<strong>悪</strong>だが、本人は<strong>善</strong>と確信。</p>
-      <p class="fragment">正当化の拠り所は外側の規範ではなく、<br>内側の確信＝自分自身への配慮。</p>
-      <p class="fragment">→ ここが「倫理」の領域。</p>
+      <h2>帰結主義（功利主義）</h2>
+      <ul>
+        <li>行為の善悪は<strong>結果</strong>で判定</li>
+        <li>社会全体の<strong>幸福の総量</strong>を最大化</li>
+        <li>ベンサム：量（快楽↑ 苦痛↓） / ミル：質も考慮</li>
+      </ul>
+      <h3>医療での指標例</h3>
+      <ul>
+        <li>平均寿命・5年相対生存率など</li>
+        <li>幸福/コスト＝効率で比較（費用・人手・物資を分母）</li>
+      </ul>
+      <aside class="notes">表1-1相当の例示は口頭で。A:24.1% vs B:11.6% → 量ではA、費用考慮でBが有利の可能性。</aside>
     </section>
 
-    <!-- 倫理学とは -->
+    <!-- 比較と課題 -->
     <section class="card">
-      <h2>２　倫理とはなにか</h2>
-      <h3>定義</h3>
+      <h2>応用と課題（バランス）</h2>
+      <div class="two-col">
+        <div>
+          <h3>義務論の短所</h3>
+          <ul>
+            <li>結果を軽視 → 向こう見ずな判断の危険</li>
+          </ul>
+        </div>
+        <div>
+          <h3>帰結主義の短所</h3>
+          <ul>
+            <li>効率志向に偏る危険（人間の生を単純化）</li>
+          </ul>
+        </div>
+      </div>
+      <p class="fragment"><strong>生命倫理は両極の間でバランスを取る実践</strong>（後述の4原則もこの発想）。</p>
+    </section>
+
+    <!-- 事例 Aさんの告知 -->
+    <section class="card">
+      <h2>事例：Aさんの告知問題</h2>
+      <div class="two-col">
+        <div class="case">
+          <h3>B看護師（義務論）</h3>
+          <ul>
+            <li>仲間外れは間違い</li>
+            <li>人格の尊重 / 自律の重視</li>
+          </ul>
+        </div>
+        <div class="case">
+          <h3>C看護師（帰結主義）</h3>
+          <ul>
+            <li>告知で抑うつ・希望喪失の恐れ</li>
+            <li>結果の良否を予測して判断</li>
+          </ul>
+        </div>
+      </div>
+      <p class="fragment">実践では<strong>理念 × 結果予測</strong>の両立が望ましい。</p>
+    </section>
+
+    <!-- III ナラティブ倫理 概念 -->
+    <section class="card">
+      <h2>III. ナラティブ倫理</h2>
+      <h3>なぜ必要か</h3>
       <ul>
-        <li>外側からの力に対する「<strong>抵抗</strong>」を可能にする内的な力</li>
-      </ul>
-      <h3>倫理学とは</h3>
-      <ul>
-        <li>その内的抵抗をとらえ、正当化を試みる学</li>
-      </ul>
-      <h3>学ぶ効用</h3>
-      <ul>
-        <li>先入見や常識に縛られない多角的思考</li>
+        <li>現実の課題は<strong>状況（文脈）</strong>に強く依存</li>
+        <li>利害・価値観の不一致＝<strong>ナラティブ</strong>の衝突</li>
+        <li>対話による理解と調停が鍵</li>
       </ul>
     </section>
 
-    <!-- 生命倫理の全体像 -->
+    <!-- 立場の違い -->
     <section class="card">
-      <h2>３　生命倫理とはなにか</h2>
-      <h3>全体像</h3>
-      <p class="centered">倫理 ＞ 生命倫理 ＞ 看護倫理</p>
-    </section>
-
-    <!-- 生命倫理の背景 -->
-    <section class="card">
-      <h2>３　生命倫理とはなにか</h2>
-      <h3>生命倫理と権利運動</h3>
-      <ul>
-        <li>1960–70年代の米国で成立</li>
-        <li>公民権運動などと並行して発展</li>
-      </ul>
-      <h3>背景</h3>
-      <ul>
-        <li>自己決定権への志向</li>
-        <li>侵襲性・実験性の高い医療技術</li>
-        <li>医師-患者関係の変容（かかりつけ医不在等）</li>
-      </ul>
-    </section>
-
-    <!-- トピック -->
-    <section class="card">
-      <h2>３　生命倫理とはなにか</h2>
-      <h3>主要トピック</h3>
-      <h4>安楽死・尊厳死</h4>
-      <ul>
-        <li>延命は絶対か？</li>
-        <li>死に時を自分で決めるべきか？</li>
-      </ul>
-      <h4>脳死臓器移植</h4>
-      <ul>
-        <li>脳死は「死」か？</li>
-        <li>ドナーとして役立つことは善か？</li>
-      </ul>
-      <p class="fragment">重要点：患者（家族含む）の生死に関する倫理問題が可視化された意義。</p>
-    </section>
-
-    <!-- ケース2 -->
-    <section class="card">
-      <h2>３　生命倫理とはなにか</h2>
-      <div class="case">
-        <h3>ケース２：ある男の死</h3>
-        <ul>
-          <li>末期がんの事実は本人に未告知</li>
-          <li>家族と合意のうえ延命治療を継続</li>
-          <li>本人は自らの病状を知らぬまま衰弱・死去</li>
-        </ul>
+      <h2>立場によって異なるナラティブ</h2>
+      <div class="two-col">
+        <div>
+          <h3>患者</h3>
+          <ul>
+            <li>ライフヒストリーの断裂 → 新たな道筋探索</li>
+          </ul>
+          <h3>家族</h3>
+          <ul>
+            <li>支援者/代理決定者になり得るが関係性は様々</li>
+          </ul>
+        </div>
+        <div>
+          <h3>医療従事者</h3>
+          <ul>
+            <li>専門教育由来の疾病観・規範</li>
+            <li>看護はアドボカシーを重視し、医師と患者の狭間で葛藤</li>
+          </ul>
+        </div>
       </div>
     </section>
 
-    <!-- ケース2の論点 -->
+    <!-- 事例：ホームレス男性 -->
     <section class="card">
-      <h2>３　生命倫理とはなにか</h2>
-      <p>法・道徳・社会常識・医学的には問題がなくても、</p>
-      <p class="fragment">本人の「内側」への配慮＝倫理的対応は十分か？</p>
-      <p class="fragment">主体的・自律的決定の機会が奪われた点が核心。</p>
-      <p class="note">※今日ではインフォームド・コンセントの重視により例外的。</p>
-    </section>
-
-    <!-- 抵抗としての生命倫理 -->
-    <section class="card">
-      <h2>３　生命倫理とはなにか</h2>
-      <h3>生命倫理と「抵抗」</h3>
-      <ul>
-        <li>決定権を占有する専門家・体制 vs. 疎外された患者</li>
-      </ul>
-      <p class="centered">↓</p>
-      <ul>
-        <li>制度に対する、患者自身の主体性・自律性の防衛</li>
-      </ul>
-    </section>
-
-    <!-- 看護倫理とは -->
-    <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <h3>生命倫理との関係</h3>
-      <ul>
-        <li>生命倫理：制度・医療者全般が対象</li>
-        <li>看護倫理：看護師の立場から問題を検討</li>
-      </ul>
-      <div class="case">
-        <h3>ケース３：患者の不安</h3>
-        <ul>
-          <li>強い痛み→不安→医師への不信として表出</li>
-          <li>悩みは看護師に打ち明けられる</li>
-          <li>患者の「内側」に寄り添えるかが鍵</li>
-        </ul>
+      <h2>事例：ホームレス男性の緊急手術</h2>
+      <div class="two-col">
+        <div class="case">
+          <h3>医師のナラティブ</h3>
+          <ul>
+            <li>命を救うのが使命。反対されても見殺しにできない</li>
+          </ul>
+        </div>
+        <div class="case">
+          <h3>妻のナラティブ</h3>
+          <ul>
+            <li>15年の不在・苦労への憤りとむなしさ</li>
+          </ul>
+        </div>
       </div>
+      <p class="fragment">相反するナラティブ → 倫理的ジレンマ。</p>
     </section>
 
-    <!-- 看護倫理の実際 -->
+    <!-- 調停ステップ -->
     <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <div class="case">
-        <h3>ケース４：ある癌患者</h3>
-        <ul>
-          <li>本人：手術は受けたくない</li>
-          <li>家族：手術を望む</li>
-        </ul>
-      </div>
-      <p>看護師はどうするか？</p>
-      <ul>
-        <li>医学的妥当性にもとづき手術を説得</li>
-        <li>本人の価値観を重視し、非手術に賛成</li>
-      </ul>
+      <h2>対話と調停：実践ステップ</h2>
+      <ol>
+        <li>現状の客観把握（医学的状態・選択肢・社会状況）</li>
+        <li>関係者それぞれの<strong>思い・背景・価値観</strong>を傾聴</li>
+        <li>ズレの可視化と、合意可能領域の探索</li>
+        <li>合意形成に向けた選択肢の再構成（説明責任）</li>
+      </ol>
     </section>
 
-    <!-- パターナリズム -->
+    <!-- 徳倫理（補足） -->
     <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <h3>極端① パターナリズム</h3>
+      <h2>補足：徳倫理</h2>
       <ul>
-        <li>患者の意向に関わらず、専門家が最善を決定</li>
-        <li>語源：pater（父）</li>
-      </ul>
-      <h3>「ヒポクラテスの誓い」</h3>
-      <ul>
-        <li>知識は誤用の危険→秘匿</li>
-        <li>「患者の最善」を決めるのは医師</li>
+        <li>「どう行動すべきか」より<strong>どんな徳を備えるか</strong></li>
+        <li>例：忠義・仁愛・勇気・正直</li>
+        <li>看護職：困難に向き合い、根拠を説明できる<strong>実践知</strong></li>
+        <li class="muted">※ 行為の具体指針は示さない → 当事者の熟慮が不可欠</li>
       </ul>
     </section>
 
-    <!-- 両極の罠 -->
+    <!-- まとめ -->
     <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <p>パターナリズム回避には「自己決定」「IC」が有効。</p>
-      <p>しかし「希望だから」だけで非手術を選ぶと、</p>
+      <h2>IV. まとめ</h2>
       <ul>
-        <li>家族の希望を無視</li>
-        <li>極端な「医療消費者主義」に傾く危険</li>
+        <li>倫理学＝<strong>規範倫理学</strong>＋<strong>記述倫理学</strong>（両方重要）</li>
+        <li>義務論：人格尊重・自律／動機</li>
+        <li>帰結主義：結果・幸福総量／効率</li>
+        <li>看護倫理＝両視点の<strong>統合とバランス</strong></li>
+        <li>ナラティブ倫理：文脈理解・対話・調停で合意形成</li>
       </ul>
+      <p class="muted">→ 多様な倫理課題に対する実践知の第一歩。</p>
     </section>
 
-    <!-- 医療消費者主義 -->
+    <!-- 終わり・問い -->
     <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <h3>極端② 医療消費者主義</h3>
-      <ul>
-        <li>医療＝サービス、患者＝消費者。選択は自己責任。</li>
-        <li>1960年代以後、パターナリズムへの反動として登場。</li>
-      </ul>
-      <h3>ただし</h3>
-      <ul>
-        <li>知識の非対称性ゆえ、患者に過度の責任転嫁は不適切な場合がある。</li>
-      </ul>
-    </section>
-
-    <!-- 共同意思決定 -->
-    <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <h3>共同意思決定（SDM）</h3>
-      <ul>
-        <li>医療者：標準治療を提示</li>
-        <li>患者：価値観・優先事項・見通しを共有</li>
-        <li>医療者：選好に基づき方針を再提案</li>
-      </ul>
-      <div class="centered">
-        <img src="https://i.imgur.com/example_image.png" alt="共同意思決定の図" style="max-width:70%;border-radius:10px;">
-      </div>
-    </section>
-
-    <!-- 倫理のスタンス -->
-    <section class="card">
-      <h2>４　看護倫理とはなにか</h2>
-      <h3>「抵抗」と「倫理」</h3>
-      <ul>
-        <li>生命倫理は極端なパターナリズムへの抵抗を可能にする</li>
-        <li>同時に、極端な消費者主義にも与しない</li>
-        <li>「倫」＝仲間・共同体。独りよがりではない。</li>
-        <li>一般解の装置ではなく、ケースに即して熟考する実践。</li>
-      </ul>
-    </section>
-
-    <!-- プラクティス -->
-    <section class="card">
-      <h2>プラクティス</h2>
+      <h2>ディスカッション</h2>
       <div class="practice">
-        <h3>プラクティス１</h3>
-        <p>パターナリズム的治療の具体例を挙げ、なぜそう言えるかを示す。</p>
-        <h3>プラクティス２</h3>
-        <p>同じケースに対し、医療消費者主義的な案を挙げ、理由を示す。</p>
-        <p>回答は <a href="#" target="_blank">Googleフォーム</a> から提出。</p>
+        <ol>
+          <li>あなたの臨床経験で見た「ナラティブの衝突」は？</li>
+          <li>その場面で、義務論と帰結主義のバランスはどう取れそうか？</li>
+          <li>合意形成のために取れる次の一手は？</li>
+        </ol>
       </div>
     </section>
 
