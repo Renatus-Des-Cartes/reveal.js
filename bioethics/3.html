@@ -1,1 +1,327 @@
 
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理　第3回 医療倫理の四原則</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- Reveal core -->
+  <link rel="stylesheet" href="../dist/reveal.css">
+
+  <!-- 白背景テーマに変更 -->
+  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+
+  <!-- 無料フォントのみ（Google Fonts） -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* 背景を常に白に固定 */
+    .reveal-viewport {
+      background: #fff !important;
+    }
+    .reveal .backgrounds {
+      background: #fff !important;
+    }
+
+    :root {
+      --c-accent: #1f3c9d; /* ティール系アクセント */
+      --c-ink: #0f172a; /* 文字色 */
+      --c-muted: #344c6d; /* 補助色 */
+      --c-warn: #d97706; /* 注意色 */
+      --c-border: #e5e7eb; /* 枠線 */
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", "BIZ UDGothic", system-ui,
+        -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.5;
+      letter-spacing: 0.01em;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3,
+    .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .reveal h1 { font-size: 2.1em; }
+    .reveal h2 { font-size: 1.6em; color: var(--c-accent); }
+    .reveal h3 { font-size: 1.25em; }
+    .reveal p,
+    .reveal li { font-size: 0.9em; }
+
+    .reveal strong { color: #d24b4b; }
+    .reveal a { color: #0ea5e9; }
+
+    /* 白背景用のカードデザイン */
+    section.card {
+      background: #fff;
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .muted { color: var(--c-muted); }
+
+    .case {
+      border-left: 6px solid #facc15;
+      background: rgba(250, 204, 21, 0.08);
+      padding: 16px;
+      border-radius: 10px;
+      margin: 14px 0;
+    }
+
+    .practice {
+      background: rgba(148, 163, 184, 0.12);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+      padding: 18px;
+      border-radius: 12px;
+    }
+
+    .centered {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    @media (max-width: 900px) {
+      .two-col {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      border-radius: 999px;
+      background: rgba(31, 157, 122, 0.14);
+      color: var(--c-accent);
+      font-size: 0.75em;
+    }
+  </style>
+</head>
+
+<!-- ★ 追加：body と reveal/slides ラッパー -->
+<body>
+<div class="reveal">
+  <div class="slides">
+
+  <!-- タイトル -->
+  <section>
+    <h1>生命倫理 第3回</h1>
+    <h2>医療倫理の四原則</h2>
+    <p>担当：筒井一穂</p>
+  </section>
+
+  <!-- 目次 -->
+  <section>
+    <h2>目次</h2>
+    <ul>
+      <li>なぜ原則が必要か</li>
+      <li>医療倫理の四原則</li>
+      <li>原則の現実への適用</li>
+      <li>ヨーロッパの四原則</li>
+          </ul>
+  </section>
+
+  <!-- １ 医療倫理の四原則（章） -->
+    <section>
+      <h2>1.なぜ原則が必要か</h2>
+      <ul>
+        <li>医療において倫理的な判断を下すためには、根拠となる「原則≒ルール」が必要</li>
+        <li>共有された原則がないと、ブラウン医師の事例のように、医師の独断での判断を止められない</li>
+        <li>また、原則に従って考えることで、自分がとるべき行動を選択することもできる</li>
+        </ul>
+    </section>
+    
+    <section>
+      <h2>タラソフ事件</h2>
+      <ul>
+        <li>ある精神疾患患者がタチアナ・タラソフさんを殺害した事件</li>
+        </ul>
+  <div style="max-height: 360px; overflow-y: auto; padding: 12px; background-color: #e1dddd; text-align: left; border-radius: 6px;">
+    <p>
+      1969年10月27日 B・プロセンジット・ポダーは，タチアナ・タラソフを殺害した．</p>
+    <p>ポダーがタラソフを殺害するに至るまでには，次のような経緯があった．ポダーは精神病患者で，カリフォルニア大学バークレー校コーウェル記念病院の心理療法士(psychologist)ローレンス・ムーア博士に治療を受けていた．ポダーは事件の2ヶ月前，ムーア博士に「ある未婚の女性が外国から帰国したら殺害するつもりだ」と述べていた．ポダーは具体的な名前は言わなかったものの，その女性が誰なのかは容易に確認できた．ムーア博士たちは，ポダーを精神病院で診察すべきだとして，警察に身柄を拘束するように要請し，警察は短期間ポダーを拘束した．しかし，警察は，ポダーが理性的な状態にあると判断し，タラソフに近づかないとの約束をとりつけたうえでポダーを釈放した．タラソフがブラジルから帰国してまもなく，ポダーは彼女の家に行き，彼女を殺害してしまった．</p>
+    <p>誰一人として，彼女の両親に，彼女の危機を警告した者はいなかった．この事件では，両親がカリフォルニア大学理事会らを相手に損害賠償訴訟を提起した．カリフォルニア州最高裁判所は，1976年判決を下したが，そこでは次の二つの意見が出された．法廷意見（トブリナー判事）（多数意見）は，専門家たちには守秘義務が免除されるだけでなく，狙われている人物への「警告義務(duty to warn)」があったとした．心理療法士は彼の患者だけではなく，その患者の犠牲になるかもしれない人物に対しても法的義務を負っていた．この人物に医師が情報を開示する義務は「最大多数の最大幸福」という観点から正当化できる．</p>
+    <p>一方，少数意見（クラーク判事）は，守秘義務の遵守を支持した．その理由は「精神科医が行うあらゆる治療は，この医師は決して機密を開示しないという，コミュニティにおける評判に依存している」からである．もし機密が保持されなくなれば，その結果として医療特に精神科治療を必要とする人々が治療を求めにこなくなる，あるいは全面的に参加しなくなることが予想される．</P>
+  </div>
+      </section>
+
+    <section>
+        <ul>
+        <li>タラソフ事件において、医療チームの対応は、患者のプライバシーという正当な根拠をもつ</li>
+        <li>しかし、「これでよかったのか？」という疑問が浮かばないわけではない</li>
+        <li>▶️ 私たちが医療チームのメンバーだったら、どういう根拠で事件を防げただろうか？</li>
+        </ul>
+    </section>
+ <section id="overview">
+        <h2>2.医療倫理の四原則</h2>
+        <ul>
+          <li>アメリカの倫理学者ビーチャムとチルドレスによって提唱された</li>
+        </ul>
+        <ol>
+          <li>自律尊重原則：患者の自律的な意思決定を尊重せよ</li>
+          <li>与益（＝善行）原則：患者に利益を与えよ</li>
+          <li>無害原則：患者に危害を及ぼすのを避けよ</li>
+          <li>正義原則：利益と負担を公平に分配せよ</li>
+        </ol>
+      </section>
+
+      <!-- 自律性尊重原則 -->
+      <section id="autonomy">
+        <h3>自律性尊重原則</h3>
+        <ul>
+          <li>自律性とは，他者からの支配を受けずに自分自身の考えを思い描き，それに基づいてみずからで考えて選択・判断し行動する自由（自己決定の自由）</li>
+          <li>つまり、患者が誰にも支配されていないこと</li>
+          <li>患者は、自らの治療の方針を決定する自由をもつ</li>
+          <li>医療者は、その自由を尊重しなければならない</li>
+        </ul>
+        <p><strong>患者をひとりの人格としてリスペクトすること</strong></p>
+      </section>
+
+      <!-- 与益（善行）原則 -->
+      <section id="beneficence">
+        <h3>与益（善行）原則</h3>
+        <ul>
+          <li>患者（や家族など）の利益になることをすべし＝患者の健康を増進する</li>
+          <li>健康には身体的・精神的・社会的健康があるので、そのすべてを配慮しなければならない
+            <ul>
+              <li>身体的な健康だけを与えるために、過剰な食事管理によって精神的健康を害することなどはNG</li>
+            </ul>
+          </li>
+          <li>ただし、利益とはあくまで「健康」につながるものなので、明らかに不健康な欲求をかなえるべきではない
+            <ul>
+              <li>アルコール依存症患者に酒を与えること</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 無害原則 -->
+      <section id="nonmaleficence">
+        <h3>無害原則</h3>
+        <ul>
+          <li>患者（や家族など）の害になることを避けるべし</li>
+          <li>この原則は、与益原則と背中合わせになっている。（与益を重視することは危害を避けることと同じ）</li>
+        </ul>
+        <p>ただし、</p>
+        <ul>
+          <li>デメリットの大きい投薬やリスクのある手術などが絶対にダメなわけではない
+            <ul>
+              <li>つねにメリットが上回るように慎重に考慮する必要がある</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 正義原則 -->
+      <section id="justice">
+        <h3>正義原則</h3>
+        <ul>
+          <li>ここでの正義とは、広い視点でみたときの「バランス」のこと
+            <ul>
+              <li>病院内では、例えば、看護師がどの患者に優先的に対応するか（対応の厚さのバランス）を、客観的な理由にもとづき決定すること</li>
+            </ul>
+          </li>
+          <li>病院外のことも視野に入れるなら、「感染症の患者が希望しているからといって、在宅治療にはしない」ことなど（感染拡大リスクを考えた、社会全体でのバランス）</li>
+        </ul>
+      </section>
+
+    <section>
+        <ul>
+        <li>タラソフ事件は、<strong>自立性尊重原則　vs. 正義原則</strong>という対立</li>
+        <li>守秘義務 = 自立性尊重</li>
+        <li>被害者への配慮 = 正義原則</li>
+        </ul>
+    </section>
+
+
+    <section>
+      <h2>3.原則の現実への適用</h2>
+      <p>原則の<strong>特定化</strong></p>
+        <ul>
+        <li>タラソフ事件の場合、司法の判断は、守秘義務゠自律性原則に班するものだった</li>
+          <li>しかし、被害者への勧告は、自律性尊重原則を「破る」ことと同義ではない</li>    
+        <li>原則は一般的な行動目標であり、個別のケースに適用するには、つねに「特定化」が必要</li>
+          <li>タラソフ事件に望まれた特定化：<strong>患者が特定の第三者に深刻な身体的危害を加える意図を表明していない場合には</strong>，精神療法で患者が治療者に告げた情報を，その患者の同意を得ずに，治療者が他人に開示してはならない</li>
+                   
+        </ul>
+    </section>
+    
+        <section>
+      <p>ほかにも、原則が対立する場合は多く、それぞれに適切な特定化は何か、を考える必要がある</p>
+        <ul>
+        <li>自律性 vs 無害：退院すれば病気が重篤化するのに、退院しようとしている患者を、強制的に入院させてよいか</li>
+          <li>善行 vs 正義：患者に治療を施すこともできるが、それによってより生存確立の高い患者の治療ができなくなる</li>    
+        <li>善行 vs 無害：苦痛やつらいリハビリを伴う治療を施すことで、患者の寿命は伸びるが、生活の質は下がる</li>
+        </ul>
+    </section>
+            <section>
+      <h2>ヨーロッパの四原則</h2>
+        <p>アメリカの四原則が実用性を重視するのに対して、ヨーロッパの四原則は目指すべき価値を重視する</p>
+              <ul>
+        <li>自律性：患者の判断を尊重する</li>
+          <li>尊厳：患者を価値ある人格とみなし、敬意を払うこと</li>    
+        <li>不可侵性：患者にとって重要な価値観や、生命の根幹部分に介入しないこと</li>
+                <li>脆弱性：患者の社会的・身体的・心理的な弱さに配慮すること</li>
+        </ul>
+    </section>
+                <section>
+        <p>尊厳への配慮の具体例</p>
+        <ul>
+        <li>人工呼吸器をつけて植物状態で生きるよりも、その人らしい死を迎えたほうがよい</li>
+        <li>身体拘束による治療は、患者をひとりの人間として尊重していない</li>    
+        </ul>
+                  <p>脆弱性への配慮の具体例</p>
+        <ul>
+        <li>病状を伝えることで精神的に追い込まれてしまうと思われる患者には、徐々に時間をかけて理解してもらうよう説明したほうがよい</li>
+          <li>介護ロボットのようなツールは、高齢患者の依存性を高めてしまうから避けたほうがよい</li>
+            </ul>
+    </section>
+  <section>
+    <h2>まとめ</h2>
+    <ul>
+      <li>原則は、現実の問題に対応するときの判断の根拠として必要</li>
+      <li>いわゆる四原則とは、自律性尊重、善行、無害、正義である</li>
+      <li>四原則を現実に適用するためには、個別の事情を考慮した特定化をおこなう必要がある</li>
+      <li>ヨーロッパの四原則（自律性、尊厳、不可侵性、脆弱性）は、行動原則というよりも価値観の原則に近い</li>
+      </ul>
+  </section>
+
+  </div> <!-- .slides -->
+</div>   <!-- .reveal -->
+
+<!-- Reveal scripts -->
+<script src="../dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t',
+    transition: 'fade',
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1280,
+    height: 720
+    // plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+  });
+</script>
+</body>
+</html>
+
+
