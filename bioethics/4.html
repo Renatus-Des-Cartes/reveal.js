@@ -1,1 +1,397 @@
 
+
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理　第4回 生殖の倫理</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- Reveal core -->
+  <link rel="stylesheet" href="../dist/reveal.css">
+
+  <!-- 白背景テーマに変更 -->
+  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+
+  <!-- 無料フォントのみ（Google Fonts） -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* 背景を常に白に固定 */
+    .reveal-viewport {
+      background: #fff !important;
+    }
+    .reveal .backgrounds {
+      background: #fff !important;
+    }
+
+    :root {
+      --c-accent: #1f3c9d; /* ティール系アクセント */
+      --c-ink: #0f172a; /* 文字色 */
+      --c-muted: #344c6d; /* 補助色 */
+      --c-warn: #d97706; /* 注意色 */
+      --c-border: #e5e7eb; /* 枠線 */
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", "BIZ UDGothic", system-ui,
+        -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.5;
+      letter-spacing: 0.01em;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3,
+    .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .reveal h1 { font-size: 2.1em; }
+    .reveal h2 { font-size: 1.6em; color: var(--c-accent); }
+    .reveal h3 { font-size: 1.25em; }
+    .reveal p,
+    .reveal li { font-size: 0.9em; }
+
+    .reveal strong { color: #d24b4b; }
+    .reveal a { color: #0ea5e9; }
+
+    /* 白背景用のカードデザイン */
+    section.card {
+      background: #fff;
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .muted { color: var(--c-muted); }
+
+    .case {
+      border-left: 6px solid #facc15;
+      background: rgba(250, 204, 21, 0.08);
+      padding: 16px;
+      border-radius: 10px;
+      margin: 14px 0;
+    }
+
+    .practice {
+      background: rgba(148, 163, 184, 0.12);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+      padding: 18px;
+      border-radius: 12px;
+    }
+
+    .centered {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    @media (max-width: 900px) {
+      .two-col {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      border-radius: 999px;
+      background: rgba(31, 157, 122, 0.14);
+      color: var(--c-accent);
+      font-size: 0.75em;
+    }
+  </style>
+</head>
+
+<!-- ★ 追加：body と reveal/slides ラッパー -->
+<body>
+<div class="reveal">
+  <div class="slides">
+
+  <!-- タイトル -->
+  <section>
+    <h1>生命倫理 第4回</h1>
+    <h2>生殖の倫理</h2>
+    <p>担当：筒井一穂</p>
+  </section>
+
+  <!-- 目次 -->
+  <section>
+    <h2>目次</h2>
+    <ul>
+      <li>リプロダクティブ・ライツ</li>
+      <li>不妊治療</li>
+      <li>人工妊娠中絶</li>
+          </ul>
+  </section>
+
+  <!-- １ 医療倫理の四原則（章） -->
+    <section>
+      <h2>1.リプロダクティブ・ライツ</h2>
+      <ul>
+        <li>リプロダクティブ・ヘルス：性と生殖に関して、身体的・精神的・社会的に満足な状態にあること</li>
+        <li>リプロダクティブ・ライツ：リプロダクティブ・ヘルスを獲得する、万人に与えられた権利。</li>
+        <ul>
+          <li>リプロダクティブ・ライツの観点から、不妊治療と人工妊娠中絶が主な論点となる</li>
+        </ul>              
+        </ul>
+    </section>
+    
+    <section>
+      <h2>2.不妊治療</h2>
+      <p>不妊とは：「避妊をせず⼆年間通常の性⽣活を送っているにもかかわらず、妊娠しないこと」（WHO)</p>
+      <p>主な治療法</p>
+      <ul>
+        <li>タイミング法・排卵誘発法：母の身体に働きかける方法。</li>
+        <li><strong>人工授精</strong>：父もしくは提供者から精子を回収し、母の子宮内に注入する方法。AIHとAIDがある。</li>
+        <li><strong>体外受精</strong>：父もしくは提供者の精子と母もしくは提供者の卵子とを回収し、体外で受精させた胚を母の子宮内に移植する方法。</li>
+        <li><strong>代理出産</strong>：父もしくは提供者の精子と母もしくは提供者の卵子とを回収し、体外で受精させた胚を代理母の子宮に移植する方法。</li>
+        </ul>
+      </section>
+
+    <section>
+      <h3>人工授精</h3>  
+      
+      <ul>
+        <li><strong>AIH</strong>：父から精子を回収し、母の子宮内に注入する方法。</li>
+        <ul>
+          <li>▶️ 倫理的な問題は比較的小さい</li>
+        </ul>
+          <li><strong>AID</strong>：提供者から精子を回収し、母の子宮内に注入する方法。</li>
+        <ul>
+          <li>▶️ 倫理的な問題が比較的<strong>大きい</strong>（社会的父と生物学的父との分離）</li>
+        </ul>
+        </ul>
+      <table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="2">母方</th>
+      <th rowspan="2"></th>
+    </tr>
+    <tr>
+      <th>母</th>
+      <th>提供者（or 代理母）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">父方</td>
+      <td>父</td>
+      <td>〇（AIH）</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>提供者</td>
+      <td>●（AID）</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+    </section>
+ <section>
+        <h3>体外受精</h3>
+        <ul>
+          <li>父の精子と母の卵子を体外で受精させる場合</li>
+          <ul><li>▶️ 倫理的な問題：生殖という自然な活動に科学・医学的に介入することの是非（試験管ベビー）</li></ul>
+        </ul>
+        <ul>
+          <li>精子または卵子が提供者のものである場合</li>
+          <ul>
+          <li>▶️ AIDの場合と同様、倫理的な問題がある</li>
+          </ul>
+        </ul>
+      <table>
+  <thead>
+    <tr>
+      <th rowspan="2"></th>
+      <th colspan="2">母方</th>
+      <th rowspan="2"></th>
+    </tr>
+    <tr>
+      <th>母</th>
+      <th>提供者（or 代理母）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">父方</td>
+      <td>父</td>
+      <td>〇</td>
+      <td>●</td>
+    </tr>
+    <tr>
+      <td>提供者</td>
+      <td>●</td>
+      <td>●</td>
+    </tr>
+  </tbody>
+</table>
+         </section>
+
+ <section>
+        <h3>代理出産</h3>
+        <ul>
+          <li><strong>ホスト–マザー型</strong>：父・母の受精卵 → 代理母が出産</li>
+          <ul><li>▶️ 倫理的な問題：生物学的・社会的親は一致するが、分娩した母が乖離する</li></ul>
+
+          <li><strong>サロゲート–マザー型</strong>：父・代理母の人工授精 → 代理母が出</li>
+          <ul><li>▶️ 倫理的な問題：生物学的母と社会的母の乖離・分娩した母の乖離</li></ul>
+        </ul>
+
+         </section>
+
+    
+      <!-- 自律性尊重原則 -->
+      <section>
+        <h3>不妊治療の倫理的問題 ① 提供者・代理母の権利</h3>
+        <ul>
+          <li>精子・卵子提供者：自分の生物学的子を認知できない</li>
+          <ul><li>▶️ 提供時に同意があれば、問題は大きくない</li></ul>
+          <li>代理出産：分娩した子の認知ができない</li>
+          <ul><li>▶️ 提供時に同意があっても、<strong>妊娠・出産を行う以上、割り切れない部分がある</strong></li></ul>
+        </ul>
+      </section>
+
+      <!-- 与益（善行）原則 -->
+      <section>
+        <h3>代理母の葛藤</h3>
+        <ul>
+          <li>患者（や家族など）の利益になることをすべし＝患者の健康を増進する</li>
+          <li>健康には身体的・精神的・社会的健康があるので、そのすべてを配慮しなければならない
+            <ul>
+              <li>身体的な健康だけを与えるために、過剰な食事管理によって精神的健康を害することなどはNG</li>
+            </ul>
+          </li>
+          <li>ただし、利益とはあくまで「健康」につながるものなので、明らかに不健康な欲求をかなえるべきではない
+            <ul>
+              <li>アルコール依存症患者に酒を与えること</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 無害原則 -->
+      <section id="nonmaleficence">
+        <h3>無害原則</h3>
+        <ul>
+          <li>患者（や家族など）の害になることを避けるべし</li>
+          <li>この原則は、与益原則と背中合わせになっている。（与益を重視することは危害を避けることと同じ）</li>
+        </ul>
+        <p>ただし、</p>
+        <ul>
+          <li>デメリットの大きい投薬やリスクのある手術などが絶対にダメなわけではない
+            <ul>
+              <li>つねにメリットが上回るように慎重に考慮する必要がある</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 正義原則 -->
+      <section id="justice">
+        <h3>正義原則</h3>
+        <ul>
+          <li>ここでの正義とは、広い視点でみたときの「バランス」のこと
+            <ul>
+              <li>病院内では、例えば、看護師がどの患者に優先的に対応するか（対応の厚さのバランス）を、客観的な理由にもとづき決定すること</li>
+            </ul>
+          </li>
+          <li>病院外のことも視野に入れるなら、「感染症の患者が希望しているからといって、在宅治療にはしない」ことなど（感染拡大リスクを考えた、社会全体でのバランス）</li>
+        </ul>
+      </section>
+
+    <section>
+        <ul>
+        <li>タラソフ事件は、<strong>自律性尊重原則　vs. 正義原則</strong>という対立</li>
+        <li>守秘義務 = 自律性尊重</li>
+        <li>被害者への配慮 = 正義原則</li>
+        </ul>
+    </section>
+
+
+    <section>
+      <h2>3.原則の現実への適用</h2>
+      <p>原則の<strong>特定化</strong></p>
+        <ul>
+        <li>タラソフ事件の場合、司法の判断は、守秘義務゠自律性原則に班するものだった</li>
+          <li>しかし、被害者への勧告は自律性尊重原則を「破る」ことと同義ではない</li>    
+        <li>原則は一般的な行動目標であり、個別のケースに適用するには、つねに「特定化」が必要</li>
+          <li>望ましい特定化：<strong>患者が特定の第三者に深刻な身体的危害を加える意図を表明していない場合には</strong>，精神療法で患者が治療者に告げた情報を，その患者の同意を得ずに，治療者が他人に開示してはならない</li>
+                   
+        </ul>
+    </section>
+    
+        <section>
+      <p>ほかにも、原則が対立する場合は多く、それぞれに適切な特定化は何か、を考える必要がある</p>
+        <ul>
+        <li><strong>自律性 vs 無害</strong>：退院すれば病気が重篤化するのに、退院しようとしている患者を、強制的に入院させてよいか</li>
+          <li><strong>善行 vs 正義</strong>：患者に治療を施すこともできるが、それによってより生存確立の高い患者の治療ができなくなる</li>    
+        <li><strong>善行 vs 無害</strong>：苦痛やつらいリハビリを伴う治療を施すことで、患者の寿命は伸びるが、生活の質は下がる</li>
+        </ul>
+    </section>
+            <section>
+      <h2>ヨーロッパの四原則</h2>
+        <p>アメリカの四原則が実用性を重視するのに対して、ヨーロッパの四原則は目指すべき価値を重視する</p>
+              <ul>
+        <li>自律性：患者の判断を尊重する</li>
+          <li>尊厳：患者を価値ある人格とみなし、敬意を払うこと</li>    
+        <li>不可侵性：患者にとって重要な価値観や、生命の根幹部分に介入しないこと</li>
+                <li>脆弱性：患者の社会的・身体的・心理的な弱さに配慮すること</li>
+        </ul>
+    </section>
+                <section>
+        <h3>尊厳への配慮の具体例</h3>
+        <ul>
+        <li>人工呼吸器をつけて植物状態で生きるよりも、その人らしい死を迎えたほうがよい</li>
+        <li>身体拘束による治療は、患者をひとりの人間として尊重していない</li>    
+        </ul>
+                  <h3>脆弱性への配慮の具体例</h3>
+        <ul>
+        <li>病状を伝えることで精神的に追い込まれてしまうと思われる患者には、徐々に時間をかけて理解してもらうよう説明したほうがよい</li>
+          <li>介護ロボットのようなツールは、高齢患者の依存性を高めてしまうから避けたほうがよい</li>
+            </ul>
+    </section>
+  <section>
+    <h2>まとめ</h2>
+    <ul>
+      <li>原則は、現実の問題に対応するときの判断の根拠として必要</li>
+      <li>いわゆる四原則とは、自律性尊重、善行、無害、正義である</li>
+      <li>四原則を現実に適用するためには、個別の事情を考慮した特定化をおこなう必要がある</li>
+      <li>ヨーロッパの四原則（自律性、尊厳、不可侵性、脆弱性）は、行動原則というよりも価値観の原則に近い</li>
+      </ul>
+  </section>
+
+  </div> <!-- .slides -->
+</div>   <!-- .reveal -->
+
+<!-- Reveal scripts -->
+<script src="../dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t',
+    transition: 'fade',
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1280,
+    height: 720
+    // plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+  });
+</script>
+</body>
+</html>
