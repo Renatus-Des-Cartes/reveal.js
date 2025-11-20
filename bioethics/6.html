@@ -1,4 +1,136 @@
-        <div style="max-height: 360px; overflow-y: auto; padding: 12px; background-color: #e1dddd; text-align: left; border-radius: 6px;">
+
+
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理　第5回 死の倫理 ①</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- Reveal core -->
+  <link rel="stylesheet" href="../dist/reveal.css">
+
+  <!-- 白背景テーマに変更 -->
+  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+
+  <!-- 無料フォントのみ（Google Fonts） -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* 背景を常に白に固定 */
+    .reveal-viewport {
+      background: #fff !important;
+    }
+    .reveal .backgrounds {
+      background: #fff !important;
+    }
+
+    :root {
+      --c-accent: #1f3c9d; /* ティール系アクセント */
+      --c-ink: #0f172a; /* 文字色 */
+      --c-muted: #344c6d; /* 補助色 */
+      --c-warn: #d97706; /* 注意色 */
+      --c-border: #e5e7eb; /* 枠線 */
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", "BIZ UDGothic", system-ui,
+        -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.5;
+      letter-spacing: 0.01em;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3,
+    .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .reveal h1 { font-size: 2.1em; }
+    .reveal h2 { font-size: 1.6em; color: var(--c-accent); }
+    .reveal h3 { font-size: 1.25em; }
+    .reveal p,
+    .reveal li { font-size: 0.9em; }
+
+    .reveal strong { color: #d24b4b; }
+    .reveal a { color: #0ea5e9; }
+
+    /* 白背景用のカードデザイン */
+    section.card {
+      background: #fff;
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .muted { color: var(--c-muted); }
+
+    .case {
+      border-left: 6px solid #facc15;
+      background: rgba(250, 204, 21, 0.08);
+      padding: 16px;
+      border-radius: 10px;
+      margin: 14px 0;
+    }
+
+    .practice {
+      background: rgba(148, 163, 184, 0.12);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+      padding: 18px;
+      border-radius: 12px;
+    }
+
+    .centered {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    @media (max-width: 900px) {
+      .two-col {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      border-radius: 999px;
+      background: rgba(31, 157, 122, 0.14);
+      color: var(--c-accent);
+      font-size: 0.75em;
+    }
+  </style>
+</head>
+
+<!-- ★ 追加：body と reveal/slides ラッパー -->
+<body>
+<div class="reveal">
+  <div class="slides">
+
+  <!-- タイトル -->
+  <section>
+    <h1>生命倫理 第5回</h1>
+    <h2>死の倫理（教科書pp.60–70）</h2>
+    <p>担当：筒井一穂</p>
+  </section>
+
+
+<div style="max-height: 360px; overflow-y: auto; padding: 12px; background-color: #e1dddd; text-align: left; border-radius: 6px;">
     <p>オランダの精神科医バードワイン・シャボットは， 50 歳の女性から自殺討助 の依頼を受けた。</p><p> この女性は， 生きがいとしていた長男を失恋自殺で失い， そして夫と離婚した後には次男をも悪性腫瘍で失ったことによって， 生きる望みを失い，自殺を決意する。</p><p> しかし，ホームドクターをはじめ数人の医師から自殺幇助の依頼を断られ続け，最後にオランダ自発的安楽死協会の紹介を通じてシャボット医師と知り合った。</p><p> シャボット医師は 2カ月間にわたってこの女性 を説得することを試みたが， 彼女の決心は変わらなかった。</p><p> 結局， 彼女の友人 やホームドクターが見守る中， シャボット医師は彼女に致死量の薬物を手渡し， 彼女はその薬物を飲んで死亡した。</p><p> この事件の裁判では， 一審・ニ審ではシャ ボット医師に無罪が宜告されたが， 最高裁は 1994年，逆転有罪の判決を下す。</p><p> ただし， 刑罰は科されないという「有罪」であった。</p><p>
 この判決は， 結果的にシャボット医師の行為 精神的苦痛を理由とする自殺幇助ー一を「安楽死」と半ば認める形となった。</p><p> つまり， 安楽死の条件から 「死期が迫っている」という条件を除いても構わないという方向 性が開かれた のである。</p>
   </div>
