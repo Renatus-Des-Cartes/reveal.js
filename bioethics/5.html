@@ -1,1 +1,385 @@
 
+
+
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理　第5回 死の倫理</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- Reveal core -->
+  <link rel="stylesheet" href="../dist/reveal.css">
+
+  <!-- 白背景テーマに変更 -->
+  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+
+  <!-- 無料フォントのみ（Google Fonts） -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* 背景を常に白に固定 */
+    .reveal-viewport {
+      background: #fff !important;
+    }
+    .reveal .backgrounds {
+      background: #fff !important;
+    }
+
+    :root {
+      --c-accent: #1f3c9d; /* ティール系アクセント */
+      --c-ink: #0f172a; /* 文字色 */
+      --c-muted: #344c6d; /* 補助色 */
+      --c-warn: #d97706; /* 注意色 */
+      --c-border: #e5e7eb; /* 枠線 */
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", "BIZ UDGothic", system-ui,
+        -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.5;
+      letter-spacing: 0.01em;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3,
+    .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .reveal h1 { font-size: 2.1em; }
+    .reveal h2 { font-size: 1.6em; color: var(--c-accent); }
+    .reveal h3 { font-size: 1.25em; }
+    .reveal p,
+    .reveal li { font-size: 0.9em; }
+
+    .reveal strong { color: #d24b4b; }
+    .reveal a { color: #0ea5e9; }
+
+    /* 白背景用のカードデザイン */
+    section.card {
+      background: #fff;
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .muted { color: var(--c-muted); }
+
+    .case {
+      border-left: 6px solid #facc15;
+      background: rgba(250, 204, 21, 0.08);
+      padding: 16px;
+      border-radius: 10px;
+      margin: 14px 0;
+    }
+
+    .practice {
+      background: rgba(148, 163, 184, 0.12);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+      padding: 18px;
+      border-radius: 12px;
+    }
+
+    .centered {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    @media (max-width: 900px) {
+      .two-col {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      border-radius: 999px;
+      background: rgba(31, 157, 122, 0.14);
+      color: var(--c-accent);
+      font-size: 0.75em;
+    }
+  </style>
+</head>
+
+<!-- ★ 追加：body と reveal/slides ラッパー -->
+<body>
+<div class="reveal">
+  <div class="slides">
+
+  <!-- タイトル -->
+  <section>
+    <h1>生命倫理 第5回</h1>
+    <h2>死の倫理</h2>
+    <p>担当：筒井一穂</p>
+  </section>
+
+  <!-- 目次 -->
+  <section>
+    <h2>目次</h2>
+    <ul>
+      <li>キューブラー゠ロスと死のプロセス</li>
+      <li>尊厳死</li>
+      <li>安楽死</li>
+          </ul>
+  </section>
+
+  <!-- １ 医療倫理の四原則（章） -->
+    <section>
+      <h2>エリザベス・キューブラー゠ロス（1926-2004）</h2>
+      <ul>
+        <li>エリザベス・キューブラー゠ロス（）</li>
+        <li>リプロダクティブ・ライツ：リプロダクティブ・ヘルスを獲得する、万人に与えられた権利。</li>
+        <ul>
+          <li>リプロダクティブ・ライツの観点から、不妊治療と人工妊娠中絶が主な論点となる</li>
+        </ul>              
+        </ul>
+    </section>
+
+ <section>
+      <h1>2.不妊治療</h1>
+ </section>
+    
+    <section>
+      <h2>2.不妊治療</h2>
+      <p>不妊とは：「避妊をせず⼆年間通常の性⽣活を送っているにもかかわらず、妊娠しないこと」（WHO)</p>
+      <p>主な治療法</p>
+      <ul>
+        <li>タイミング法・排卵誘発法：母の身体に働きかける方法。</li>
+        <li><strong>人工授精</strong>：父もしくは提供者から精子を回収し、母の子宮内に注入する方法。AIHとAIDがある。</li>
+        <li><strong>体外受精</strong>：父もしくは提供者の精子と母もしくは提供者の卵子とを回収し、体外で受精させた胚を母の子宮内に移植する方法。</li>
+        <li><strong>代理出産</strong>：父もしくは提供者の精子と母もしくは提供者の卵子とを回収し、体外で受精させた胚を代理母の子宮に移植する方法。</li>
+        </ul>
+      </section>
+
+    <section>
+      <h3>人工授精</h3>  
+      
+      <ul>
+        <li><strong>AIH</strong>：父から精子を回収し、母の子宮内に注入する方法。</li>
+        <ul>
+          <li>▶️ 倫理的な問題は比較的小さい</li>
+        </ul>
+          <li><strong>AID</strong>：提供者から精子を回収し、母の子宮内に注入する方法。</li>
+        <ul>
+          <li>▶️ 倫理的な問題が比較的<strong>大きい</strong>（社会的父と生物学的父との分離）</li>
+        </ul>
+        </ul>
+
+    </section>
+ <section>
+        <h3>体外受精</h3>
+        <p>父の精子と母の卵子を体外で受精させる場合</p>
+          <ul><li>▶️ 倫理的な問題：生殖という自然な活動に科学・医学的に介入することの是非（試験管ベビー）</li></ul>
+           
+             <p>精子または卵子が提供者のものである場合<p>
+           <ul>
+          <li>▶️ AIDの場合と同様、倫理的な問題がある</li>
+          </ul>
+   
+         </section>
+
+ <section>
+        <h3>代理出産の諸形態</h3>
+        <ul>
+          <li><strong>ホスト–マザー型</strong>：父・母の受精卵 → 代理母が出産</li>
+          <ul><li>▶️ 倫理的な問題：生物学的・社会的親は一致するが、分娩した母が乖離する</li></ul>
+
+          <li><strong>サロゲート–マザー型</strong>：父・代理母の人工授精 → 代理母が出産</li>
+          <ul><li>▶️ 倫理的な問題：生物学的母と社会的母の乖離・分娩した母の乖離</li></ul>
+        </ul>
+
+         </section>
+
+    
+      <!-- 自律性尊重原則 -->
+      <section>
+        <h3>不妊治療の倫理的問題 ① 提供者・代理母の観点から</h3>
+        <ul>
+          <li>精子・卵子提供者：自分の生物学的子を認知できない</li>
+          <ul><li>▶️ 提供時に同意があれば、問題は大きくない</li></ul>
+          <li>代理母：出産した子は生物学的母の子か？　代理母の子か？</li>
+          <ul><li>法的問題：日本の民放では出産した代理母が母親となるため、生物学的母は出産後に養子縁組などを組む必要がある</li>
+            <li>ビジネス化の危険：代理出産契約を金銭を介して行うことは、経済的貧困につけ込んだ「代理出産ビジネス」を生じかねない</li>
+            <li>代理母の心情：提供時に同意があっても、<strong>妊娠・出産を行う以上、簡単には割り切れない</strong>（<a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%93%E3%83%BCM%E4%BA%8B%E4%BB%B6">ベビーM事件</a>）</li>
+        </ul>
+      </section>
+      <section>
+        <h3>不妊治療の倫理的問題 ② 産まれる子どもの観点から</h3>
+        <p>人工授精、体外受精、代理出産は、いずれも<strong>生物学的親と社会的親の乖離</strong>が生じうる</p>
+        <ul>
+          <li>出自を知る権利：「児童は、〔…〕できる限りその親を知り、かつその親によって養育される権利を有する」（国際連合「児童の権利に関する条約」第七条）</li>
+          <li>従来は養子縁組に関して主張されてきたが、精子・卵子提供に関してこの権利を適用できるか？</li>
+            <li>提供者のプライバシーや、情報開示システムの整備、そもそも子どもに（いつ、どのように）教えるべきかなど、課題は多い</li>
+            <li>「⻑い間、親に騙されてきた、裏切られてきたという怒り」「⾃分は何者か、⾃分の半分はどこから来たのだろうという不安感」（⾮配偶者間⼈⼯授精で⽣まれた⼈の⾃助グループ・⻑ 沖 暁⼦『AIDで⽣まれるということ 精⼦提供で⽣まれた ⼦どもたちの声』2014, 178）</li>
+        </ul>
+      </section>
+          <section>
+        <h3>不妊治療の倫理的問題 ③ 制度の運用という観点から</h3>
+        <p><strong>セクシャル・マイノリティ</strong>（同性カップルやアセクシャル）が人工授精や体外受精を利用できるべきか？</p>
+        <ul>
+          <li>生物学的男性同士：代理出産の利用（あるいは体外受精 + 人工子宮の利用, 子宮移植手術など）</li>
+          <li>生物学的女性同士：人工授精や体外受精（精子提供）</li>
+          <li>現在では、「子の福祉」の観点から、婚姻カップルのみに不妊治療が認められる</li>
+          <li>しかし、婚姻カップルの方が子の福祉を守りやすい傾向は現在の価値観や社会構造に基づくにすぎず、その見直しが必要ではないかとの指摘もある。</li>
+        </ul>
+      </section>
+      <!-- 無害原則 -->
+
+<section>
+  <h1>人工妊娠中絶</h1>
+</section>
+<!-- Slide 11: プロ・ライフ派の論証 -->
+
+<section>
+<h2>生殖の自律</h2>
+<ul>
+<li>生殖の自律は、生む権利（生殖補助医療）だけでなく、生まない権利（中絶）にもかかわる</li>
+<li>中絶は本来、望ましくない妊娠・出産を避けるという母体の権利を守るためにある</li>
+<li>だが、<strong>母の権利と胎児の権利が衝突する</strong>ことで、倫理的問題が生じる（と言われる）</li>
+</ul>
+</section>
+
+  <section>
+<h2>日本の法律</h2>
+<ul>
+<li>「堕胎の罪」（1907年～）
+<ul>
+<li>「医師，助産師，薬剤師又は医薬品販売業者が女子の嘱託を受け，又はその承諾を得て堕胎させたときは，三月以上五年以下の懲役に処する．よって女子を死傷させたときは，六月以上七年以下の懲役に処する」（第214条）。</li>
+</ul>
+</li>
+<li>優生保護法（1948）
+<ul>
+<li>中絶を許容する条件を定めた法</li>
+<li>「優生上の見地から不良な子孫の出生を防止するとともに、母性の生命健康を保護することを目的とする」</li>
+</ul>
+</li>
+<li>母体保護法（1996）
+<ul>
+<li>（１）妊娠の継続又は分娩が身体的又は経済的理由により母体の健康を著しく害するおそれのあるもの，</li>
+<li>（２）暴行若しくは脅迫によって又は抵抗若しくは拒絶することができない間に姦淫されて妊娠したもの（第14条）。</li>
+</ul>
+</li>
+</ul>
+</section>
+
+
+<!-- Slide 7: ２ 中絶の現状（続き） -->
+<section>
+<h2>中絶の現状</h2>
+<ul>
+<li>現在は、母体保護法のもと、意思の判断によって中絶が可能</li>
+<li>ただし、「通常妊娠２２週未満」でなければ中絶を実施することはできない</li>
+</ul>
+<p>→ この線引きにも倫理的な問題が含まれる</p>
+<ul>
+<li>胎児に人としての生命を認めるべきか？</li>
+<li>いつから「人になる」と考えるべきか？</li>
+</ul>
+</section>
+<!-- Slide 11: プロ・ライフ派の論証 -->
+<section>
+<h2>中絶をめぐる論争</h2>
+<h3>プロ・ライフ派の論証</h3>
+<ul>
+<li>ローマカトリック教会を代表する中絶反対派の議論</li>
+<li>① 罪のない人間を殺すことは道徳的に不正である</li>
+<li>② 胎児は罪のない人間である</li>
+<li>③ ゆえに、胎児を殺すことは道徳的に不正である</li>
+</ul>
+<p>→ ② 胎児は「人間」なのか？（胎児には道徳的地位があるのか？）</p>
+</section>
+
+
+<!-- Slide 12: 胎児は「人間」か？ -->
+<section>
+<h3>胎児は「人間」か？</h3>
+<ul>
+<li>中絶反対派は、遺伝情報を受け取る受精の瞬間から胎児は人間であると主張</li>
+<li>中絶容認派は、妊娠のある段階から胎児は「人間」になる、と主張</li>
+</ul>
+<p>▶️ どの時点で「人間」になる線引きをするべきなのか？</p>
+</section>
+
+
+<!-- Slide 13: 「人間」はいつ誕生するか？ -->
+<section>
+<h3>「人間」はいつ誕生するか？</h3>
+<ul>
+<li>① 胎動初感</li>
+<li>② 母体外での生存可能性（22~24週）</li>
+<li>③ 誕生</li>
+<li>④ 原子線条の出現（受精後14日）</li>
+</ul>
+</section>
+
+
+<!-- Slide 14: 生育限界の論点 -->
+<section>
+<h3>「人間」はいつ誕生するか？</h3>
+<ul>
+<li>② 母体外での生存可能性はロウ対ウェイド判決でも支持された</li>
+<li>反対派は、受精卵から子どもの誕生に至る過程は連続的であり、胎児と子どもを区別する境界線は存在しないと反論</li>
+<li>母体外での生存可能性は医療の進歩によって変化するため、曖昧</li>
+</ul>
+</section>
+
+
+<!-- Slide 15: 女性の権利 -->
+<section>
+<h3>女性の権利という観点</h3>
+<ul>
+<li>胎児が「人間」であっても、中絶の権利を容認する立場も</li>
+<li>「女性には自分の身体に起こることをコントロールする権利がある」（Thomson, J. J.）</li>
+<li>胎児にはたしかに生命権はあるかもしれない</li>
+<li>だが、その権利は、他人（母親）の身体を利用する権利とは異なる</li>
+<li>母親には、身体の利用を拒む権利がある</li>
+</ul>
+</section>
+
+<section>
+<h2>まとめ</h2>
+  <ul>
+    <li>不妊治療においては、生物学的親と社会的親の乖離が問題となる</li>
+    <li>親の生殖の自律と、子どもの福祉および知る権利、両方を考慮しなければならない</li>
+    <li>中絶においては、母の生殖の自律と子どもの生存権との衝突が問題となる</li>
+    <li>どのような状況で、どのような経緯で妊娠に至ったかを考慮することが必要</li>
+
+    
+  </ul>
+</section>
+  </div> <!-- .slides -->
+</div>   <!-- .reveal -->
+
+<!-- Reveal scripts -->
+<script src="../dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t',
+    transition: 'fade',
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1280,
+    height: 720
+    // plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+  });
+</script>
+</body>
+</html>
