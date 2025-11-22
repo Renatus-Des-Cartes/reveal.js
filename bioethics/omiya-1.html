@@ -1,0 +1,395 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理　第1回 倫理学の基本的な考え方</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <!-- Reveal core -->
+  <link rel="stylesheet" href="../dist/reveal.css">
+
+  <!-- 白背景テーマに変更 -->
+  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
+
+  <!-- 無料フォントのみ（Google Fonts） -->
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
+    rel="stylesheet">
+
+  <style>
+    /* 背景を常に白に固定 */
+    .reveal-viewport {
+      background: #fff !important;
+    }
+    .reveal .backgrounds {
+      background: #fff !important;
+    }
+
+    :root {
+      --c-accent: #1f3c9d; /* ティール系アクセント */
+      --c-ink: #0f172a; /* 文字色 */
+      --c-muted: #344c6d; /* 補助色 */
+      --c-warn: #d97706; /* 注意色 */
+      --c-border: #e5e7eb; /* 枠線 */
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", "BIZ UDGothic", system-ui,
+        -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.5;
+      letter-spacing: 0.01em;
+    }
+
+    .reveal h1,
+    .reveal h2,
+    .reveal h3,
+    .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: 0.02em;
+    }
+
+    .reveal h1 { font-size: 2.1em; }
+    .reveal h2 { font-size: 1.6em; color: var(--c-accent); }
+    .reveal h3 { font-size: 1.25em; }
+    .reveal p,
+    .reveal li { font-size: 0.9em; }
+
+    .reveal strong { color: #d24b4b; }
+    .reveal a { color: #0ea5e9; }
+
+    /* 白背景用のカードデザイン */
+    section.card {
+      background: #fff;
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 28px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+    }
+
+    .muted { color: var(--c-muted); }
+
+    .case {
+      border-left: 6px solid #facc15;
+      background: rgba(250, 204, 21, 0.08);
+      padding: 16px;
+      border-radius: 10px;
+      margin: 14px 0;
+    }
+
+    .practice {
+      background: rgba(148, 163, 184, 0.12);
+      border: 1px dashed rgba(148, 163, 184, 0.7);
+      padding: 18px;
+      border-radius: 12px;
+    }
+
+    .centered {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 18px;
+    }
+
+    @media (max-width: 900px) {
+      .two-col {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.6em;
+      border-radius: 999px;
+      background: rgba(31, 157, 122, 0.14);
+      color: var(--c-accent);
+      font-size: 0.75em;
+    }
+  </style>
+</head>
+
+
+<body>
+<div class="reveal">
+  <div class="slides">
+
+    <!-- タイトル -->
+    <section class="card" data-transition="fade">
+      <h1>生命倫理</h1>
+      <h2>第1回　倫理学の基本的な考え方</h2>
+       
+    </section>
+
+    <!-- アジェンダ -->
+    <section>
+      <h2>流れ</h2>
+      <ul>
+        <li>0 なぜ倫理学を学ぶのか</li>
+        <li>I. 導入：倫理と倫理学の基本</li>
+        <li>II. 倫理理論：義務論と帰結主義</li>
+        <li>III. 他者理解と対話：ナラティブ倫理</li>
+        <li>IV. まとめ</li>
+      </ul>
+    </section>
+    <!-- 0. なぜ倫理について考えるのか（縦スライド） -->
+    <section>
+      <!-- 0-1 ノーラの事例：表紙＋引用 -->
+
+        <h2>0. なぜ倫理学を学ぶのか</h2>
+        <h3>ノーラの事例</h3>
+        <div style="max-height: 360px; overflow-y: auto; padding: 12px; background-color: #e1dddd; text-align: left; border-radius: 6px;">
+  <p><strong>ノーラ</strong>　いえ、そうなの、本当にその通りなのよ。あたしには、そんなことできないわ。それより、もっと、先にしなくちゃならないことがあるのよ。自分を教育しなくちゃ。それを手伝ってもらうなんて、あなたはそういう人じゃないのよ。あたし独りでやらなくちゃならないことね。だから、あなたと別れるのよ。</p>
+  <p><strong>ヘルメル</strong>　（飛び上がって）何を言うんだ？</p>
+  <p><strong>ノーラ</strong>　自分のことや、世の中のことを知ろうというんですもの、それには独りきりにならなくちゃ。だから、もうこれ以上、ここにいるわけにはいかないのよ。</p>
+  <p><strong>ヘルメル</strong>　ノーラ、ノーラ！</p>
+  <p><strong>ノーラ</strong>　すぐに出ていくわ。クリスティーネが今夜は泊めてくれるでしょう</p>
+  <p><strong>ヘルメル</strong>　お前はどうかしてるんだ！そんなことさせるもんか！おれが禁ずる！</p>
+  <p><strong>ノーラ</strong>　いまさら、何を禁じたって無駄よ。自分のものだけ持っていくわ。あなたからは何もいただかないつもりよ、いまだって、これからだって。</p>
+  <p><strong>ヘルメル</strong>　何という気違い沙汰だ！</p>
+  <p><strong>ノーラ</strong>　明日、あたし、家へ行くわ、つまり、元いたあたしの家へ。何をするにも、あそこならしやすいでしょう。</p>
+  <p><strong>ヘルメル</strong>　何というわからずやだ、この世間知らずが！</p>
+  <p><strong>ノーラ</strong>　それがわかるようにしようっていうのよ、トルヴァル。</p>
+  <p><strong>ヘルメル</strong>　家も、夫も、子供も捨てて！世間が何と言うか、お前はお構いなしなんだ。</p>
+  <p><strong>ノーラ</strong>　そんなこと気にしちゃいられないわ。わかっているのは、こうしなくちゃならない、ってことだけよ。</p>
+  <p><strong>ヘルメル</strong>　何というけしからん！お前は自分の、いちばん神聖な義務を放棄するんだぞ。</p>
+  <p><strong>ノーラ</strong>　何があたしのいちばん神聖な義務だ、っておっしゃるの？</p>
+  <p><strong>ヘルメル</strong>　そんなことまで言わなくちゃならないのか！夫と子供たちに対する義務じゃないか？</p>
+  <p><strong>ノーラ</strong>　あたしには、同じように神聖な義務がほかにあるわ。</p>
+  <p><strong>ヘルメル</strong>　そんなものはない。どんな義務だ？</p>
+  <p><strong>ノーラ</strong>　あたし自身に対する義務よ。</p>
+  <p><strong>ヘルメル</strong>　お前は何よりまず妻で、母親だ。</p>
+  <p><strong>ノーラ</strong>　そんなこともう信じないわ。あたしは、何よりもまず人間よ、あなたと同じくらいにね、少なくとも、そうなるように努めようとしているわ。そりゃ世間の人たちは、あなたに賛成するでしょう、トルヴァル、それに、本で言っているのも、そういうことよ。でも、あたしは、もう、世間の人の言うことや、本に書いてあることには信用がおけないの。自分自身でよく考えて、物事をはっきりさせるようにしなくちゃ。</p>
+  <p><strong>ヘルメル</strong>　家庭での自分の位置が、お前にはわかっていないんじゃないのかね？こういう問題に何か確かな手引きはないのか？信仰の道はどうなんだ？</p>
+  <p><strong>ノーラ</strong>　ああ、トルヴァル、信仰って何なんだか、あたしには本当にわからないのよ。<strong>ヘルメル</strong>　何だって！</p>
+  <p><strong>ノーラ</strong>　堅信礼のとき、ハンセン牧師がおっしゃったこと以外、何もわからないのよ。信仰ってこういうものだ、ああいうものだ、っておっしゃったわ。こういうことから抜け出して独りになったら、それもよく考えてみるつもりよ。ハンセン牧師のおっしゃったことが正しいかどうか、少なくとも、あたしにとって正しいかどうかね。</p>
+  <p><strong>ヘルメル</strong>　いや、こんな話は聞いたことがない、若い女が！だが、信仰の道が、お前の手引きにならないなら、良心はどうなんだ。お前にだって道徳心はあるだろう？それともどうだ、それもないのか？</p>
+  <p><strong>ノーラ</strong>　そうね、トルヴァル、うまく言えないわ。どうしてもわからないのよ。そういうことは、何が何だか、それこそ、ごっちゃになっているの。ただ、わかっているのは、あたしの考えが、そういうことでは、あなたとまるきり違うっていうことね。法律も、あたしの思っていたのとは違うのがわかったわ。でも、そんな法律が正しいなんて、あたしにはどうしても納得できないの。女には、死にかけている父親に心配をかけずにすませるとか、夫の命を救う権利がないなんて！そんなことはないはずよ。</p>
+  <p><strong>ヘルメル</strong>　子供みたいなことを言うね。お前には、自分の生きている社会というものがわからないんだ。</p>
+  <p><strong>ノーラ</strong>　ええ、わからないわ。でも、これからはわかるようにするわ。社会とあたしのどちらが正しいか、確かめてみなくちゃね。</p>
+  <p><strong>ヘルメル</strong>　お前は病気だ、ノーラ、熱があるんだ、とても正気とは思えないよ。</p>
+  <p class="caption">イプセン『人形の家』（原千代海訳、岩波文庫、1953）</p>
+</div>
+
+      </section>
+
+      <!-- 0-2 ノーラの行動と対立 -->
+      <section>
+        <h2>ノーラの選択と対立</h2>
+        <ul>
+          <li>夫（ヘルメル・トルヴァル）の「人形」として生きてきたノーラ</li>
+          <li>ノーラは、「こうしなくちゃならない」と確信し、夫も子どもも捨てて家を出る</li>
+          <li>ヘルメルは、信仰・道徳・法律・社会などを根拠に、ノーラを止めようとする</li>
+          <li>ノーラは、「自分自身に対する義務」を理由に、これらの根拠を拒絶する</li>
+        </ul>
+      </section>
+
+      <!-- 0-3 倫理の尺度への導入 -->
+      <section>
+        <h2>「外側の規範」か、「内側の確信」か</h2>
+        <ul>
+          <li>信仰・道徳・法律・社会の尺度では<strong>すべきでない（悪）</strong>とされ得る行為</li>
+          <li>しかしノーラは、それを<strong>すべき（善・正しい）</strong>と確信</li>
+        </ul>
+        <p>ノーラの行為を支えるのは、外側の規範ではなく、<strong>内側の確信＝自分自身への配慮</strong>。</p>
+        <p class="muted">→ 「正しさ」の尺度はひとつではない</p>
+      </section>
+
+      <!-- 0-4 倫理＝数ある尺度のひとつ -->
+      <section>
+        <h2>倫理＝いくつもの「尺度」のひとつ</h2>
+        <ul>
+          <li>宗教的尺度・道徳的尺度・法的尺度・社会的尺度…</li>
+          <li>倫理学のモチベーション：
+            <ul>
+              <li>他の尺度では<strong>Bad</strong>でも、実は<strong>Good</strong>ではないか → 肯定（例：ノーラ、『高瀬舟』的ケース、ダークヒーロー）</li>
+              <li>他の尺度では<strong>Good</strong>でも、実は<strong>Bad</strong>ではないか → 批判（例：ハラスメント、ELSI/RRI、環境破壊）</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 0-5 医療文脈へのブリッジ -->
+      <section>
+        <h2>医療における「尺度」の衝突</h2>
+        <ul>
+          <li>倫理学は、広く受け入れられた「尺度」の抑圧や不備を点検する</li>
+          <li>医療では、<strong>医学的善悪の尺度</strong>と<strong>患者個人の幸不幸の尺度</strong>がしばしば衝突</li>
+          <li>倫理学的観点は、患者に寄りそう対応へのヒントになり、倫理的リスクの回避にも資する</li>
+        </ul>
+      </section>
+    </section>
+    <!-- /0. なぜ倫理… -->
+    <!-- I-1 目標 -->
+    <section>
+      <h2>I. 導入</h2>
+      <h3>本章の目標</h3>
+      <ul>
+        <li class="fragment">倫理 / 倫理学の基本概念を確認</li>
+        <li class="fragment"><span class="badge">理論</span> 帰結主義 / 義務論 / ナラティブ</li>
+      </ul>
+    </section>
+
+    <!-- I-2 倫理と規範 -->
+    <section>
+      <h2>倫理・規範・道徳</h2>
+      <ul>
+        <li>倫理＝ものごとの「よしあし」</li>
+        <li>社会に共有された考え＝<strong>規範（社会規範）</strong></li>
+        <li>合意の強弱：例）「殺人は悪」⇄「安楽死」</li>
+        <li>倫理学＝規範は<strong>なぜ正しいのか／なぜ従うべきか</strong>を探究</li>
+      </ul>
+    </section>
+
+    <!-- I-3 二つの道筋 -->
+    <section>
+      <h2>倫理学の二つの道筋</h2>
+      <div class="two-col">
+        <div>
+          <h3>規範倫理学</h3>
+          <ul>
+            <li>規範そのものの妥当性を論証</li>
+            <li>例：「安楽死は◯◯の根拠で正しい」</li>
+          </ul>
+        </div>
+        <div>
+          <h3>記述倫理学</h3>
+          <ul>
+            <li>規範に関する事実を実証</li>
+            <li>例：「◯◯％が安楽死に賛成」</li>
+          </ul>
+        </div>
+      </div>
+      <p class="muted">看護倫理では<strong>両輪</strong>が不可欠。</p>
+    </section>
+
+    <!-- I-4 強制力を持つもの -->
+    <section>
+      <h2>倫理的判断の基準</h2>
+      <ul>
+        <li><strong>法律</strong>：社会秩序のための強制力（罰則）</li>
+        <li><strong>倫理綱領／ガイドライン</strong>：専門職団体の規則（ソフトロー）</li>
+        <li><strong>慣習的規順</strong>：生命倫理の4原則などの手引き</li>
+      </ul>
+      <p class="fragment">いずれにせよ、<strong>各人の倫理基準への自発的な同意</strong>が必要</p>
+    </section>
+
+<!-- II. 倫理理論（骨格） -->
+<section>
+  <h2>II. 代表的な倫理理論</h2>
+  <ol>
+    <li>帰結主義（Consequentialism）</li>
+    <li>義務論</li>
+  </ol>
+</section>
+
+<!-- A-1 帰結主義：定義と特徴 -->
+<section>
+  <h2>帰結主義（Consequentialism）</h2>
+  <ul>
+    <li>行為の善悪は<strong>結果（consequences）</strong>によって決まる。</li>
+    <li>目的：幸福・利益・安全の総量を最大化（功利主義）</li>
+    <li>ベンサム：快楽／苦痛の<strong>量的比較</strong>（計算可能性）</li>
+    <li>ミル：快楽の<strong>質的差</strong>を考慮（高次の快楽）</li>
+  </ul>
+</section>
+
+<!-- A-2 帰結主義：動機は悪いが結果が善い -->
+<section>
+  <h2>Aさんの例（教科書pp.15–17）</h2>
+  <ul>
+    <li>Aさんの病状を本人に教える　→ Aさんの快楽が減る（うつ状態）</li>
+    <li>▶️ 結果が悪いので、倫理的に悪い</li>
+    <li>Aさんの病状を本人に教える　→ Aさんの快楽が増える（気持ちの整理）</li>
+    <li>▶️ 結果が善いので、倫理的に善い</li>
+  </ul>
+  <p>→ 結果が良ければ、動機にかかわらず「善」とみなされる。</p>
+</section>
+
+<!-- B-1 動機の観点：問題提起 -->
+<section>
+  <h2>動機という観点</h2>
+  <ul>
+    <li>Aさんに病状を教えることは「悪い」行為だったのか？</li>
+    <li>結果は悪くても、<strong>動機が善い</strong>行為を肯定できる場合がある</li>
+    <li>重大な事件を犯した犯人を治療する　→ 本人・遺族の苦痛は増大する</li>
+  </ul>
+  <p></p>
+  <h3>動機の善悪の基準</h3>
+  <ul>
+    <li>なぜこの動機は善いと言えるのか？「動機が善い」とは何を意味するのか？</li>
+    <li>ただ「かわいそうだから」というだけでは、偽善・独善かもしれない。</li>
+  </ul>
+</section>
+
+
+<!-- C-1 義務論：基本原理 -->
+<section>
+  <h2>義務論</h2>
+  <ul>
+    <li>動機の善悪によって行為の善悪を判定する</li>
+    <li>判定基準：<strong>普遍化可能性</strong></li>
+    <li>善い行為＝誰にでも適用できる法として意志できる行為。</li>
+    <li>「普遍化可能な行為のみをする」ことを自分自身の「義務」と考えるから、「義務論」</li>
+  </ul>
+</section>
+
+<!-- C-2 善い動機と悪い動機（対比） -->
+<section>
+  <h3>善い動機</h3>
+  <ul>
+    <li>誰もが自分の病状を知る権利をもつ（<strong>自律</strong>の普遍性）→ Aさんに病状を教える</li>
+    <li>患者は人生の終わり方を選べる（<strong>尊厳</strong>の不変性）→ Aさんに病状を教える</li>
+  </ul>
+  <h3>悪い動機</h3>
+  <ul>
+    <li>Aさんがうつ状態になると医療スタッフの負担が増える → Aさんに病状を教えない</li>
+    <li>Aさんに病状を隠しているのが後ろめたい → Aさんに病状を教える</li>
+    <li>Aさんは病状を知りたがっていなかった → Aさんに経過は良好だと嘘をつく※</li>
+    <p>※義務論の難点：「嘘をついてよい」が普遍化できないため、本人が望んでいても嘘をつくことはできない</p>
+  </ul>
+</section>
+
+    <!-- III ナラティブ倫理 概念 -->
+    <section>
+      <h2>III. ナラティブ倫理</h2>
+      <ul>
+        <li>行為の<strong>文脈</strong>を踏まえて善悪を捉える立場</li>
+        <li>考慮すべきナラティブは、患者・家族・医療者</li>
+        <li>看護師は<strong>アドボカシー</strong>の観点から、複数のナラティブに配慮する必要がある</li>
+      </ul>
+    </section>
+
+    <!-- III ナラティブ倫理 概念 -->
+    <section>
+      <h2>IV. まとめ</h2>
+      <ul>
+        <li>倫理学では、規範の根拠を考える</li>
+        <li>根拠を与える理論としては、帰結主義や義務論がある</li>
+        <li>どういう理論に従うにせよ、倫理的問題を考えるときには、その文脈を考慮する必要がある</li>
+        <li>文脈を考えるための理論として、ナラティブ理論がある</li>
+      </ul>
+    </section>
+    
+<!-- Reveal scripts -->
+<script src="../dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t',
+    transition: 'fade',
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1280,
+    height: 720
+    // plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+  });
+</script>
+</body>
+</html>
