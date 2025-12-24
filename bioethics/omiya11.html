@@ -1,136 +1,403 @@
-
-
 <!doctype html>
 <html lang="ja">
 <head>
   <meta charset="utf-8" />
-  <title>生命倫理　オンデマンド　意思と自己決定</title>
+  <title>生命倫理 第11回 インフォームド・コンセント</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-  <!-- Reveal core -->
-  <link rel="stylesheet" href="../dist/reveal.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/theme/white.min.css" id="theme">
 
-  <!-- 白背景テーマに変更 -->
-  <link rel="stylesheet" href="../dist/theme/white.css" id="theme">
-
-  <!-- 無料フォントのみ（Google Fonts） -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link
-    href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap"
-    rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
-    /* 背景を常に白に固定 */
-    .reveal-viewport {
-      background: #fff !important;
-    }
-    .reveal .backgrounds {
-      background: #fff !important;
-    }
+    /* 基本設定 */
+    .reveal-viewport { background: #fff !important; }
+    .reveal .backgrounds { background: #fff !important; }
 
     :root {
-      --c-accent: #1f3c9d; /* ティール系アクセント */
-      --c-ink: #0f172a; /* 文字色 */
-      --c-muted: #344c6d; /* 補助色 */
-      --c-warn: #d97706; /* 注意色 */
-      --c-border: #e5e7eb; /* 枠線 */
+      --c-accent: #1f3c9d;
+      --c-ink: #0f172a;
+      --c-muted: #475569;
+      --c-warn: #d97706;
+      --c-border: #e2e8f0;
+      --c-bg-card: #ffffff;
     }
 
     .reveal {
-      font-family: "Montserrat", "Noto Sans JP", "BIZ UDGothic", system-ui,
-        -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      color: var(--c-ink);
-      line-height: 1.5;
-      letter-spacing: 0.01em;
-    }
-
-    .reveal h1,
-    .reveal h2,
-    .reveal h3,
-    .reveal h4 {
       font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
-      font-weight: 700;
-      letter-spacing: 0.02em;
+      color: var(--c-ink);
+      line-height: 1.7;
+      letter-spacing: 0.03em;
     }
 
-    .reveal h1 { font-size: 2.1em; }
-    .reveal h2 { font-size: 1.6em; color: var(--c-accent); }
-    .reveal h3 { font-size: 1.25em; }
-    .reveal p,
-    .reveal li { font-size: 0.9em; }
+    .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", sans-serif;
+      font-weight: 700;
+    }
 
-    .reveal strong { color: #d24b4b; }
-    .reveal a { color: #0ea5e9; }
+    .reveal h1 { font-size: 2.4em; margin-bottom: 0.4em; }
+    .reveal h2 { 
+      font-size: 1.6em; 
+      color: var(--c-accent); 
+      border-bottom: 3px solid var(--c-accent); 
+      padding-bottom: 15px; 
+      margin-bottom: 40px; 
+      text-align: left;
+    }
+    .reveal h3 { font-size: 1.2em; color: var(--c-muted); margin-bottom: 10px; }
+    
+    .reveal ul { margin-left: 1.2em; display: block; }
+    .reveal li { margin-bottom: 0.6em; text-align: left; font-size: 0.9em; }
+    .reveal p { text-align: left; font-size: 0.9em; margin-bottom: 0.8em; }
 
-    /* 白背景用のカードデザイン */
+    /* カードデザイン */
     section.card {
-      background: #fff;
+      background: var(--c-bg-card);
       border: 1px solid var(--c-border);
       border-radius: 16px;
-      padding: 28px;
+      padding: 30px;
       box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
-    }
-
-    .muted { color: var(--c-muted); }
-
-    .case {
-      border-left: 6px solid #facc15;
-      background: rgba(250, 204, 21, 0.08);
-      padding: 16px;
-      border-radius: 10px;
-      margin: 14px 0;
-    }
-
-    .practice {
-      background: rgba(148, 163, 184, 0.12);
-      border: 1px dashed rgba(148, 163, 184, 0.7);
-      padding: 18px;
-      border-radius: 12px;
-    }
-
-    .centered {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      text-align: left;
     }
 
     .two-col {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 18px;
-    }
-
-    @media (max-width: 900px) {
-      .two-col {
-        grid-template-columns: 1fr;
-      }
+      gap: 25px;
+      align-items: start;
     }
 
     .badge {
       display: inline-block;
-      padding: 0.2em 0.6em;
-      border-radius: 999px;
-      background: rgba(31, 157, 122, 0.14);
+      padding: 0.2em 0.8em;
+      border-radius: 99em;
+      background: #e0e7ff;
       color: var(--c-accent);
+      font-weight: bold;
       font-size: 0.75em;
+      margin-bottom: 12px;
+      border: 1px solid rgba(31, 60, 157, 0.2);
+    }
+
+    .warn-box {
+      background: #fffbeb;
+      border-left: 5px solid var(--c-warn);
+      padding: 20px;
+      border-radius: 4px;
+      margin-top: 25px;
+      font-size: 0.85em;
+      color: #92400e;
+    }
+
+    /* タイムライン風デザイン */
+    .timeline-item {
+      position: relative;
+      padding-left: 30px;
+      margin-bottom: 25px;
+      border-left: 4px solid #e2e8f0;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -10px;
+      top: 5px;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--c-accent);
+    }
+    .timeline-title {
+      font-weight: bold;
+      color: var(--c-accent);
+      margin-bottom: 5px;
+      font-size: 1.1em;
+    }
+
+    strong {
+      color: #b91c1c;
+      font-weight: 700;
+    }
+
+    .small-text {
+      font-size: 0.8em;
+      color: var(--c-muted);
     }
   </style>
 </head>
 
-<!-- ★ 追加：body と reveal/slides ラッパー -->
 <body>
 <div class="reveal">
   <div class="slides">
 
-  <!-- タイトル -->
-  <section>
-    <h1>生命倫理 第11回</h1>
-    <h2>意思と自己決定</h2>
-    <p>担当：筒井一穂</p>
-  </section>
+    <section>
+        <h3>生命倫理</h3>
+        <h1>第11回 インフォームド・コンセント</h1>
+        <div style="margin-top: 60px; color: var(--c-muted); border-top: 1px solid #cbd5e1; padding-top: 30px; display: inline-block; min-width: 400px;">
+            <p style="text-align: center;">担当：筒井一穂</p>
+            <p style="text-align: center;">教科書pp.34--37</p>
+        </div>
+    </section>
+
+    <section>
+        <h2>ICの定義と歴史的変遷</h2>
+        <div class="card">
+            <div class="timeline-item">
+                <div class="timeline-title">かつての「ムンテラ」 (Mundtherapie)</div>
+                <p>医師が決めた方針を患者に伝え、理解させること。<br>
+                <span class="small-text">「情報を得る権利」はあるが、「自己決定権」までは尊重されていない受動的な概念。</span></p>
+            </div>
+            
+            <div class="timeline-item" style="border-left-color: transparent; margin-bottom: 0;">
+                <div class="timeline-title">インフォームド・コンセント (IC)</div>
+                <p>十分な情報を得て、状況を理解した上で与える「能動的」な同意。<br>
+                <strong>「WMA リスボン宣言」</strong>に謳われる患者の権利（自己決定権・選択の自由）を保障する実践。</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>法的根拠と判例</h2>
+        <div class="two-col">
+            <div class="card">
+                <h4>法律の現状</h4>
+                <p>日本にはICを直接規定した法律はない（医師法23条は指導義務のみ）。<br>
+                しかし、憲法13条の<strong>「人格権」</strong>の一部として認められている。</p>
+            </div>
+            <div class="card" style="background: #fffbeb; border-left: 5px solid #d97706;">
+                <h4>エホバの証人輸血拒否事件 (2000年最高裁)</h4>
+                <p>宗教上の理由で輸血を拒否する明確な意思がある場合、その意思決定権は「人格権」として尊重されなければならないとした判決 。</p>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h2>インフォームド・コンセントの要件</h2>
+        <p>以下の4つが揃って初めて有効となる</p>
+        <div class="card">
+            <div class="two-col">
+                <div>
+                    <ul>
+                        <li>
+                            <strong>1. 同意能力 (Competence)</strong><br>
+                            <span class="small-text">自分の価値観に照らして理性的に判断できること。</span>
+                        </li>
+                        <li>
+                            <strong>2. 十分な説明</strong><br>
+                            <span class="small-text">病名、内容、リスク、<strong>代替案</strong>、何もしない場合の結果など。</span>
+                        </li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>
+                            <strong>3. 理解</strong><br>
+                            <span class="small-text">専門用語を噛み砕くなど、患者が内容を能動的に理解していること。</span>
+                        </li>
+                        <li>
+                            <strong>4. 同意</strong><br>
+                            <span class="small-text">上記1〜3が成り立っている上での同意。</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
-<div style="max-height: 360px; overflow-y: auto; padding: 12px; background-color: #e1dddd; text-align: left; border-radius: 6px;">
-    <p>オランダの精神科医バードワイン・シャボットは， 50 歳の女性から自殺討助 の依頼を受けた。</p><p> この女性は， 生きがいとしていた長男を失恋自殺で失い， そして夫と離婚した後には次男をも悪性腫瘍で失ったことによって， 生きる望みを失い，自殺を決意する。</p><p> しかし，ホームドクターをはじめ数人の医師から自殺幇助の依頼を断られ続け，最後にオランダ自発的安楽死協会の紹介を通じてシャボット医師と知り合った。</p><p> シャボット医師は 2カ月間にわたってこの女性 を説得することを試みたが， 彼女の決心は変わらなかった。</p><p> 結局， 彼女の友人 やホームドクターが見守る中， シャボット医師は彼女に致死量の薬物を手渡し， 彼女はその薬物を飲んで死亡した。</p><p> この事件の裁判では， 一審・ニ審ではシャ ボット医師に無罪が宜告されたが， 最高裁は 1994年，逆転有罪の判決を下す。</p><p> ただし， 刑罰は科されないという「有罪」であった。</p><p>
-この判決は， 結果的にシャボット医師の行為 精神的苦痛を理由とする自殺幇助ー一を「安楽死」と半ば認める形となった。</p><p> つまり， 安楽死の条件から 「死期が迫っている」という条件を除いても構わないという方向 性が開かれた のである。</p>
-  </div>
+    <section>
+        <h2>インフォームド・チョイス (Informed Choice)</h2>
+        <div class="card">
+            <div class="two-col">
+                <div>
+                    <h4>概念の深化</h4>
+                    <p>単に医師の提案に同意（コンセント）するだけでなく、<strong>提示された複数の選択肢から患者自身が選択する</strong>という考え方。</p>
+                    <p class="small-text">伝統的なムンテラや医師法上の指導義務を超え、患者の主体的な決定をより重視する。</p>
+                </div>
+                <div style="border-left: 2px solid #e2e8f0; padding-left: 20px;">
+                    <h4>診療情報の提供等に関する指針 (2003)</h4>
+                    <p>厚労省の指針においても、説明すべき事項として以下が明記されている。</p>
+                    <div class="warn-box" style="margin-top: 10px; color: #b45309; border-color: #f59e0b; background-color: #fffaf0;">
+                        <strong>代替的治療法</strong><br>
+                        主治医の推奨する治療以外に方法がある場合、その内容と利害得失（および費用の違い）を説明しなければならない。
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+ <section>
+        <h2>適用範囲：侵襲性による違い</h2>
+        <p>すべての医療行為に署名が必要なわけではない。</p>
+        <div class="two-col">
+            <div class="card" style="border-left: 5px solid #b91c1c;">
+                <h4>高リスク・高侵襲</h4>
+                <p><strong>（手術、抗がん剤など）</strong></p>
+                <ul>
+                    <li>厳格な説明と同意が必要。</li>
+                    <li>文書による説明と、<strong>同意書へのサイン</strong>が必須。</li>
+                </ul>
+            </div>
+            <div class="card" style="border-left: 5px solid #1f3c9d;">
+                <h4>低リスク・低侵襲</h4>
+                <p><strong>（点滴交換、採血など）</strong></p>
+                <ul>
+                    <li>口頭での簡単な説明でよい。</li>
+                    <li>「お願いします」等の返答や黙示で同意とみなされる 。</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+<section>
+        <h2>インフォームド・コンセントができないとき</h2>
+        <div class="card">
+            <p>患者に十分な同意能力がない場合、主に以下の3つの方法で意思決定を図る。</p>
+            <ul>
+                <li style="margin-bottom: 20px;">
+                    <strong>1. インフォームド・アセント (Informed Assent)</strong><br>
+                    <span class="small-text">判断能力が不十分な患者（小児等）から得る、治療に対する「賛意」。</span>
+                </li>
+                <li style="margin-bottom: 20px;">
+                    <strong>2. リヴィング・ウィル (Living Will) / 事前指示</strong><br>
+                    <span class="small-text">判断能力を失う前に、将来の医療行為への希望や拒否をあらかじめ示しておくこと。</span>
+                </li>
+                <li>
+                    <strong>3. 代諾 (Surrogate Consent)</strong><br>
+                    <span class="small-text">本人の意思が確認できない場合に、家族や代理人が代わりに同意を与えること。</span>
+                </li>
+            </ul>
+        </div>
+    </section>
+  
+<section>
+        <h2>判断能力が低い・低下した場合</h2>
+        <div class="card">
+            <h4>判断能力が低下している場合</h4>
+            <p>対象：小児患者、認知症患者、事故などで知的能力が低下した人など。</p>
+            
+            <div class="timeline-item" style="border-left-color: var(--c-accent); margin-top: 25px;">
+                <div class="timeline-title">インフォームド・アセント (Informed Assent)</div>
+                <p>完全な同意能力がなくても、その人の状態に合わせて分かりやすい説明を行い、治療について<strong>「一定の同意（賛意）」</strong>を得ること。</p>
+                
+                <div style="background: #f1f5f9; padding: 15px; border-radius: 8px; margin-top: 10px;">
+                    <p class="small-text" style="margin-bottom: 0;">
+                        <strong>具体例：</strong><br>
+                        単にうなずく、「うん」と答えるだけでもよい。<br>
+                        本人の意向を全く確認しない場合と比べ、権利を尊重する姿勢が重要である。
+                    </p>
+                </div>
+            </div>
+
+            <hr style="border: none; border-top: 1px dashed #cbd5e1; margin: 20px 0;">
+
+            <div class="timeline-item" style="border-left-color: #059669; margin-bottom: 0;">
+                <div class="timeline-title" style="color: #059669;">未成年者の「ギリック能力」</div>
+                <p>十分な理解力と知能を持つ未成年者は、<strong>親の同意なしに医療に同意できる権利</strong>を持つとする考え方（英国判例由来）。</p>
+                <p class="small-text" style="color: var(--c-muted); margin-bottom: 0;">
+                    ※ただし、未成年者が治療を「拒否」した場合は、最善の利益（生命保護）の観点から、その決定が覆されることがある。
+                </p>
+            </div>
+        </div>
+    </section>
+
+<section>
+        <h2>判断能力を失った・もたない場合</h2>
+        <div class="two-col">
+            <div class="card">
+                <h4>1. 事前指示 (Living Will)</h4>
+                <div class="badge" style="background: #dbeafe; color: #1e40af;">対象：もともと判断能力があった人</div>
+                <p>判断能力を失う前に、将来の医療行為への意向（拒否や希望）を前もって示しておくこと。</p>
+                <ul>
+                    <li>心肺蘇生や人工呼吸器の要否</li>
+                    <li>代理人の指定</li>
+                </ul>
+            </div>
+            <div class="card" style="background: #f8fafc;">
+                <h4>2. 代諾 (Surrogate Decision)</h4>
+                <div class="badge" style="background: #fee2e2; color: #991b1b;">対象：以下のようなケース</div>
+                <ul style="font-size: 0.85em; margin-bottom: 15px;">
+                    <li><strong>意思不明：</strong>もともと判断能力があったが、事前指示がない人。</li>
+                    <li><strong>能力欠如：</strong>もともと判断能力がない人（乳幼児、重度の知的障がいなど）。</li>
+                </ul>
+                <hr>
+                <p class="small-text">家族などが代わりに決定する。</p>
+            </div>
+        </div>
+    </section>
+
+
+<section>
+        <h2>代諾における2つの基準</h2>
+        <div class="card">
+            <div class="timeline-item">
+                <div class="timeline-title">① 代行判断基準 (Substituted Judgment)</div>
+                <p>「もし同意能力があったら、本人はどう決定したか」を推測する。<br>
+                患者の価値観をよく知る者が、<strong>本人の主観的意向を反映</strong>させる。</p>
+                <p class="small-text" style="color: var(--c-muted); margin-top: 10px;">
+                    ※本人に「状況を理解できる判断能力があったこと」が前提となる。
+                </p>
+            </div>
+            
+            <div class="timeline-item" style="border-left-color: transparent; margin-bottom: 0;">
+                <div class="timeline-title">② 最善の利益基準 (Best Interest)</div>
+                <p>理性的な人であれば選択するであろう「客観的な最善の利益」を選ぶ。<br>
+                「あの人らしくない」といった<strong>個別的な選好は考慮しない</strong>。</p>
+                <p class="small-text" style="color: var(--c-muted); margin-top: 10px;">
+                    ※かつて判断能力を持ったことがない主体（乳幼児など）には、代行判断が不可能なため、必然的にこの基準が適用される。
+                </p>
+            </div>
+        </div>
+    </section>
+
+    
+   <section>
+        <h2>事例：川崎・聖マリアンナ医科大事件</h2>
+        <div class="card">
+            <div class="badge" style="background: #fee2e2; color: #991b1b;">1985年 川崎市（10歳男児）</div>
+            
+            <div class="two-col" style="margin-top: 15px;">
+                <div>
+                    <h4>事件の概要</h4>
+                    <p>交通事故で搬送された10歳の男児に対し、両親が信仰（エホバの証人）を理由に輸血を拒否。<br>
+                    医師団は両親の意向を尊重し、輸血を行わずに手術したが、男児は出血性ショックで死亡した。</p>
+                </div>
+                <div style="border-left: 2px solid #e2e8f0; padding-left: 20px;">
+                    <h4>倫理的な対立点</h4>
+                    <ul>
+                        <li><strong>親の立場：</strong><br>
+                        信仰に基づく「代行判断」（または親権の行使）。</li>
+                        <li><strong>倫理的評価：</strong><br>
+                        子ども自身には宗教的判断能力が未熟であったため、<strong>「最善の利益基準（救命）」</strong>を優先し、輸血を行うべきだった。</li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="warn-box" style="margin-top: 20px;">
+                <strong>その後の影響</strong><br>
+                この事件などの教訓から、現在では「親が拒否しても、救命のために輸血を行う方針をとる医療機関が増えている（特に15歳未満などの未成年者に対して）。
+            </div>
+        </div>
+    </section>
+
+
+</div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t', 
+    transition: 'fade', 
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1200, 
+    height: 700,
+    margin: 0.1,
+    minScale: 0.2,
+    maxScale: 2.0
+  });
+</script>
+</body>
+</html>
