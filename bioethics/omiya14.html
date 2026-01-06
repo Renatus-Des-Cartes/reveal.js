@@ -1,1 +1,175 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理 試験範囲まとめ</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/theme/white.min.css" id="theme">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* 基本設定 */
+    .reveal-viewport { background: #fff !important; }
+    .reveal .backgrounds { background: #fff !important; }
+
+    :root {
+      --c-accent: #1f3c9d;
+      --c-ink: #0f172a;
+      --c-muted: #475569;
+      --c-warn: #d97706;
+      --c-border: #e2e8f0;
+      --c-bg-card: #ffffff;
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.7;
+      letter-spacing: 0.03em;
+    }
+
+    .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", sans-serif;
+      font-weight: 700;
+    }
+
+    .reveal h1 { font-size: 2.4em; margin-bottom: 0.4em; }
+    .reveal h2 { 
+      font-size: 1.6em; 
+      color: var(--c-accent); 
+      border-bottom: 3px solid var(--c-accent); 
+      padding-bottom: 15px; 
+      margin-bottom: 40px; 
+      text-align: left;
+    }
+    .reveal h3 { font-size: 1.2em; color: var(--c-muted); margin-bottom: 10px; }
+    
+    .reveal ul { margin-left: 1.2em; display: block; }
+    .reveal li { margin-bottom: 0.6em; text-align: left; font-size: 0.9em; }
+    .reveal p { text-align: left; font-size: 0.9em; margin-bottom: 0.8em; }
+
+    /* カードデザイン */
+    section.card {
+      background: var(--c-bg-card);
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+      text-align: left;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 25px;
+      align-items: start;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.8em;
+      border-radius: 99em;
+      background: #e0e7ff;
+      color: var(--c-accent);
+      font-weight: bold;
+      font-size: 0.75em;
+      margin-bottom: 12px;
+      border: 1px solid rgba(31, 60, 157, 0.2);
+    }
+
+    .warn-box {
+      background: #fffbeb;
+      border-left: 5px solid var(--c-warn);
+      padding: 20px;
+      border-radius: 4px;
+      margin-top: 25px;
+      font-size: 0.85em;
+      color: #92400e;
+    }
+
+    /* タイムライン風デザイン（新規追加） */
+    .timeline-item {
+      position: relative;
+      padding-left: 30px;
+      margin-bottom: 25px;
+      border-left: 4px solid #e2e8f0;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -10px;
+      top: 5px;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--c-accent);
+    }
+    .timeline-title {
+      font-weight: bold;
+      color: var(--c-accent);
+      margin-bottom: 5px;
+      font-size: 1.1em;
+    }
+
+    strong {
+      color: #b91c1c;
+      font-weight: 700;
+    }
+
+    .small-text {
+      font-size: 0.8em;
+      color: var(--c-muted);
+    }
+  </style>
+</head>
+
+<body>
+<div class="reveal">
+  <div class="slides">
+
+    <section>
+      <h3>生命倫理</h3>
+      <h1>試験範囲まとめ</h1>
+      <div style="margin-top: 60px; color: var(--c-muted); border-top: 1px solid #cbd5e1; padding-top: 30px; display: inline-block; min-width: 400px;">
+        <p style="text-align: center;">教科書 pp.10–87</p>
+              </div>
+    </section>
+
+    <section>
+<ul>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya01.html">第1回　倫理学の基本的な考え方：義務論，帰結主義，ナラティブ</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya03.html">第3回　患者の権利とパターナリズム：自己決定権，自律性，パターナリズム</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya05.html">第5回　医療倫理の四原則：アメリカの四原則，ヨーロッパの四原則，原則の特定化</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya07.html">第7回 生殖の倫理①：リプロダクティブ・ライツ，不妊治療</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya08.html">第8回　生殖の倫理②：人工妊娠中絶</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya09.html">第9回 安楽死・尊厳死：死のプロセス，PAS</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya10.html">第10回 脳死臓器移植：死の定義と判定法，同意の形式，家族</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya11.html">第11回 インフォームド・コンセント</a></li>
+    <li><a href="https://renatus-des-cartes.github.io/reveal.js/bioethics/omiya12.html">第12回　遺伝子医療：ゲノム編集，遺伝子検査，カルタヘナ法</a></li>
+</ul>
+    </section>
+
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t', // 現在/合計枚数
+    transition: 'fade', // フェード切り替え
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1200, // ワイド画面対応
+    height: 700,
+    margin: 0.1,
+    minScale: 0.2,
+    maxScale: 2.0
+  });
+</script>
+</body>
+</html>
