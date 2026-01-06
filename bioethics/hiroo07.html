@@ -1,0 +1,496 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <title>生命倫理 遺伝子医療</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/theme/white.min.css" id="theme">
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700&family=Noto+Sans+JP:wght@400;700&display=swap" rel="stylesheet">
+
+  <style>
+    /* 基本設定 */
+    .reveal-viewport { background: #fff !important; }
+    .reveal .backgrounds { background: #fff !important; }
+
+    :root {
+      --c-accent: #1f3c9d;
+      --c-ink: #0f172a;
+      --c-muted: #475569;
+      --c-warn: #d97706;
+      --c-border: #e2e8f0;
+      --c-bg-card: #ffffff;
+    }
+
+    .reveal {
+      font-family: "Montserrat", "Noto Sans JP", system-ui, sans-serif;
+      color: var(--c-ink);
+      line-height: 1.7;
+      letter-spacing: 0.03em;
+    }
+
+    .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+      font-family: "Montserrat", "Noto Sans JP", sans-serif;
+      font-weight: 700;
+    }
+
+    .reveal h1 { font-size: 2.4em; margin-bottom: 0.4em; }
+    .reveal h2 { 
+      font-size: 1.6em; 
+      color: var(--c-accent); 
+      border-bottom: 3px solid var(--c-accent); 
+      padding-bottom: 15px; 
+      margin-bottom: 40px; 
+      text-align: left;
+    }
+    .reveal h3 { font-size: 1.2em; color: var(--c-muted); margin-bottom: 10px; }
+    
+    .reveal ul { margin-left: 1.2em; display: block; }
+    .reveal li { margin-bottom: 0.6em; text-align: left; font-size: 0.9em; }
+    .reveal p { text-align: left; font-size: 0.9em; margin-bottom: 0.8em; }
+
+    /* カードデザイン */
+    section.card {
+      background: var(--c-bg-card);
+      border: 1px solid var(--c-border);
+      border-radius: 16px;
+      padding: 30px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+      text-align: left;
+    }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 25px;
+      align-items: start;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.2em 0.8em;
+      border-radius: 99em;
+      background: #e0e7ff;
+      color: var(--c-accent);
+      font-weight: bold;
+      font-size: 0.75em;
+      margin-bottom: 12px;
+      border: 1px solid rgba(31, 60, 157, 0.2);
+    }
+
+    .warn-box {
+      background: #fffbeb;
+      border-left: 5px solid var(--c-warn);
+      padding: 20px;
+      border-radius: 4px;
+      margin-top: 25px;
+      font-size: 0.85em;
+      color: #92400e;
+    }
+
+    /* タイムライン風デザイン（新規追加） */
+    .timeline-item {
+      position: relative;
+      padding-left: 30px;
+      margin-bottom: 25px;
+      border-left: 4px solid #e2e8f0;
+    }
+    .timeline-item::before {
+      content: '';
+      position: absolute;
+      left: -10px;
+      top: 5px;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: var(--c-accent);
+    }
+    .timeline-title {
+      font-weight: bold;
+      color: var(--c-accent);
+      margin-bottom: 5px;
+      font-size: 1.1em;
+    }
+
+    strong {
+      color: #b91c1c;
+      font-weight: 700;
+    }
+
+    .small-text {
+      font-size: 0.8em;
+      color: var(--c-muted);
+    }
+  </style>
+</head>
+
+<body>
+<div class="reveal">
+  <div class="slides">
+
+    <section>
+      <h3>生命倫理</h3>
+      <h1>先端医療と遺伝子</h1>
+      <div style="margin-top: 60px; color: var(--c-muted); border-top: 1px solid #cbd5e1; padding-top: 30px; display: inline-block; min-width: 400px;">
+        <p style="text-align: center;">教科書 pp.82–87</p>
+        <p style="text-align: center;">第5章 先端医療と制度をめぐる生命倫理</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>科学的解明の歩み</h2>
+      <p>「遺伝子とは何か」が解明されるまで</p>
+      <div class="card" style="background: #f8fafc;">
+        <ul>
+          <li>
+            <strong>1865年：メンデルの法則発見</strong>
+            <br><span class="small-text">「親の特徴が子に伝わる（遺伝）」という現象に法則があることを発見。</span>
+          </li>
+          <li style="margin-top: 20px;">
+            <strong>1950〜60年代：DNA構造の解明</strong>
+            <br><span class="small-text">遺伝子の正体が細胞核内のDNA（二重らせん構造）であることを解明。<br>「4種類の塩基配列がタンパク質の設計図になっている」ことが判明した。</span>
+          </li>
+          <li style="margin-top: 20px;">
+            <strong>2003年：ヒトゲノム計画完了</strong>
+            <br><span class="small-text">国際プロジェクトにより、人間の全遺伝情報（ヒトゲノム）の解読が完了。<br>「人間の設計図」の全体像が明らかになった。</span>
+          </li>
+        </ul>
+      </div>
+    </section>
+<section>
+      <h2>1. 誕生と試練 (1990年代〜)</h2>
+      <p>ウイルスベクター法による初期の挑戦</p>
+      
+      <div class="card" style="margin-bottom: 25px;">
+        <h4>1990年：世界初の遺伝子治療</h4>
+        <ul>
+          <li><strong>対象：ADA欠損症</strong>（重症複合免疫不全症）<br>
+          <span class="small-text">生まれつき免疫が働かず、重篤な感染症にかかる難病。</span></li>
+         
+        </ul>
+      </div>
+
+      <div class="card" style="background: #fff7ed;">
+        <h4>手法と課題：ウイルスベクター法</h4>
+        <p>ウイルスを「運び屋」として細胞に感染させる手法。</p>
+        <div class="warn-box" style="margin-top: 10px;">
+          <strong>当時のリスク（死亡事故も発生）</strong>
+          <ul>
+            <li>意図しない場所への組み込みによる<strong>発がん性</strong></li>
+            <li>ウイルス自体に対する<strong>激しい免疫反応</strong></li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+<section>
+      <h2>2. 技術の革新 (2013年〜)</h2>
+      <p>遺伝子編集技術「CRISPR/Cas9」の登場</p>
+      
+      <div class="card" style="margin-bottom: 25px;">
+        <div style="background: #f1f5f9; padding: 15px; border-radius: 8px; font-size: 0.9em; margin-bottom: 15px;">
+           <span class="badge" style="background:#1f3c9d; color:#fff; border:none;">技術の特徴</span>
+           <br>DNAの狙った部分をハサミのように正確に<strong>切断</strong>し、別の配列と<strong>置き換える（編集する）</strong>ことができる技術。
+        </div>
+        <ul>
+          <li><strong>ベクター法との違い：</strong><br>ウイルスを使わず、ピンポイントで修正できるため、発がんリスクなどが劇的に低減した。</li>
+        </ul>
+        <p style="margin-top: 15px;">
+          <a href="https://youtu.be/O8QVtsbHE7s?si=BCt3Lp-43FByicay" target="_blank" style="font-size: 0.9em; display: inline-flex; align-items: center; gap: 5px; color: #d97706; font-weight: bold;">
+            ▶ 参考動画：CRISPR/Cas9の仕組み
+          </a>
+        </p>
+      </div>
+
+      <div class="card" style="background: #f0fdf4; border-color: #bbf7d0;">
+        <h4>期待される効果</h4>
+        <p>従来は治療が難しかった遺伝性疾患の根治が現実味を帯びてきた。</p>
+        <ul>
+          <li>より安全で確実な治療法の確立</li>
+          <li>難病治療への応用</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>3. 対象の拡大と未来</h2>
+      <p>対象疾患の広がりとオーダーメイド医療</p>
+      
+      <div class="card" style="margin-bottom: 25px;">
+        <h4>対象疾患の拡大</h4>
+        <p>遺伝子医療の対象は、単一の遺伝子が原因の病気から、より身近な多因子疾患（がん、糖尿病、認知症など）へと広がっている。</p>
+      
+      </div>
+
+      <div class="card" style="background: #f0f9ff;">
+        <h4>オーダーメイド医療（個別化医療）</h4>
+        <p>画一的な治療から、個人の遺伝情報（体質・リスク）に基づいた医療へ。</p>
+        <hr>
+        <ul>
+          <li><strong>予防：</strong>なりやすい病気を予測し、生活習慣のアドバイスを行う。</li>
+          <li><strong>治療：</strong>その人の遺伝子タイプに効きやすい薬や治療法を選択する。</li>
+        </ul>
+      </div>
+    </section>
+<section>
+      <h2>遺伝子診断と「知る権利」</h2>
+      <div class="card">
+        <span class="badge">事例：ハンチントン病</span>
+        <div class="two-col" style="margin-top:10px;">
+          <div>
+            <h4>病気の特徴</h4>
+            <ul>
+              <li><strong>優性遺伝・単一遺伝子疾患</strong><br>親から原因遺伝子を受け継げば、将来必ず発症する。</li>
+              <li><strong>症状と経過</strong><br>重い運動障害と精神症状が現れ、最終的に死に至る。</li>
+              <li><strong>現状</strong><br>有効な治療法は未確立。</li>
+            </ul>
+            <p style="margin-top: 15px;">
+              <a href="https://youtu.be/pNgy5AM3ae4?si=t6O2Z8kHfT1kL1RH" target="_blank" style="font-size: 0.9em; display: inline-flex; align-items: center; gap: 5px; color: #d97706; font-weight: bold;">
+                ▶ 参考動画：ハンチントン病について
+              </a>
+            </p>
+          </div>
+          <div style="border-left: 2px solid #e2e8f0; padding-left: 20px;">
+            <h4>倫理的ジレンマ</h4>
+            <p>1993年に原因遺伝子が特定され、発症前の<strong>確実な診断</strong>が可能になった。</p>
+            <div class="warn-box" style="margin-top:10px;">
+              <strong>治療法がないのに、診断だけできる</strong>
+              <br>→ 知って備える権利 vs 知らずに希望を持って生きる権利
+              <br>→ いつ発症するか怯える「アット・リスク」の状態
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>遺伝カウンセリング</h2>
+      <p>複雑な情報の整理と意思決定を支える</p>
+      <div class="card">
+        <div class="two-col">
+          <div>
+            <h4>目的と役割</h4>
+            <p>遺伝子医療は、本人だけでなく血縁者全体に関わる問題（結婚・出産など）を含む。</p>
+            <ul>
+              <li>専門家による正確な情報の提供。</li>
+              <li>クライエントの自律的な意思決定（自己決定）の支援。</li>
+              <li>看護職が認定遺伝カウンセラーとして活躍するケースも増えている。</li>
+            </ul>
+          </div>
+          <div style="background: #f1f5f9; padding: 20px; border-radius: 8px;">
+            <h4>対象となる人々</h4>
+            <ul class="small-text">
+              <li><strong>① 患者</strong><br>実際に発病している人。</li>
+              <li><strong>② 保因者</strong><br>発病はしていないが、原因遺伝子を持っている人。</li>
+              <li><strong>③ アット・リスク (At Risk)</strong><br>血縁者に患者がおり、自身も原因遺伝子を受け継いでいる可能性があるが、確定していない人。</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>予防的医療の是非</h2>
+      <div class="card">
+        <span class="badge">アンジェリーナ・ジョリーの事例 (2013)</span>
+        <div class="two-col" style="margin-top:15px;">
+          <div>
+            <ul>
+              <li><strong>背景：</strong>遺伝子検査でBRCA1遺伝子変異が判明。乳がん発症リスクが約60%（通常12%）と診断される。</li>
+              <li><strong>決断：</strong>がん未発症の段階で、予防的に両乳房を切除。</li>
+            </ul>
+          </div>
+          <div style="border-left: 2px solid #e2e8f0; padding-left: 20px;">
+            <p><strong>論点：</strong><br>病気ではない「健康な体」にメスを入れることは妥当か？<br>
+            <span class="small-text">→ 本人の自律的な意思決定（オートノミー）として評価する声も多い。</span></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>遺伝情報と差別</h2>
+      <p>「究極の個人情報」をどう守るか</p>
+      <div class="two-col">
+        <div class="card">
+          <h4>🇺🇸 アメリカの対応</h4>
+          <span class="badge">遺伝情報差別禁止法 (2008)</span>
+          <p>雇用や保険加入の際に、遺伝情報の提供を求めること自体を原則禁止。<br>リスクに基づく保険料の変更や不採用を禁じた。</p>
+        </div>
+        <div class="card">
+          <h4>🇯🇵 日本の現状</h4>
+          <p>現時点では包括的な法規制はない。<br>就職や民間保険において、遺伝情報による差別をどう防ぐかが課題となっている。</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>遺伝子改変の是非</h2>
+      <p>CRISPR/Cas9など、遺伝子編集技術の進展が生む問い</p>
+      <div class="two-col">
+        <div class="card">
+          <h4>治療以外の目的への利用</h4>
+          <p>医療の枠を超えた利用への懸念。</p>
+          <ul>
+            <li><strong>エンハンスメント (Enhancement)</strong><br>通常以上の能力を持つ人間を作り出すこと。</li>
+            <li><strong>デザイナー・ベビー</strong><br>親が思い描く特徴を備えた子供を産ませること。</li>
+          </ul>
+        </div>
+        <div class="card" style="background: #f8fafc;">
+          <h4>環境への影響</h4>
+          <p>人間以外への応用（食料生産の効率化・病害虫駆除など）が可能。</p>
+          <hr>
+          <ul>
+            <li><strong>生態系への影響</strong><br>地球規模で生物多様性に大きな影響を与えるリスクが指摘されている。</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>出生前診断と生殖系列</h2>
+      <p>「誰のための治療か」という根本的な問い</p>
+      <div class="card">
+        <div class="two-col">
+          <div>
+            <h4>出生前診断の現状</h4>
+            <p>障害や疾患が見つかった場合、多くは<strong>人工妊娠中絶</strong>（産まない選択）につながっている。<br><span class="small-text">→ これは胎児にとっての治療ではない。</span></p>
+          </div>
+          <div>
+            <h4>生殖系列の遺伝子治療</h4>
+            <p>胎児の段階で遺伝子を改変できれば「治療」になりうるが…</p>
+          </div>
+        </div>
+        <div class="warn-box">
+          <strong>生殖系列（受精卵・精子・卵子）への介入問題</strong><br>
+          改変された遺伝子は、その個体だけでなく<strong>子孫に永久に受け継がれる</strong>。
+          <br>
+          <ul>
+            <li><strong>国際的合意：</strong>安全性が確立されるまで行うべきではない。</li>
+            <li><strong>日本の指針：</strong>生殖細胞の遺伝子改変は禁止。</li>
+            <li><strong>事例：</strong>2015年、中国でヒト受精卵への遺伝子編集実験が行われ、世界的な議論となった。</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>究極の個人情報としての課題</h2>
+      <div class="card">
+        <p>遺伝情報は、生涯変わることのない「生物学的な設計図」。</p>
+        <ul>
+          <li><strong>変更不可能：</strong>パスワードのように漏洩しても変更できない。</li>
+          <li><strong>予見性：</strong>将来の病気、体質、あるいは性格傾向まで予測される恐れ。</li>
+          <li><strong>社会的な影響：</strong>犯罪予防目的での利用など、予期せぬ目的で利用されるリスク。</li>
+        </ul>
+        <br>
+        <p class="small-text">厳重な保護とともに、利用目的の社会的合意が必要とされる。</p>
+      </div>
+    </section>
+
+    <section class="slide">
+        <div class="slide-content">
+            <h2>生物多様性とカルタヘナ法</h2>
+            <div class="text-body">
+                <p><strong>目的：</strong>遺伝子組換え生物等の使用を規制し、食品安全ではなく<strong>「生物多様性（生態系）」</strong>を守ること。</p>
+                
+                <div class="box-container">
+                    <div class="box type1">
+                        <h3>第一種使用（開放系）</h3>
+                        <ul>
+                            <li><strong>野外・環境中</strong>で使用するもの</li>
+                            <li>事前審査：生物多様性影響評価</li>
+                            <li>例：輸入トウモロコシ、青いバラ</li>
+                        </ul>
+                    </div>
+                    <div class="box type2">
+                        <h3>第二種使用（閉鎖系）</h3>
+                        <ul>
+                            <li><strong>施設内</strong>に封じ込めて使用するもの</li>
+                            <li><strong>拡散防止措置</strong>が必須</li>
+                            <li>外部へ逃がさない設備・ルール</li>
+                            <li>例：実験室のマウス、工場の微生物</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+              </div>
+    </section>
+
+    <section class="slide">
+        <div class="slide-content">
+            <h2>倫理的問題と現実のリスク</h2>
+            <div class="text-body">
+                <ul>
+                    <li><strong>環境倫理（不可逆性）：</strong>一度拡散した遺伝子は回収不可能（遺伝子汚染）。</li>
+                    <li><strong>予防原則：</strong>科学的に不確実でも、深刻な被害の恐れがあれば規制する。</li>
+                    <li><strong>自然への介入：</strong>「種の壁」を越えることへの是非（Playing God）。</li>
+                </ul>
+
+                <div class="alert-box">
+                    ⚠️ 警告事例：光るメダカ事件（2023年摘発）<br>
+                    <ul>
+                        <li>研究用の遺伝子組換えメダカ（赤色蛍光）が不正に持ち出され拡散。</li>
+                        <li>一部は河川へ放流され、生態系破壊の危機に直結。</li>
+                        <li>カルタヘナ法違反で初の逮捕者が出た。</li>
+                    </ul>
+                </div>
+            </div>
+            
+        </div>
+    </section>
+
+<section class="slide">
+        <div class="slide-content">
+            <h2>カルタヘナ法とゲノム編集</h2>
+            <div class="text-body">
+                <p>カルタヘナ法は「生物に<strong>外来遺伝子が導入されているか</strong>」で規制対象を決める。<br>この古い定義が、最新技術に対応できていない現状。</p>
+
+                <div class="box-container">
+                    <div class="box gm">
+                        <ul>
+                            <li><strong>遺伝子組換え</strong>：外から遺伝子を足す</li>
+                            <li>▶️ 外来DNAが残るため、<strong>「規制対象」</strong></li>
+                        </ul>
+                    </div>
+                    <div class="box ge">
+                        
+                        <ul>
+                            <li><strong>ゲノム編集 (SDN-1)</strong>：CRISPR/Cas9を用いて遺伝子を切る</li>
+                            <li>▶️ 外来DNAが残らないため、<strong>「規制対象外」</strong></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="alert-box" style="margin-top:20px; border-color:#e74c3c; color:#c0392b; background-color:#fadbd8;">
+                    
+                    遺伝子を操作していても「外来遺伝子」が検出できないため、法律の定義上規制できない（法の網から漏れる）
+                </div>
+            </div>
+          
+        </div>
+    </section>
+
+  </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.5.0/reveal.min.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: 'c/t', // 現在/合計枚数
+    transition: 'fade', // フェード切り替え
+    backgroundTransition: 'fade',
+    center: true,
+    width: 1200, // ワイド画面対応
+    height: 700,
+    margin: 0.1,
+    minScale: 0.2,
+    maxScale: 2.0
+  });
+</script>
+</body>
+</html>
